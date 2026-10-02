@@ -2,7 +2,15 @@
 
 Programma locale (Python 3, nessuna API, nessuna dipendenza obbligatoria) che legge articoli e altre fonti ed estrae le citazioni utili per costruire un pezzo nello stile di *Página Internacional*.
 
-## Uso
+## Uso rapido su Windows (senza Terminale)
+
+1. Installa Python da https://www.python.org/downloads/ (una volta sola) e, durante l'installazione, spunta **«Add Python to PATH»**.
+2. Metti `citazioni.py` ed `Estrai_citazioni.bat` nella stessa cartella.
+3. **Trascina uno o più PDF/file sull'icona `Estrai_citazioni.bat`**, oppure fai doppio clic sull'icona e incolla un link.
+4. Scrivi le parole chiave della storia e premi Invio.
+5. Il risultato si apre nel Blocco note e resta salvato nella cartella `risultati` (`.md` e `.csv` per Excel).
+
+## Uso da terminale
 
 ```bash
 python3 citazioni.py FONTI... -t "parole chiave della storia" [opzioni]
