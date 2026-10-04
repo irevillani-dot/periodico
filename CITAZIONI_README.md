@@ -2,7 +2,15 @@
 
 Programma locale (Python 3, nessuna API, nessuna dipendenza obbligatoria) che legge articoli e altre fonti ed estrae le citazioni utili per costruire un pezzo nello stile di *Página Internacional*.
 
-## Uso rapido su Windows (senza Terminale)
+## Il modo più semplice: senza installare niente
+
+1. Scarica `estrai_citazioni.html` e fai doppio clic: si apre nel browser (Chrome, Edge, Firefox).
+2. Trascina i PDF nel riquadro, oppure incolla il testo di un articolo.
+3. Scrivi le parole chiave e clicca **Estrai citazioni**. «Scarica per Excel» salva il risultato.
+
+I file restano sul computer e non vengono caricati da nessuna parte. Serve internet solo per caricare il lettore PDF del browser; i testi incollati funzionano anche offline.
+
+## Uso rapido su Windows con Python (senza Terminale)
 
 1. Installa Python da https://www.python.org/downloads/ (una volta sola) e, durante l'installazione, spunta **«Add Python to PATH»**.
 2. Metti `citazioni.py` ed `Estrai_citazioni.bat` nella stessa cartella.
