@@ -1,10 +1,10 @@
-# Computación cuántica: miles de millones por una máquina que todavía no funciona
+# Computación cuántica: «No se compra un negocio, se compra una probabilidad»
 
-*Estados Unidos, China y Europa compiten por llegar primero a una tecnología que promete fármacos nuevos y amenaza con romper el cifrado que protege bancos y Estados, mientras los científicos advierten de que aún es más promesa que realidad*
+*Las empresas cuánticas se multiplican en bolsa y Estados Unidos, China y Europa compiten por llegar primero, aunque las máquinas todavía no resuelven ningún problema útil mejor que un ordenador convencional*
 
-El Premio Nobel de Física de 2025 recayó en Michel H. Devoret y otros dos físicos por sus experimentos sobre la mecánica cuántica, «la física del reino subatómico». Los ordenadores que aprovechan esa física podrían conducir «al descubrimiento de nuevos medicamentos y vacunas, así como al descifrado de las técnicas de encriptación que protegen los secretos del mundo», escribía entonces *The New York Times*.
+El número de empresas de computación cuántica que cotizan en la bolsa estadounidense se ha duplicado desde enero, señala *Wired*. La última en debutar, Quantinuum, perdió casi 200 millones de dólares el año pasado, y aun así los inversores siguen llegando. En este sector «todavía no se compra un negocio, se compra una probabilidad», resume Olivier Roussy Newton, consejero delegado de BTQ Technologies.
 
-Esa doble promesa explica por qué las empresas del sector atraen miles de millones y por qué Washington, Bruselas y Pekín han convertido la tecnología en su próximo terreno de competición. Pero las máquinas actuales todavía no resuelven ningún problema útil mejor que un ordenador convencional, y los propios científicos discuten cuánto de lo que se anuncia es ciencia y cuánto, marketing.
+Esa probabilidad es doble. Los ordenadores cuánticos podrían conducir «al descubrimiento de nuevos medicamentos y vacunas, así como al descifrado de las técnicas de encriptación que protegen los secretos del mundo», escribía *The New York Times*. Por eso Washington, Bruselas y Pekín han convertido la tecnología en su próximo terreno de competición. Pero las máquinas actuales todavía no hacen nada que no pueda hacer un ordenador convencional, y los propios científicos discuten cuánto de lo que se anuncia es ciencia y cuánto, marketing.
 
 ## «Una moneda que gira en el aire»
 
@@ -18,11 +18,9 @@ Antes de cumplir esas promesas, la tecnología tiene que superar dos obstáculos
 
 El segundo obstáculo deriva del primero: con piezas tan inestables, los errores se acumulan, y los problemas que interesan exigen precisamente cálculos largos, señala *The Verge*. Para compensarlo hay que agrupar muchos cúbits en uno solo más fiable, de modo que una máquina con cientos de cúbits dispone en realidad de muy pocos útiles. Por eso las que presumen de 200 son «sobre todo relaciones públicas», dice a *The European Correspondent* Markus Holmgren, investigador del Instituto Finlandés de Asuntos Internacionales: «Añadir cúbits no aporta ningún beneficio porque los ordenadores cuánticos siguen siendo demasiado propensos a errores».
 
-## «Se compra una probabilidad»
+## «Donde estaba la IA hace cinco años»
 
-Las dudas de los científicos no frenan a los inversores. Google, IBM y Microsoft sitúan hacia 2030 el momento en que sus máquinas superarán a las convencionales. Para Sundar Pichai, director ejecutivo de Google, la tecnología está «donde estaba la IA hace quizás cinco años», recoge el *Financial Times*.
-
-El número de empresas cuánticas que cotizan en la bolsa estadounidense se ha duplicado desde enero, señala *Wired*, aunque Quantinuum, la última en debutar, perdió casi 200 millones de dólares el año pasado. En este sector «todavía no se compra un negocio, se compra una probabilidad», resume Olivier Roussy Newton, consejero delegado de BTQ Technologies.
+Las dudas de los científicos no frenan a los inversores. Google, IBM y Microsoft sitúan hacia 2030 el momento en que sus máquinas superarán a las convencionales. Para Sundar Pichai, director ejecutivo de Google, la tecnología está «donde estaba la IA hace quizás cinco años», recoge el *Financial Times*. Es decir, a las puertas de un salto que nadie sabe todavía si llegará.
 
 ## ¿Cuándo llegará el «Día Q»?
 
@@ -44,7 +42,8 @@ Que la tecnología esté tan verde tiene una ventaja: ni siquiera se sabe qué f
 
 ## Nota di modifiche
 
-1. **Titolo.** «Una moneda que gira en el aire» è una bella immagine ma non dice la tesi. Il nuovo titolo mette in primo piano il contrasto che regge tutto il pezzo: tanti soldi e una corsa geopolitica attorno a una macchina che ancora non serve. La moneta resta come intertitolo della parte tecnica, dove è più efficace. *Alternativa più prudente:* «Computación cuántica: la carrera por una máquina que todavía es una promesa».
+1. **Titolo e attacco (versione 2).** Il gancio non è più il Nobel 2025 ma la bolla in borsa (*Wired* + Roussy Newton), con la citazione «se compra una probabilidad» nel titolo. La citazione del *NYT* resta nel secondo paragrafo, senza il Nobel. La sezione sugli investimenti ora si intitola «Donde estaba la IA hace cinco años» per non ripetere la citazione.
+1. **Titolo (versione 1).** «Una moneda que gira en el aire» è una bella immagine ma non dice la tesi. Il nuovo titolo mette in primo piano il contrasto che regge tutto il pezzo: tanti soldi e una corsa geopolitica attorno a una macchina che ancora non serve. La moneta resta come intertitolo della parte tecnica, dove è più efficace. *Alternativa più prudente:* «Computación cuántica: la carrera por una máquina que todavía es una promesa».
 2. **Sottotitolo.** Ora contiene i due poli del pezzo, la promessa (farmaci) e la minaccia (crittografia), e il «mentre» con lo scetticismo.
 3. **Attacco.** Il Nobel resta come aggancio, ma il secondo paragrafo esplicita l'angolo: soldi e corsa tra potenze contro una tecnologia che non fa ancora nulla di utile. Prima l'angolo era solo implicito.
 4. **Ordine dal tecnico al politico.** Gli ostacoli tecnici ora vengono **prima** degli investimenti. Prima l'intertitolo «Sobre todo relaciones públicas» stava sopra il paragrafo su Pichai e Wall Street, mentre la citazione era in fondo alla parte sugli ostacoli. La sequenza è ora: cos'è → a cosa serve → cosa la frena → chi ci scommette → cosa rischiano gli Stati (Día Q) → la corsa.
@@ -56,4 +55,5 @@ Que la tecnología esté tan verde tiene una ventaja: ni siquiera se sabe qué f
 10. **Da verificare (`[FUENTE?]`):**
     - «Pekín encabeza con ventaja la inversión y comparte con Washington el liderazgo en patentes» non ha attribuzione. Se viene da *The European Correspondent*, basta aggiungere «según el mismo medio».
     - «La financiación… sigue siendo escasa y fragmentada» non ha attribuzione.
-    - Il Nobel 2025 è un aggancio di un anno fa. Se a ottobre 2026 c'è una notizia più fresca (il Nobel 2026, un annuncio di Google o IBM, la legge europea), conviene usare quella come attacco: è il principio di Mario di cercare cosa diciamo di nuovo.
+    - «Desde enero» (*Wired*): verificare la data dell'articolo di *Wired*, perché ora è l'attacco del pezzo.
+    - «Es decir, a las puertas de un salto que nadie sabe todavía si llegará» è una frase di raccordo nostra, non della fonte: toglierla se sembra un'opinione.
