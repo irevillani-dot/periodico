@@ -1,4 +1,4 @@
-# Computación cuántica: «No se compra un negocio, se compra una probabilidad»
+# Computación cuántica: «Todavía no se compra un negocio, se compra una probabilidad»
 
 *Las empresas cuánticas se multiplican en bolsa y Estados Unidos, China y Europa compiten por llegar primero, aunque las máquinas todavía no resuelven ningún problema útil mejor que un ordenador convencional*
 
