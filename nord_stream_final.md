@@ -1,0 +1,27 @@
+# Nord Stream, el juicio que puede cambiar la postura de Alemania sobre Ucrania
+
+**En Hamburgo se juzga por crímenes de guerra a un ex oficial ucraniano. La prensa alemana teme que el proceso dé a la AfD, primera en las encuestas, el argumento definitivo para cortar la ayuda a Kiev**
+
+«Pocas veces un proceso nacional ha tenido tanta carga explosiva internacional», escribe la radiotelevisión pública suiza SRF (Schweizer Radio und Fernsehen) sobre el juicio que comenzó el 14 de octubre ante el Tribunal Superior de Hamburgo. En el banquillo se sienta Serhii Kuznietsov, exoficial del Ejército ucraniano. La Fiscalía Federal alemana lo acusa de haber coordinado el comando que, en septiembre de 2022, voló tres de los cuatro tubos de Nord Stream cerca de la isla danesa de Bornholm. El cargo principal es el crimen de guerra de ataque contra bienes civiles. El escrito de acusación sostiene que el plan se elaboró «por encargo de organismos estatales de Ucrania».
+
+Kuznietsov fue detenido en Italia en virtud de una orden europea de detención. El acusado no ha declarado. Su defensa niega que haya pruebas de su participación. Además, impugna su traslado a Alemania, porque Italia lo entregó por sabotaje y no por crimen de guerra. «Italia confió en Alemania y Alemania abusó de esa confianza», resumió su abogado italiano, Nicola Canestrini.
+
+Los gasoductos, controlados por la estatal rusa Gazprom, estaban construidos para llevar gas a una Europa que dependía de esas importaciones hasta la invasión de 2022. Eran símbolo y vehículo de los lazos económicos entre Europa y Rusia. Nord Stream 1 se inauguró en 2011. Nord Stream 2 se completó en 2021, pero a causa de la guerra nunca entró en servicio.
+
+## Crimen de guerra o acto de guerra
+
+«El primer criminal de guerra acusado en la guerra de Rusia es ucraniano», titula la *taz*, el diario de la izquierda berlinesa. La paradoja tiene una explicación jurídica. Para la Fiscalía, el ataque contra bienes civiles es un crimen de guerra. Canestrini replica en ese mismo terreno. Según el medio de investigación *Correctiv*, alegó que los gasoductos eran «un arma de Rusia» y, por tanto, un objetivo militar. Si así fuera, Kuznietsov tendría inmunidad como soldado. Tanto la acusación como esa línea de defensa dan por hecho que la operación respondía a órdenes de Kiev. Ucrania niega toda implicación. Su abogado alemán, Jes Meyer-Lohkamp, pidió el sobreseimiento porque los antiguos superiores del acusado no le autorizan a declarar, según la *taz*.
+
+Una condena sería incómoda para el Gobierno del canciller Friedrich Merz. «La crítica a Ucrania es en gran medida un tabú para Berlín», opina el diario suizo *Neue Zürcher Zeitung*, que recuerda que el Ejecutivo alemán ni siquiera ha condenado el sabotaje. Si el tribunal diera por probado que el ataque lo ordenaron organismos estatales ucranianos, como sostiene la Fiscalía, Alemania estaría armando al país que destruyó una infraestructura energética clave. Esa constatación puede pesar más que el veredicto y cambiar la postura de los alemanes sobre la ayuda a Kiev.
+
+## El peor momento
+
+El proceso llega cuando Kiev se queda sin retaguardia. El 9 de octubre, el presidente estadounidense, Donald Trump, pactó con Moscú levantar las sanciones al diésel ruso. Por su parte, el presidente ucraniano, Volodímir Zelenski, calificó el acuerdo de «ni justo ni honesto», según el digital *Axios*. Al día siguiente, Trump sugirió que Ucrania se buscara «un nuevo líder capaz de cerrar un acuerdo», recoge el diario *The Hill*. A ello se suma otro riesgo. En Alemania y Francia, «los partidos tradicionalmente afines a Rusia podrían ganar las próximas elecciones», advierte SRF. Son Alternativa para Alemania (AfD) y el Rassemblement National. Mientras tanto, la guerra no da tregua. Todo apunta a un quinto invierno de ataques rusos contra la red eléctrica y la calefacción de Ucrania, escribe la analista Anna Zafesova en el diario italiano *La Stampa*.
+
+## La palanca de la AfD
+
+La AfD no ha esperado al veredicto. El mismo día del inicio del proceso, aprobó en el Parlamento de Sajonia-Anhalt una moción para poner fin al apoyo a Ucrania, informa Reuters. El partido acaba de ganar allí las elecciones. Su colíder Alice Weidel sostiene en *The Economist* que Ucrania «ya ha perdido». Cuando le preguntan por la amenaza rusa, desvía la respuesta hacia la presunta responsabilidad ucraniana en el caso de Nord Stream. Stefan Meister, investigador del Consejo Alemán de Relaciones Exteriores, señala en Radio Free Europe que cualquier prueba de implicación ucraniana «reforzaría la argumentación de la AfD contra el apoyo a Ucrania».
+
+Sus críticos acusan a la AfD de querer volver a los años en que Alemania trataba a Rusia como un socio comercial cualquiera. «¿Cómo pudo construirse el Nord Stream 2 después de la anexión de Crimea?», preguntó en mayo en el Bundestag el diputado verde Robin Wagener. Para él, fue la mayor equivocación de la política energética de democristianos y socialdemócratas.
+
+El diario económico *Handelsblatt* plantea el dilema. Durante años, el gas ruso barato mantuvo bajos los precios de la energía para empresas y consumidores. Sin embargo, advierte el diario, «hay que detener la agresión rusa en Ucrania antes de que siga extendiéndose por Europa. Eso tiene su precio, también para Alemania». SRF ve en el juicio «la tragedia ucraniana». Si el tribunal da por buena la tesis de la Fiscalía, Ucrania puede perder a su principal aliado.
