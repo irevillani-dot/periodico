@@ -30,6 +30,14 @@ Cuando la autora pasa un texto para revisar:
    Va en el informe del redactor jefe, sobre el original y sobre la versión corregida. Si queda fuera del margen, se dice cuántas palabras faltan o sobran y se proponen en comentarios qué paráfrasis podrían ser citas literales (o al revés), sin cambiar la estructura.
 3. **Extensión**: el cuerpo no puede pasar de **900 palabras** (el mismo script lo mide). Si se pasa, el redactor jefe propone recortes de frases o incisos como borrados marcados, cada uno con un comentario «Recorte propuesto (−N palabras)», sin eliminar párrafos ni ladillos. La versión con todos los cambios aceptados debe cumplir a la vez el límite de palabras y el 15–20 % de citas. Para subir el porcentaje, una paráfrasis solo se convierte en cita literal si el verificador aporta la frase original.
 
+## Redacción (lo vigila el revisor de estilo y lo comprueba el redactor jefe)
+
+- Frases cortas: sujeto, verbo y predicado. Nada de oraciones de cuatro o cinco líneas encadenando subordinadas.
+- No abusar de la «y» para unir oraciones, ni de la coma antes de «y»; mejor punto y seguido.
+- Evitar las enumeraciones de tres elementos como recurso fijo.
+- Que cada idea se enlace con la anterior con un conector claro (por eso, sin embargo, además…) y que el párrafo siga una lógica.
+- Si la autora pide reestructurar un párrafo concreto, se hace aunque la plantilla sea fija, sin cambiar la extensión ni el porcentaje de citas.
+
 ## Criterios de la casa
 
 - Cursiva para periódicos, revistas y digitales; redonda para agencias, cadenas, instituciones y partidos.
