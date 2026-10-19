@@ -28,6 +28,7 @@ Cuando la autora pasa un texto para revisar:
    ```
 
    Va en el informe del redactor jefe, sobre el original y sobre la versión corregida. Si queda fuera del margen, se dice cuántas palabras faltan o sobran y se proponen en comentarios qué paráfrasis podrían ser citas literales (o al revés), sin cambiar la estructura.
+3. **Extensión**: el cuerpo no puede pasar de **900 palabras** (el mismo script lo mide). Si se pasa, el redactor jefe propone recortes de frases o incisos como borrados marcados, cada uno con un comentario «Recorte propuesto (−N palabras)», sin eliminar párrafos ni ladillos. La versión con todos los cambios aceptados debe cumplir a la vez el límite de palabras y el 15–20 % de citas. Para subir el porcentaje, una paráfrasis solo se convierte en cita literal si el verificador aporta la frase original.
 
 ## Criterios de la casa
 

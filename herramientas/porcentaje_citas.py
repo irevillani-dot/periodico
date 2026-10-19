@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Porcentaje de palabras entre comillas en un artículo (objetivo de la casa: 15-20 %).
 
-Uso: python3 herramientas/porcentaje_citas.py articulo.md [--min 15 --max 20]
+Uso: python3 herramientas/porcentaje_citas.py articulo.md [--min 15 --max 20] [--limite 900]
 
 Cuenta las palabras del cuerpo del texto (sin titular «# », subtítulo **…**
 ni ladillos «## ») y las que van entre comillas latinas « » o inglesas “ ”
@@ -49,6 +49,7 @@ def main():
     ap.add_argument("archivo")
     ap.add_argument("--min", type=float, default=15)
     ap.add_argument("--max", type=float, default=20)
+    ap.add_argument("--limite", type=int, default=900, help="máximo de palabras del cuerpo")
     a = ap.parse_args()
 
     lineas = open(a.archivo, encoding="utf-8").read().split("\n")
@@ -65,7 +66,13 @@ def main():
             todas.append((k, n, t))
 
     pct = 100 * citadas / total if total else 0
-    print(f"Cuerpo: {total} palabras · entre comillas: {citadas} · {pct:.1f} %")
+    completo = sum(len(palabras(l.lstrip("#").strip("*"))) for l in lineas if not l.strip().startswith("<!--"))
+    print(f"Cuerpo: {total} palabras (con titular, subtítulo y ladillos: {completo})")
+    if total > a.limite:
+        print(f"EXTENSIÓN: sobran {total - a.limite} palabras para el límite de {a.limite}")
+    else:
+        print(f"EXTENSIÓN: dentro del límite de {a.limite}")
+    print(f"Entre comillas: {citadas} palabras · {pct:.1f} %")
     lo, hi = a.min * total / 100, a.max * total / 100
     if pct < a.min:
         print(f"POR DEBAJO del {a.min:g}-{a.max:g} %: faltan unas {round(lo - citadas)} palabras citadas")
