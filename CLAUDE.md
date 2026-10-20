@@ -20,6 +20,7 @@ Cuando la autora pasa un texto para revisar:
 
 ## Comprobaciones obligatorias del redactor jefe
 
+0. **Estilo en la primera entrega**: el informe dice cuántas frases pasan de 30 palabras en el original y en la corregida (debe ser 0 en la corregida), y confirma que no quedan dos puntos encadenando ideas propias ni comas antes de «y» entre oraciones.
 1. **Raccord**: que nadie ni nada aparezca como ya presentado sin haberlo sido. Por ejemplo: persona citada solo por el apellido o por el cargo en su primera aparición; «el embajador», «la ministra», «el diario» sin presentar; siglas sin desarrollar (WSJ); pronombres y posesivos sin antecedente («lo», «su», «esos mismos»); cargos o grafías que cambian entre párrafos; datos que se contradicen entre el subtítulo y el cuerpo o entre párrafos.
 2. **Porcentaje de citas**: las palabras entre comillas deben ser **entre el 15 % y el 20 %** del cuerpo del texto (sin titular, subtítulo ni ladillos). Se calcula con el script, no a ojo:
 
@@ -32,7 +33,15 @@ Cuando la autora pasa un texto para revisar:
 
 ## Redacción (lo vigila el revisor de estilo y lo comprueba el redactor jefe)
 
-- Frases cortas: sujeto, verbo y predicado. Nada de oraciones de cuatro o cinco líneas encadenando subordinadas.
+**La primera versión corregida ya tiene que salir en el estilo de la página.** La autora no debe tener que pedir después, párrafo a párrafo, que se acorten frases o se quiten dos puntos. El revisor de estilo y el redactor jefe aplican estas pautas en la primera entrega.
+
+- Frases cortas: sujeto, verbo y predicado. Nada de oraciones de cuatro o cinco líneas encadenando subordinadas. **Ninguna frase del cuerpo pasa de 30 palabras** en la versión corregida. Se comprueba con el script, sobre el original y sobre la corregida:
+
+  ```
+  python3 herramientas/frases_largas.py nombre.md
+  ```
+
+  Cada frase larga se parte con un cambio marcado mínimo dentro del mismo párrafo: un punto en lugar de una coma o de una «y», y un conector si hace falta. No se reescribe el párrafo ni se cambia el orden de las ideas.
 - No abusar de la «y» para unir oraciones, ni de la coma antes de «y»; mejor punto y seguido.
 - Evitar las enumeraciones de tres elementos como recurso fijo.
 - Que cada idea se enlace con la anterior con un conector claro (por eso, sin embargo, además…) y que el párrafo siga una lógica. Repertorio por función en `herramientas/conectores.md` (según el *Diccionario de conectores y operadores del español* de Catalina Fuentes); variar los conectores y evitar los coloquiales.
@@ -40,6 +49,7 @@ Cuando la autora pasa un texto para revisar:
 - No trocear el texto en frases telegráficas: es un texto periodístico, no una lista de ladillos desarrollados. Las frases cortas se enlazan con conectores o con una subordinada breve.
 - Ninguna valoración sin atribuir (p. ej. «algo que no parece probable»): solo hechos o juicios con fuente.
 - Modelo de escritura: las piezas de *El País* resumidas en `herramientas/modelo_el_pais.md` (entrada con gancho y cierre que vuelve a ella, conectores intercalados, citas largas introducidas con dos puntos, verbos de atribución variados, contexto en incisos breves).
+- Si la autora pasa un artículo de base para inspirarse, el ángulo se busca con el método de `herramientas/metodo_angulo.md`: el dato que cambia, por qué ahora, la escala europea, hechos de fuentes locales y voces del artículo de base, la reacción y el cierre con la cita más fuerte.
 - Si la autora pide reestructurar un párrafo concreto, se hace aunque la plantilla sea fija, sin cambiar la extensión ni el porcentaje de citas.
 
 ## Criterios de la casa
