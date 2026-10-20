@@ -41,7 +41,7 @@ Cuando la autora pasa un texto para revisar:
   python3 herramientas/frases_largas.py nombre.md
   ```
 
-  Cada frase larga se parte, en principio, con un cambio marcado mínimo dentro del mismo párrafo: un punto en lugar de una coma o de una «y», y un conector si hace falta. Puede haber excepciones: si un párrafo solo funciona reescribiéndolo o reordenando sus ideas, se hace como cambio marcado y con un comentario que explique por qué. Nunca se tocan el titular, el subtítulo, los ladillos ni el orden de los párrafos.
+  Cada frase larga se parte, en principio, con un cambio marcado mínimo dentro del mismo párrafo: un punto en lugar de una coma o de una «y», y un conector si hace falta. Puede haber excepciones. Si un párrafo solo funciona reescribiéndolo o reordenando sus ideas, se hace como cambio marcado y con un comentario que explique por qué. Nunca se tocan el titular, el subtítulo, los ladillos ni el orden de los párrafos.
 - No abusar de la «y» para unir oraciones, ni de la coma antes de «y»; mejor punto y seguido.
 - Evitar las enumeraciones de tres elementos como recurso fijo.
 - Que cada idea se enlace con la anterior con un conector claro (por eso, sin embargo, además…) y que el párrafo siga una lógica. Repertorio por función en `herramientas/conectores.md` (según el *Diccionario de conectores y operadores del español* de Catalina Fuentes); variar los conectores y evitar los coloquiales.
