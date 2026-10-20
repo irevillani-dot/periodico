@@ -15,7 +15,7 @@ Pautas sacadas de tres piezas de *El País* del 19 y 20 de octubre de 2026 que p
 - **Incisos explicativos entre rayas** dentro de la frase: «—de voluntarios para hacer campaña en redes—». (En *Página Internacional* se publica con semirraya «–»: se sigue lo que publica la página.)
 
 ## Citas y atribución
-- **Las citas son largas**, a menudo de varias frases, y se introducen con dos puntos tras el verbo: «…plantea una eventual aplicación…: “Nuestro objetivo es…”». Los dos puntos para abrir una cita son normales; lo que se evita es usarlos para encadenar ideas propias.
+- **Las citas son largas**, a menudo de varias frases. *El País* las introduce a veces con dos puntos («…plantea una eventual aplicación…: “Nuestro objetivo es…”»), pero en la página **no se imita**: los dos puntos solo se usan ante una enumeración, y la cita se atribuye con el verbo detrás («…», advierte Cerdá) o con «que».
 - **Una misma fuente encadena varias citas**, con el verbo «continúa» para la segunda.
 - **Los verbos de atribución son variados**: advierte, recuerda, plantea, critica, considera, señala, relata, cuenta, agrega, afirma, concluye, explica, alega, lamentó, reconocen. Nunca se usa siempre el mismo.
 - **Primera mención** con nombre completo y cargo detallado («Leonor Cerdá Alberich, corresponsable del Grupo de Investigación Biomédica en Imagen del Instituto de Investigación Sanitaria La Fe»); después, solo el apellido («Cerdá»).
