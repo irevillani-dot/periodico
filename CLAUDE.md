@@ -35,13 +35,23 @@ Cuando la autora pasa un texto para revisar:
 - Frases cortas: sujeto, verbo y predicado. Nada de oraciones de cuatro o cinco líneas encadenando subordinadas.
 - No abusar de la «y» para unir oraciones, ni de la coma antes de «y»; mejor punto y seguido.
 - Evitar las enumeraciones de tres elementos como recurso fijo.
-- Que cada idea se enlace con la anterior con un conector claro (por eso, sin embargo, además…) y que el párrafo siga una lógica.
+- Que cada idea se enlace con la anterior con un conector claro (por eso, sin embargo, además…) y que el párrafo siga una lógica. Repertorio por función en `herramientas/conectores.md` (según el *Diccionario de conectores y operadores del español* de Catalina Fuentes); variar los conectores y evitar los coloquiales.
+- No abusar de los dos puntos para explicar o encadenar ideas; se admiten con moderación.
+- No trocear el texto en frases telegráficas: es un texto periodístico, no una lista de ladillos desarrollados. Las frases cortas se enlazan con conectores o con una subordinada breve.
+- Ninguna valoración sin atribuir (p. ej. «algo que no parece probable»): solo hechos o juicios con fuente.
 - Si la autora pide reestructurar un párrafo concreto, se hace aunque la plantilla sea fija, sin cambiar la extensión ni el porcentaje de citas.
 
 ## Criterios de la casa
 
+Referencia general: **Libro de estilo de *El País***, que es el que sigue la redacción. Donde el periódico se aparta de él, mandan los criterios de abajo, sacados de lo que publica.
+
 - Cursiva para periódicos, revistas y digitales; redonda para agencias, cadenas, instituciones y partidos.
-- Comillas latinas « »; “ ” solo dentro de otra cita.
-- Punto en los millares (5.000); espacio antes de % (16 %).
+- Los medios se citan siempre con su nombre completo (*The Wall Street Journal*, nunca WSJ); las cadenas con siglas se desarrollan en la primera mención (SRF, ZDF…).
+- Comillas latinas « »; “ ” solo dentro de otra cita. Los incisos dentro de una cita van entre rayas: «Irlanda ha hecho el diagnóstico correcto –apunta–, pero…».
+- Punto en los millares (5.000); porcentaje **sin espacio** (16%).
+- «ex» unido a una sola palabra (exoficial, exdiputado) y separado ante expresiones de varias (ex primer ministro).
+- Nombres de guerras con mayúscula (Segunda Guerra Mundial).
 - Subtítulos y ladillos sin punto final.
-- Primera mención de cada persona con su cargo; cargos en minúscula.
+- Primera mención de cada persona con nombre completo y cargo; cargos en minúscula.
+- «el mismo periódico» o «el diario» solo si el antecedente inmediato es ese medio.
+- Nombres rusos y ucranianos: transcripción al español según la Fundéu (Volodímir Zelenski, Serhí, Andrí Yermak, Kiev), no la transliteración inglesa.
