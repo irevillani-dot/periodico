@@ -39,6 +39,7 @@ Cuando la autora pasa un texto para revisar:
 - No abusar de los dos puntos para explicar o encadenar ideas; se admiten con moderación.
 - No trocear el texto en frases telegráficas: es un texto periodístico, no una lista de ladillos desarrollados. Las frases cortas se enlazan con conectores o con una subordinada breve.
 - Ninguna valoración sin atribuir (p. ej. «algo que no parece probable»): solo hechos o juicios con fuente.
+- Modelo de escritura: las piezas de *El País* resumidas en `herramientas/modelo_el_pais.md` (entrada con gancho y cierre que vuelve a ella, conectores intercalados, citas largas introducidas con dos puntos, verbos de atribución variados, contexto en incisos breves).
 - Si la autora pide reestructurar un párrafo concreto, se hace aunque la plantilla sea fija, sin cambiar la extensión ni el porcentaje de citas.
 
 ## Criterios de la casa
