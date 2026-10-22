@@ -39,3 +39,28 @@ Recortó casi todo el bloque europeo (Kallas, el mecanismo de consulta, el *Fina
 4. Hechos de las fuentes locales, voces del artículo de base.
 5. ¿Hay reacción o respuesta? Añadirla.
 6. El mecanismo de causa y efecto va arriba; lo accesorio, al final. Se cierra con la cita más fuerte.
+
+# Cómo ordena el editor la pieza (lección de Nord Stream)
+
+Comparación entre la versión que envió la autora y la que se publicó el 22 de octubre de 2026 con el titular «El juicio por el Nord Stream: una «tragedia ucraniana» en varios actos».
+
+## El orden: de la sala al mundo, en embudo invertido
+1. **Los hechos del juicio**: quién, dónde, de qué se le acusa.
+2. **Lo que está en juego**, en el segundo párrafo: «Pero lo más explosivo está en el escrito de acusación… las consecuencias políticas podrían ser mucho mayores que las judiciales». En la versión de la autora, esta idea llegaba en el sexto párrafo.
+3. **Los antecedentes**: qué eran los gasoductos.
+4. **El dilema alemán**: el tabú de criticar a Ucrania y una pregunta retórica que plantea el problema.
+5. **Bloque jurídico** («¿Un crimen de guerra o un objetivo legítimo?»): la tesis de la Fiscalía y la de la defensa, la inmunidad, y después la detención y la extradición. Todo lo procesal va junto, aunque en el original la detención estaba en el segundo párrafo.
+6. **Consecuencia política en Alemania** («Un regalo para la extrema derecha»): la AfD va antes que el contexto internacional.
+7. **Contexto internacional** («Ucrania se queda sin retaguardia»): Estados Unidos, ampliado con datos nuevos (ayuda militar, inteligencia, Starlink), y Francia.
+8. **Cierre de síntesis** con «Así,…» y la cita que da el titular («tragedia ucraniana», de SRF). El titular y el cierre se responden.
+
+## Las técnicas
+- **Cada bloque abre con una frase que anuncia la idea**: «La defensa sostiene exactamente lo contrario», «El juicio llega en un momento especialmente delicado para el Gobierno alemán», «Es una nueva vuelta de tuerca…», «A este panorama se suma…».
+- **Los datos se agrupan por tema**, no por orden de aparición en las fuentes.
+- **Más hechos y menos «según el diario X»**: el titular de la *taz* pasa a paráfrasis, y se caen *Axios*, *The Hill*, *La Stampa*, el *Handelsblatt*, Wagener y Steinmeier. El espacio liberado va a hechos nuevos sobre Estados Unidos.
+- **Contexto explicado** en lugar de citado: hasta cuándo valen las sanciones suspendidas y por qué las suspendió Trump (abaratar el combustible antes de las legislativas).
+- **Los ladillos son preguntas o tesis**, no etiquetas.
+
+## Lo que no se imita
+- Dos puntos explicativos («…la extradición: Italia lo entregó…»): en la página solo se usan ante una enumeración.
+- Cursivas incoherentes en lo publicado (*SRF*, *Reuters*, *Radio Free Europe* en cursiva, pero «la cadena SRF» en redonda): agencias y cadenas van en redonda.
