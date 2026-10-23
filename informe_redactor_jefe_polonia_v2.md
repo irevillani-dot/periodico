@@ -28,10 +28,10 @@ El verificador leyó completos los textos de *GroundUp* y *The Guardian* (buena 
 
 **2. Porcentaje de citas** (`porcentaje_citas.py`)
 - Original: 146 palabras entre comillas sobre 871 de cuerpo = **16,8 %**.
-- Corregida: 147 sobre 884 = **16,6 %**. Dentro del 15–20 %. La subida de una palabra es el «probablemente» que recupera la cita de Ewa Waluś.
+- Corregida: 142 sobre 890 = **16,0 %** (tras las respuestas de la autora; antes, 147 sobre 884 = 16,6 %). Dentro del 15–20 %. La subida de una palabra es el «probablemente» que recupera la cita de Ewa Waluś.
 
 **3. Extensión**
-- Original: 871 palabras. Corregida: **884**. Dentro del límite de 900 (margen de 16). No hacen falta recortes. Los borrados (21 palabras de frases duplicadas en el párrafo 31, 5 de la valoración del párrafo 5 y 4 del párrafo 33) compensan las adiciones de presentación de medios y fuentes.
+- Original: 871 palabras. Corregida: **890**. Dentro del límite de 900 (margen de 10). No hacen falta recortes. Los borrados (21 palabras de frases duplicadas en el párrafo 31, 5 de la valoración del párrafo 5 y 4 del párrafo 33) compensan las adiciones de presentación de medios y fuentes.
 - Frases largas (`frases_largas.py`): original 4, corregida 0.
 
 ## Bloqueantes (por prioridad)
@@ -69,3 +69,14 @@ El verificador leyó completos los textos de *GroundUp* y *The Guardian* (buena 
 - Todas las marcas se anclan en cadenas únicas y sin solapamientos dentro de su línea. Rechazando todos los cambios sale el original, porque cada marca se ha construido a partir del texto exacto del archivo.
 
 Marcado: /tmp/claude-0/-home-user-periodico/d2b77e6b-6775-52e7-a965-7c7d55974c3d/scratchpad/polonia/marcado.json. Tiene 39 cambios de texto (1 borrado puro y 38 sustituciones o inserciones) y 17 comentarios sin cambio (56 marcas en total). Versión corregida: /home/user/periodico/polonia_walus_v2_corregido.md.
+
+## Actualización tras las respuestas de la autora (23/10)
+
+La autora ha aportado fuentes y decisiones sobre varios bloqueantes. Se ha actualizado el marcado (55 marcas: 40 cambios y 15 comentarios) y se han repetido las comprobaciones: 0 frases de más de 30 palabras, 890 palabras de cuerpo y 16,0 % de citas en la corregida.
+
+- **Cita de Tusk (bloqueante 1): resuelto con atribución.** La frase se recoge en el análisis de TVP World que aporta la autora («Poland's duopoly is cracking as the 2027 battle begins»), y Ukrinform confirma el discurso en Gdańsk del 1/9/2026. Solo se vio en resúmenes de buscador, sin transcripción, así que se atribuye a TVP World («añadió, según el canal público TVP World») y el medio se presenta ahí; en el último apartado queda «señala TVP World».
+- **Cita de Dudek (bloqueante 2): comillas quitadas** por decisión de la autora. Sigue pendiente confirmar que la entrevista fue en *WP Wiadomości*: GroundUp solo enlaza un vídeo corto.
+- **Incendio de la fábrica de drones: resuelto.** Se corrige el lugar (Skarżysko-Kamienna, al sur de Varsovia), se atribuye a *Notes from Poland* y desaparece la marca [FUENTE?]. Aviso: el 2/9 Tusk dijo que no había duda de que fue un incendio provocado y un acto de sabotaje (Al Jazeera); «se investiga si fue un sabotaje» podría actualizarse.
+- **Primera entrevista de Waluś: sigue pendiente, y hay una discrepancia.** La autora indica Kanał Zero, pero GroundUp y la prensa polaca (Wprost, Press.pl, natemat) sitúan esa entrevista de Stanowski (16/1/2025) como la segunda. La primera fue la de Michał Zichlarz. No se ha tocado el texto: la marca [FUENTE?] se mantiene y el comentario explica el conflicto. La autora debe confirmar en cuál de las dos dijo «Lo que hice, sigo considerándolo necesario».
+- **Cita del *Guardian*:** la autora ha reenviado el texto íntegro y confirma lo ya recogido: la frase es el titular del artículo, no del cuerpo. El marcado ya lo corrige («titula *The Guardian* un artículo del periodista…»).
+- **Veredicto:** se mantiene NO APROBADO hasta que se cierren la entrevista de Waluś, la atribución de Dudek, la cifra de vetos (41 vistos solo en un fragmento de buscador) y las atribuciones sin fuente del bloqueante 4, que siguen abiertas.
