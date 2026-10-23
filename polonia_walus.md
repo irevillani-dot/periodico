@@ -2,24 +2,25 @@
 
 **El asesino de Chris Hani podría ir en las listas de Grzegorz Braun, cuyo partido ronda el 11% y puede decidir si el primer ministro, Donald Tusk, conserva el poder**
 
-Ewa Waluś tenía tres años cuando su padre, Janusz, emigró a Sudáfrica. En 1993 vio en la televisión que un inmigrante polaco había matado a tiros a Chris Hani, secretario general del Partido Comunista Sudafricano. «Durante mucho tiempo pensé que todavía podía ser un error», contó a la radio TOK FM. No lo era.
+Ewa Waluś tenía tres años cuando su padre, Janusz, emigró a Sudáfrica. En 1993 vio en la televisión que un inmigrante polaco había matado a tiros a Chris Hani, secretario general del Partido Comunista Sudafricano. «Durante mucho tiempo pensé que todavía podía ser un error», contó a la radio TOK FM. No lo era. Waluś, anticomunista y militante del Movimiento de Resistencia Afrikáner, mató a Hani porque lo consideraba un «terrorista». Esperaba, según admitió, que el crimen agravara el conflicto y frenara la transición a la democracia.
 
 Su padre salió de la cárcel en 2022 y Sudáfrica lo deportó a Polonia en diciembre de 2024. Hoy es un ídolo de la ultraderecha polaca. Además, podría presentarse a las elecciones de 2027, según informa el medio sudafricano *GroundUp*.
+
 ## El hombre de Braun
 
-Waluś militaba en el Movimiento de Resistencia Afrikáner. Fue condenado por matar a Hani, muy popular en Sudáfrica, cuando el país ya negociaba el fin del apartheid. «Lo que hice, sigo considerándolo necesario», afirmó en su primera entrevista. Añadió que «lo prepararía mejor».
+Fue condenado por el crimen, cometido cuando el país ya negociaba el fin del apartheid. «Lo que hice, sigo considerándolo necesario», afirmó en su primera entrevista. Añadió que «lo prepararía mejor».
 
 Lo esperaba en el aeropuerto de Varsovia Grzegorz Braun, eurodiputado y líder de la Confederación de la Corona Polaca (KKP). Braun lo llama «el último soldado maldito». Ewa no fue. «Creo que el motivo principal es que Grzegorz Braun está, al fin y al cabo, más cerca de mi padre que yo», explicó a la periodista Dorota Wysocka-Schnepf.
 
-La ley no le cierra el paso. En Polonia no puede presentarse quien haya sido condenado a prisión por un delito doloso. Sin embargo, la condena de Waluś la dictó un tribunal sudafricano y no cuenta, según Wojciech Hermeliński, expresidente de la comisión electoral. En abril, *Rzeczpospolita* avanzó que KKP lo veía como posible candidato. Una fuente bien situada dijo a *GroundUp* que «si se lo piden, no dirá que no».
+En Polonia no puede presentarse quien haya sido condenado a prisión por un delito doloso. Sin embargo, la condena de Waluś la dictó un tribunal sudafricano y no cuenta, según Wojciech Hermeliński, expresidente de la comisión electoral. En abril, *Rzeczpospolita* avanzó que KKP lo veía como posible candidato. Una fuente bien situada dijo a *GroundUp* que «si se lo piden, no dirá que no».
 
 ## Una campaña marcada por Rusia
 
 La campaña arrancó extraoficialmente el 1 de septiembre en Westerplatte, donde empezó en 1939 la Segunda Guerra Mundial. Ochenta y siete años después, Tusk advirtió allí de que el otoño y el invierno pueden ser decisivos para Ucrania y Polonia. «No hay una Polonia segura sin una Ucrania segura», resumió.
 
-La guerra continúa al otro lado de la frontera oriental, y Polonia sufre sabotajes y desinformación. En agosto se incendió una fábrica de componentes de drones cerca de Varsovia, y los investigadores analizan si fue un sabotaje.
+Polonia sufre sabotajes y desinformación. En agosto se incendió una fábrica de componentes de drones cerca de Varsovia, y se investiga si fue un sabotaje.
 
-El gasto militar es la otra cara de esa amenaza. El proyecto de presupuesto para 2027 destina a Defensa 198.100 millones de zlotys, el 4,5% del PIB, y mantiene el déficit en el 7,1%, según Reuters. La Comisión Europea prevé que Polonia crezca un 3,5% en 2026, la segunda tasa de la UE, impulsada por la inversión con fondos europeos. También calcula que su déficit será el más alto del bloque.
+El proyecto de presupuesto para 2027 destina a Defensa 198.100 millones de zlotys, el 4,5% del PIB, y mantiene el déficit en el 7,1%, según Reuters. La Comisión Europea prevé que Polonia crezca un 3,5% en 2026, la segunda tasa de la UE, impulsada por la inversión con fondos europeos. También calcula que su déficit será el más alto del bloque.
 
 Bruselas y Washington pesan en el debate. Tusk presenta una victoria de la derecha como una amenaza para el lugar de Polonia en Europa. El embajador de EE. UU. habría presionado a la oposición para que descarte a Braun, crítico con Washington.
 
