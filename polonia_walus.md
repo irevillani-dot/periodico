@@ -4,8 +4,7 @@
 
 Ewa Waluś tenía tres años cuando su padre, Janusz, emigró a Sudáfrica. En 1993 vio en la televisión que un inmigrante polaco había matado a tiros a Chris Hani, secretario general del Partido Comunista Sudafricano. «Durante mucho tiempo pensé que todavía podía ser un error», contó a la radio TOK FM. No lo era.
 
-Su padre salió de la cárcel en 2022 y Sudáfrica lo deportó a Polonia en diciembre de 2024. Hoy es un ídolo de la ultraderecha polaca. Además, podría presentarse a las elecciones de 2027, según informa el medio sudafricano *GroundUp*. Ewa ha roto con él.
-
+Su padre salió de la cárcel en 2022 y Sudáfrica lo deportó a Polonia en diciembre de 2024. Hoy es un ídolo de la ultraderecha polaca. Además, podría presentarse a las elecciones de 2027, según informa el medio sudafricano *GroundUp*.
 ## El hombre de Braun
 
 Waluś militaba en el Movimiento de Resistencia Afrikáner. Fue condenado por matar a Hani, muy popular en Sudáfrica, cuando el país ya negociaba el fin del apartheid. «Lo que hice, sigo considerándolo necesario», afirmó en su primera entrevista tras volver. Añadió que «lo prepararía mejor».
@@ -26,7 +25,7 @@ Bruselas y Washington pesan en el debate. Tusk presenta una victoria de la derec
 
 ## Migrantes y refugiados, el malestar
 
-Los ucranianos son el otro gran asunto. Casi 953.000 tenían protección temporal en Polonia en julio, aunque la cifra baja desde la primavera, según datos del Gobierno recogidos por Radio Free Europe. La ley especial para ellos dejó de regir en marzo. El periodista Mateusz Mazzini sostiene en *The Guardian* que «la compasión por los ucranianos se ha convertido en desprecio». Un sondeo del CBOS de julio halló que el 52% de los polacos rechaza acogerlos.
+Los ucranianos son el otro gran asunto. Casi 953.000 tenían protección temporal en Polonia en julio, aunque la cifra baja desde la primavera, según datos del Gobierno recogidos por Radio Free Europe. La ley especial para ellos dejó de regir en marzo. El periodista Mateusz Mazzini sostiene en *The Guardian* que «la compasión por los ucranianos se ha convertido en desprecio», y advierte de que «las consecuencias podrían ser dramáticas». Un sondeo del CBOS de julio halló que el 52% de los polacos rechaza acogerlos.
 
 Mazzini explica que muchos los ven ya como competidores en el empleo y en los negocios. El presidente, Karol Nawrocki, vetó en 2025 prorrogar las ayudas, y el Parlamento limitó después el subsidio por hijo a quienes trabajan. Braun presenta a los refugiados como una amenaza. Waluś usa Sudáfrica como advertencia a Europa sobre la inmigración.
 
