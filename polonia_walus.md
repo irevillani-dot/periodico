@@ -12,9 +12,9 @@ Fue condenado por el crimen, cometido cuando el país ya negociaba el fin del ap
 
 Lo esperaba en el aeropuerto de Varsovia Grzegorz Braun, eurodiputado y líder de la Confederación de la Corona Polaca (KKP). Braun lo llama «el último soldado maldito». Ewa no fue. «Creo que el motivo principal es que Grzegorz Braun está, al fin y al cabo, más cerca de mi padre que yo», explicó a la periodista Dorota Wysocka-Schnepf. Esa cercanía podría llegar a las urnas. Braun estudia incluirlo en sus listas para las legislativas del otoño de 2027, según *Rzeczpospolita*.
 
-Braun ha hecho carrera con la provocación. Está acusado de apagar con un extintor una menorá de Janucá en el Parlamento. También lo acusan de negar el Holocausto por decir que las cámaras de gas de Auschwitz eran falsas. Ha afirmado que «los judíos» construyeron un centro de mando de reserva para Israel bajo el mayor parque acuático de Polonia. El historiador Antoni Dudek sostiene que su partido es «la quinta columna de Putin» en Polonia.
+Braun ha hecho carrera con la provocación. Está acusado de apagar con un extintor una menorá en el Parlamento. También se le imputa robar banderas ucranianas y europeas de edificios públicos y destrozar un árbol de Navidad adornado con símbolos LGBT en un juzgado. La fiscalía quiere procesarlo además por agredir a un médico que practica abortos legales. El historiador Antoni Dudek sostiene que su partido es «la quinta columna de Putin» en Polonia.
 
-La ley no impediría su candidatura. En Polonia no puede presentarse quien haya sido condenado a prisión por un delito doloso. Sin embargo, la condena de Waluś la dictó un tribunal sudafricano y no cuenta, según Wojciech Hermeliński, expresidente de la comisión electoral. Una fuente bien situada dijo a *GroundUp* que «si se lo piden, no dirá que no».
+La ley no impide que Waluś sea candidato. En Polonia no puede presentarse quien haya sido condenado a prisión por un delito doloso. Sin embargo, la condena de Waluś la dictó un tribunal sudafricano y no cuenta, según Wojciech Hermeliński, expresidente de la comisión electoral. Una fuente bien situada dijo a *GroundUp* que «si se lo piden, no dirá que no».
 
 ## Una campaña marcada por Rusia
 
