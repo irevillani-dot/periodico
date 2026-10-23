@@ -8,7 +8,7 @@ Su padre salió de la cárcel en 2022 y Sudáfrica lo deportó a Polonia en dici
 
 ## El hombre de Braun
 
-Waluś militaba en el Movimiento de Resistencia Afrikáner. Fue condenado por matar a Hani, muy popular en Sudáfrica, cuando el país ya negociaba el fin del apartheid. «Lo que hice, sigo considerándolo necesario», afirmó en su primera entrevista tras volver.
+Waluś militaba en el Movimiento de Resistencia Afrikáner. Fue condenado por matar a Hani, muy popular en Sudáfrica, cuando el país ya negociaba el fin del apartheid. «Lo que hice, sigo considerándolo necesario», afirmó en su primera entrevista tras volver. Añadió que «lo prepararía mejor».
 
 Lo esperaba en el aeropuerto de Varsovia Grzegorz Braun, eurodiputado y líder de la Confederación de la Corona Polaca (KKP). Braun lo llama «el último soldado maldito». Ewa no fue. «Creo que el motivo principal es que Grzegorz Braun está, al fin y al cabo, más cerca de mi padre que yo», explicó a la periodista Dorota Wysocka-Schnepf.
 
@@ -16,9 +16,9 @@ La ley no le cierra el paso. En Polonia no puede presentarse quien haya sido con
 
 ## Una campaña marcada por Rusia
 
-La campaña arrancó extraoficialmente el 1 de septiembre en Westerplatte, la antigua base militar de Gdansk donde el acorazado alemán Schleswig-Holstein abrió fuego contra las tropas polacas en 1939. Ochenta y siete años después, Tusk advirtió allí de que el otoño y el invierno pueden ser decisivos para Ucrania y Polonia. «No hay una Polonia segura sin una Ucrania segura», resumió.
+La campaña arrancó extraoficialmente el 1 de septiembre en Westerplatte, donde empezó en 1939 la Segunda Guerra Mundial. Ochenta y siete años después, Tusk advirtió allí de que el otoño y el invierno pueden ser decisivos para Ucrania y Polonia. «No hay una Polonia segura sin una Ucrania segura», resumió.
 
-La amenaza rusa es real. La guerra continúa al otro lado de la frontera oriental, y Polonia sufre sabotajes y desinformación. En agosto se incendió una fábrica de componentes de drones cerca de Varsovia, y los investigadores analizan si fue un sabotaje.
+La guerra continúa al otro lado de la frontera oriental, y Polonia sufre sabotajes y desinformación. En agosto se incendió una fábrica de componentes de drones cerca de Varsovia, y los investigadores analizan si fue un sabotaje.
 
 El gasto militar es la otra cara de esa amenaza. El proyecto de presupuesto para 2027 destina a Defensa 198.100 millones de zlotys, el 4,5% del PIB, y mantiene el déficit en el 7,1%, según Reuters. La Comisión Europea prevé que Polonia crezca un 3,5% en 2026, la segunda tasa de la UE, impulsada por la inversión con fondos europeos. También calcula que su déficit será el más alto del bloque.
 
@@ -32,7 +32,7 @@ Mazzini explica que muchos los ven ya como competidores en el empleo y en los ne
 
 ## ¿Quién gobierna y puede volver Ley y Justicia?
 
-Tusk gobierna desde 2023 con la Coalición Cívica, Polonia 2050, el PSL y la Izquierda. Convive con Nawrocki, elegido en 2025 con el apoyo de Ley y Justicia (PiS), que veta sus leyes. La coalición no tiene los tres quintos necesarios para anular los vetos, pero *Notes from Poland* prevé que dure hasta 2027. Su problema es otro. «La promesa de cambio llevó a su coalición al Gobierno. Tras cuatro años, Tusk necesitará una nueva razón para que los votantes decepcionados voten», señala TVP World.
+Tusk gobierna desde 2023 con la Coalición Cívica, Polonia 2050, el PSL y la Izquierda. Convive con Nawrocki, elegido en 2025 con el apoyo de Ley y Justicia (PiS). El presidente ha vetado ya 37 leyes, más que ninguno de sus predecesores, según *Notes from Poland*, entre ellas la de los préstamos europeos de defensa. El Gobierno lo apoda «máquina de vetos». La coalición no tiene los tres quintos para anularlos. Además, solo el 33% aprueba la gestión del Gobierno en el último sondeo del CBOS, y el 61,7% espera que Tusk pierda el poder en 2027, según United Surveys. «La promesa de cambio llevó a su coalición al Gobierno. Tras cuatro años, Tusk necesitará una nueva razón para que los votantes decepcionados voten», señala TVP World.
 
 PiS, principal fuerza de la oposición, se rompió en julio. El ex primer ministro Mateusz Morawiecki se marchó con unos 40 diputados y fundó Development Plus. PiS pasó de 186 a 146 escaños, y la Coalición Cívica, con 156, es ahora la primera fuerza del Parlamento.
 
