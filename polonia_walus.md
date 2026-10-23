@@ -8,32 +8,32 @@ Su padre salió de la cárcel en 2022 y Sudáfrica lo deportó a Polonia en dici
 
 ## El hombre de Braun
 
-Waluś militaba en el Movimiento de Resistencia Afrikáner. Fue condenado a muerte por matar a Hani, muy popular en Sudáfrica, cuando el país ya negociaba el fin del apartheid. La pena quedó en cadena perpetua. «Lo que hice, sigo considerándolo necesario», afirmó en su primera entrevista tras volver.
+Waluś militaba en el Movimiento de Resistencia Afrikáner. Fue condenado por matar a Hani, muy popular en Sudáfrica, cuando el país ya negociaba el fin del apartheid. «Lo que hice, sigo considerándolo necesario», afirmó en su primera entrevista tras volver.
 
-Lo esperaba en el aeropuerto de Varsovia Grzegorz Braun, eurodiputado y líder de la Confederación de la Corona Polaca (KKP). Ewa no fue. «Creo que el motivo principal es que Grzegorz Braun está, al fin y al cabo, más cerca de mi padre que yo», explicó a la periodista Dorota Wysocka-Schnepf.
+Lo esperaba en el aeropuerto de Varsovia Grzegorz Braun, eurodiputado y líder de la Confederación de la Corona Polaca (KKP). Braun lo llama «el último soldado maldito». Ewa no fue. «Creo que el motivo principal es que Grzegorz Braun está, al fin y al cabo, más cerca de mi padre que yo», explicó a la periodista Dorota Wysocka-Schnepf.
 
-La ley no le cierra el paso. En Polonia no puede presentarse quien haya sido condenado a prisión por un delito doloso. Sin embargo, la condena de Waluś la dictó un tribunal sudafricano y no cuenta, según Wojciech Hermeliński, expresidente de la comisión electoral. En abril, *Rzeczpospolita* avanzó que KKP lo veía como un posible reclamo electoral. Una fuente bien situada dijo a *GroundUp* que «si se lo piden, no dirá que no». Las decisiones se tomarán el año que viene.
+La ley no le cierra el paso. En Polonia no puede presentarse quien haya sido condenado a prisión por un delito doloso. Sin embargo, la condena de Waluś la dictó un tribunal sudafricano y no cuenta, según Wojciech Hermeliński, expresidente de la comisión electoral. En abril, *Rzeczpospolita* avanzó que KKP lo veía como posible candidato. Una fuente bien situada dijo a *GroundUp* que «si se lo piden, no dirá que no».
 
 ## Una campaña marcada por Rusia
 
 La campaña arrancó extraoficialmente el 1 de septiembre en Westerplatte, la antigua base militar de Gdansk donde el acorazado alemán Schleswig-Holstein abrió fuego contra las tropas polacas en 1939. Ochenta y siete años después, Tusk advirtió allí de que el otoño y el invierno pueden ser decisivos para Ucrania y Polonia. «No hay una Polonia segura sin una Ucrania segura», resumió.
 
-La amenaza rusa es real. La guerra continúa al otro lado de la frontera oriental, y Polonia sufre sabotajes y desinformación. En agosto se incendió una fábrica de componentes de drones cerca de Varsovia, y los investigadores analizan si fue un accidente o un sabotaje.
+La amenaza rusa es real. La guerra continúa al otro lado de la frontera oriental, y Polonia sufre sabotajes y desinformación. En agosto se incendió una fábrica de componentes de drones cerca de Varsovia, y los investigadores analizan si fue un sabotaje.
 
-El gasto militar es la otra cara de esa amenaza. El proyecto de presupuesto para 2027 destina a Defensa 198.100 millones de zlotys, el 4,5% del PIB, y mantiene el déficit en el 7,1%, según Reuters. La Comisión Europea prevé que Polonia crezca un 3,5% en 2026, la segunda tasa de la UE tras Malta. También calcula que su déficit será el más alto del bloque.
+El gasto militar es la otra cara de esa amenaza. El proyecto de presupuesto para 2027 destina a Defensa 198.100 millones de zlotys, el 4,5% del PIB, y mantiene el déficit en el 7,1%, según Reuters. La Comisión Europea prevé que Polonia crezca un 3,5% en 2026, la segunda tasa de la UE, impulsada por la inversión con fondos europeos. También calcula que su déficit será el más alto del bloque.
 
-## Los refugiados, en el centro del debate
+Bruselas y Washington pesan en el debate. Tusk presenta una victoria de la derecha como una amenaza para el lugar de Polonia en Europa. El embajador de EE. UU. habría presionado a la oposición para que descarte a Braun, crítico con Washington.
 
-Los ucranianos son el otro gran asunto. Casi 953.000 tenían protección temporal en Polonia en julio. La cifra bajó en más de 106.500 entre la primavera y principios de septiembre, según datos del Gobierno recogidos por Radio Free Europe. La ley especial dejó de regir en marzo. El presidente, Karol Nawrocki, vetó en agosto de 2025 prorrogar las ayudas, y el Parlamento limitó después el subsidio por hijo a quienes trabajan.
+## Migrantes y refugiados, el malestar
 
-Braun presenta a los refugiados como una amenaza. Waluś usa Sudáfrica como advertencia a Europa sobre la inmigración, según *GroundUp*. Informes de la organización Demagog y del Instituto de Monitorización de Medios sitúan a Braun entre las cuentas más influyentes en difundir contenido antiucraniano.
+Los ucranianos son el otro gran asunto. Casi 953.000 tenían protección temporal en Polonia en julio, aunque la cifra baja desde la primavera, según datos del Gobierno recogidos por Radio Free Europe. La ley especial para ellos dejó de regir en marzo. El periodista Mateusz Mazzini sostiene en *The Guardian* que «la compasión por los ucranianos se ha convertido en desprecio». Un sondeo del CBOS de julio halló que el 52% de los polacos rechaza acogerlos.
 
-## Un tablero fragmentado
+Mazzini explica que muchos los ven ya como competidores en el empleo y en los negocios. El presidente, Karol Nawrocki, vetó en 2025 prorrogar las ayudas, y el Parlamento limitó después el subsidio por hijo a quienes trabajan. Braun presenta a los refugiados como una amenaza. Waluś usa Sudáfrica como advertencia a Europa sobre la inmigración.
 
-El mapa de la derecha está fragmentado, pero es eficiente en las urnas. Ofrece hogares distintos a los votantes tradicionales de Ley y Justicia (PiS), a los libertarios, a los nacionalistas y a los seguidores de Braun. La Coalición Cívica de Tusk ha absorbido a dos partidos pequeños, mientras varios socios del Gobierno se encaminan a la extinción electoral.
+## ¿Quién gobierna y puede volver Ley y Justicia?
 
-Por eso Tusk vuelve a sopesar una lista única, para que los votos de los pequeños no se pierdan bajo el umbral del 5%. Los votantes de izquierda, rurales y centristas pueden negarse. «La promesa de cambio llevó a su coalición al Gobierno. Tras cuatro años, Tusk necesitará una nueva razón para que los votantes decepcionados voten», señala TVP World.
+Tusk gobierna desde 2023 con la Coalición Cívica, Polonia 2050, el PSL y la Izquierda. Convive con Nawrocki, elegido en 2025 con el apoyo de Ley y Justicia (PiS), que veta sus leyes. La coalición no tiene los tres quintos necesarios para anular los vetos, pero *Notes from Poland* prevé que dure hasta 2027. Su problema es otro. «La promesa de cambio llevó a su coalición al Gobierno. Tras cuatro años, Tusk necesitará una nueva razón para que los votantes decepcionados voten», señala TVP World.
 
-Un sondeo de IBRiS para Polsat News, del 20 de octubre, da a la Coalición Cívica el 27,8%, a PiS el 19,1% y a KKP el 11,4%. Jarosław Kaczyński, líder de PiS, dice que no gobernará con Braun, al que llama «muy peligroso». Ahí está el arma de Tusk, que puede presentar una victoria de la derecha como una amenaza para la seguridad y el lugar de Polonia en Europa.
+PiS, principal fuerza de la oposición, se rompió en julio. El ex primer ministro Mateusz Morawiecki se marchó con unos 40 diputados y fundó Development Plus. PiS pasó de 186 a 146 escaños, y la Coalición Cívica, con 156, es ahora la primera fuerza del Parlamento.
 
-Pero, si KKP mantiene su apoyo, la oposición apenas podrá sumar mayoría sin él. La voluntad de Kaczyński de echar a Tusk puede pesar más que su rechazo a Braun, según un análisis de la prensa polaca. Ewa Waluś teme ese desenlace. «No quiero que mi hija crezca y viva de adulta en el país del señor Braun. No sería un país para las mujeres, ni para las minorías, ni para quienes valoran la libertad», ha dicho. «Ahora resulta que este hombre puede ser peligroso para el país que amo. Quería hacer el bien y quizá he hecho algo muy malo».
+Aun así, la derecha podría sumar mayoría, según analistas. Un sondeo de IBRiS del 20 de octubre da a la Coalición Cívica el 27,8%, a PiS el 19,1% y a KKP el 11,4%. Su líder, Jarosław Kaczyński, dice que no gobernará con Braun, al que llama «muy peligroso» y vincula a «conexiones rusas». Pero, si KKP mantiene su apoyo, la oposición apenas podrá sumar sin él. Ewa Waluś teme ese desenlace. «No quiero que mi hija crezca y viva de adulta en el país del señor Braun. No sería un país para las mujeres, ni para las minorías, ni para quienes valoran la libertad», dijo a Onet.
