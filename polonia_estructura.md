@@ -18,7 +18,7 @@ La ley no le impide ser candidato. En Polonia no puede presentarse quien haya si
 
 Braun ha hecho carrera con la provocación. Está acusado de apagar con un extintor una menorá en el Parlamento, de robar banderas ucranianas y europeas de edificios públicos y de destrozar un árbol de Navidad adornado con símbolos LGBT en un juzgado, y la fiscalía quiere procesarlo además por agredir a un médico que practica abortos legales, recoge *GroundUp*. El historiador Antoni Dudek sostiene que su partido es «la quinta columna de Putin» en Polonia [FUENTE?].
 
-La acusación pesa más en una campaña que gira en torno a Rusia. La carrera arrancó extraoficialmente el 1 de septiembre en Westerplatte, donde empezó en 1939 la Segunda Guerra Mundial. Tusk advirtió allí de que el otoño y el invierno pueden ser decisivos para Ucrania y Polonia: «No hay una Polonia segura sin una Ucrania segura». En agosto se incendió una fábrica de componentes de drones cerca de Varsovia, y se investiga si fue un sabotaje [FUENTE?]. El proyecto de presupuesto para 2027 destina a Defensa 198.100 millones de zlotys, el 4,5 % del PIB, según Reuters.
+La acusación pesa más en una campaña que gira en torno a Rusia. La carrera arrancó extraoficialmente el 1 de septiembre en Westerplatte, donde empezó en 1939 la Segunda Guerra Mundial. Allí Tusk advirtió de que «este otoño y este invierno pueden ser clave no solo para la independencia de Ucrania, sino también para la seguridad de Polonia y de todo el mundo libre», recoge la televisión Polsat News. «El destino de Ucrania es también nuestro destino», añadió. Un día antes, un incendio había destruido almacenes de WB Electronics, el mayor fabricante privado de drones del país, en Skarżysko-Kamienna, y los servicios de inteligencia investigan si fue un sabotaje, informa Bloomberg. El proyecto de presupuesto para 2027 destina a Defensa 198.100 millones de zlotys, el 4,5 % del PIB, según Reuters.
 
 ## «La compasión se ha convertido en desprecio»
 
@@ -51,4 +51,4 @@ Si KKP mantiene su apoyo, la derecha apenas podrá sumar sin él. Ewa Waluś tem
 9. **Medios de derecha añadidos:** *Do Rzeczy* (Błaszczak) y *Fronda* (Nawrocki). *Rzeczpospolita* se presenta como «diario conservador».
 10. **Pendientes:**
     - `[VERIFICAR]`: las dos citas nuevas de *Do Rzeczy* y *Fronda* solo se han podido leer en el buscador. Hay que comprobar en el original la cita literal, la fecha y el contexto.
-    - `[FUENTE?]`: primera entrevista de Waluś, «ídolo de la ultraderecha», Hermeliński, Dudek, el incendio de la fábrica de drones y el veto a las ayudas.
+    - `[FUENTE?]`: primera entrevista de Waluś, «ídolo de la ultraderecha», Hermeliński, Dudek, y el veto a las ayudas.
