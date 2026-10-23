@@ -4,15 +4,15 @@
 
 Ewa Waluś tenía tres años cuando su padre, Janusz, emigró a Sudáfrica. En 1993 vio en la televisión que un inmigrante polaco había matado a tiros a Chris Hani, secretario general del Partido Comunista Sudafricano. «Durante mucho tiempo pensé que todavía podía ser un error», contó a la radio TOK FM. No lo era. Waluś, anticomunista y militante del Movimiento de Resistencia Afrikáner, mató a Hani porque lo consideraba un «terrorista». Esperaba, según admitió, que el crimen agravara el conflicto y frenara la transición a la democracia.
 
-Su padre salió de la cárcel en 2022 y Sudáfrica lo deportó a Polonia en diciembre de 2024. Hoy es un ídolo de la ultraderecha polaca. Además, podría presentarse a las elecciones de 2027, según informa el medio sudafricano *GroundUp*.
+Su padre salió de la cárcel en 2022 y Sudáfrica lo deportó a Polonia en diciembre de 2024. Hoy es un ídolo de la ultraderecha polaca, según informa el medio sudafricano *GroundUp*.
 
 ## El hombre de Braun
 
 Fue condenado por el crimen, cometido cuando el país ya negociaba el fin del apartheid. «Lo que hice, sigo considerándolo necesario», afirmó en su primera entrevista. Añadió que «lo prepararía mejor».
 
-Lo esperaba en el aeropuerto de Varsovia Grzegorz Braun, eurodiputado y líder de la Confederación de la Corona Polaca (KKP). Braun lo llama «el último soldado maldito». Ewa no fue. «Creo que el motivo principal es que Grzegorz Braun está, al fin y al cabo, más cerca de mi padre que yo», explicó a la periodista Dorota Wysocka-Schnepf.
+Lo esperaba en el aeropuerto de Varsovia Grzegorz Braun, eurodiputado y líder de la Confederación de la Corona Polaca (KKP). Braun lo llama «el último soldado maldito». Ewa no fue. «Creo que el motivo principal es que Grzegorz Braun está, al fin y al cabo, más cerca de mi padre que yo», explicó a la periodista Dorota Wysocka-Schnepf. Esa cercanía podría llegar a las urnas. Braun estudia incluirlo en sus listas para las legislativas del otoño de 2027, según *Rzeczpospolita*.
 
-En Polonia no puede presentarse quien haya sido condenado a prisión por un delito doloso. Sin embargo, la condena de Waluś la dictó un tribunal sudafricano y no cuenta, según Wojciech Hermeliński, expresidente de la comisión electoral. En abril, *Rzeczpospolita* avanzó que KKP lo veía como posible candidato. Una fuente bien situada dijo a *GroundUp* que «si se lo piden, no dirá que no».
+La ley no impediría su candidatura. En Polonia no puede presentarse quien haya sido condenado a prisión por un delito doloso. Sin embargo, la condena de Waluś la dictó un tribunal sudafricano y no cuenta, según Wojciech Hermeliński, expresidente de la comisión electoral. Una fuente bien situada dijo a *GroundUp* que «si se lo piden, no dirá que no».
 
 ## Una campaña marcada por Rusia
 
