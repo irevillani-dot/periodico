@@ -12,6 +12,10 @@ Fue condenado por el crimen, cometido cuando el país ya negociaba el fin del ap
 
 Lo esperaba en el aeropuerto de Varsovia Grzegorz Braun, eurodiputado y líder de la Confederación de la Corona Polaca (KKP). Braun lo llama «el último soldado maldito». Ewa no fue. «Creo que el motivo principal es que Grzegorz Braun está, al fin y al cabo, más cerca de mi padre que yo», explicó a la periodista Dorota Wysocka-Schnepf. Esa cercanía podría llegar a las urnas. Braun estudia incluirlo en sus listas para las legislativas del otoño de 2027, según *Rzeczpospolita*.
 
+Braun ha hecho carrera con la provocación. Está acusado de apagar con un extintor una menorá de Janucá en el Parlamento. También lo acusan de negar el Holocausto por decir que las cámaras de gas de Auschwitz eran falsas. Además, se le imputa destrozar material durante una conferencia sobre la matanza de los judíos. Ha afirmado que «los judíos» construyeron un centro de mando de reserva para Israel bajo el mayor parque acuático de Polonia.
+
+Su lista de causas pendientes incluye el robo de banderas ucranianas y europeas de edificios públicos. Está acusado además de destrozar un árbol de Navidad adornado con símbolos LGBT en un juzgado, y la fiscalía quiere procesarlo por agredir a un médico que practica abortos legales. Dice que Polonia debe llegar a un entendimiento con Rusia y se niega a llamar criminal a Vladímir Putin. El historiador Antoni Dudek sostiene que Braun y su partido son «la quinta columna de Putin» en Polonia.
+
 La ley no impediría su candidatura. En Polonia no puede presentarse quien haya sido condenado a prisión por un delito doloso. Sin embargo, la condena de Waluś la dictó un tribunal sudafricano y no cuenta, según Wojciech Hermeliński, expresidente de la comisión electoral. Una fuente bien situada dijo a *GroundUp* que «si se lo piden, no dirá que no».
 
 ## Una campaña marcada por Rusia
@@ -28,7 +32,7 @@ Bruselas y Washington pesan en el debate. Tusk presenta una victoria de la derec
 
 Los ucranianos son el otro gran asunto. Casi 953.000 tenían protección temporal en Polonia en julio, aunque la cifra baja desde la primavera, según datos del Gobierno recogidos por Radio Free Europe. La ley especial para ellos dejó de regir en marzo. El periodista Mateusz Mazzini sostiene en *The Guardian* que «la compasión por los ucranianos se ha convertido en desprecio». Un sondeo del CBOS de julio halló que el 52% de los polacos rechaza acogerlos.
 
-Según Mazzini, los refugiados abrieron negocios, a menudo en competencia directa con los locales, y «se negaron a comportarse como receptores agradecidos o pasivos de la caridad polaca». El presidente, Karol Nawrocki, vetó en 2025 prorrogar las ayudas, y el Parlamento limitó después el subsidio por hijo a quienes trabajan. Braun presenta a los refugiados como una amenaza. Waluś usa Sudáfrica como advertencia a Europa sobre la inmigración.
+Según Mazzini, los refugiados abrieron negocios, a menudo en competencia directa con los locales, y «se negaron a comportarse como receptores agradecidos o pasivos de la caridad polaca». El presidente, Karol Nawrocki, vetó en 2025 prorrogar las ayudas, y el Parlamento limitó después el subsidio por hijo a quienes trabajan. Braun presenta a los refugiados como una amenaza y alimenta la teoría de un futuro «Ukropol», una Polonia dominada por ucranianos. Waluś usa Sudáfrica como advertencia a Europa sobre la inmigración.
 
 ## ¿Quién gobierna y puede volver Ley y Justicia?
 
