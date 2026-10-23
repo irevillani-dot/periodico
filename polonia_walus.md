@@ -22,7 +22,7 @@ Polonia sufre sabotajes y desinformación. En agosto se incendió una fábrica d
 
 El proyecto de presupuesto para 2027 destina a Defensa 198.100 millones de zlotys, el 4,5% del PIB, y mantiene el déficit en el 7,1%, según Reuters. La Comisión Europea prevé que Polonia crezca un 3,5% en 2026, la segunda tasa de la UE, impulsada por la inversión con fondos europeos. También calcula que su déficit será el más alto del bloque.
 
-Bruselas y Washington pesan en el debate. Tusk presenta una victoria de la derecha como una amenaza para el lugar de Polonia en Europa. El embajador de EE. UU. habría presionado a la oposición para que descarte a Braun, crítico con Washington.
+Bruselas y Washington pesan en el debate. Tusk presenta una victoria de la derecha como una amenaza para el lugar de Polonia en Europa. El embajador de EE. UU., Thomas Rose, desaconsejó a Ley y Justicia (PiS) una coalición con Braun, crítico con Washington, según *RMF24*.
 
 ## Migrantes y refugiados, el malestar
 
@@ -32,7 +32,7 @@ Según Mazzini, los refugiados abrieron negocios, a menudo en competencia direct
 
 ## ¿Quién gobierna y puede volver Ley y Justicia?
 
-Tusk gobierna desde 2023 con la Coalición Cívica, Polonia 2050, el PSL y la Izquierda. Convive con Nawrocki, elegido en 2025 con el apoyo de Ley y Justicia (PiS). El presidente ha vetado 37 leyes, más que ninguno de sus predecesores, según *Notes from Poland*, entre ellas la de los préstamos europeos de defensa. El Gobierno lo apoda «máquina de vetos». La coalición no tiene los tres quintos para anularlos. Solo el 33% aprueba la gestión del Gobierno en el último sondeo del CBOS, y el 61,7% espera que Tusk pierda el poder en 2027, según United Surveys. «La promesa de cambio llevó a su coalición al Gobierno. Tras cuatro años, Tusk necesitará una nueva razón para que los votantes decepcionados voten», señala TVP World.
+Tusk gobierna desde 2023 con la Coalición Cívica, Polonia 2050, el PSL y la Izquierda. Convive con Nawrocki, elegido en 2025 con el apoyo de PiS. El presidente ha vetado 37 leyes, más que ninguno de sus predecesores, según *Notes from Poland*, entre ellas la de los préstamos europeos de defensa. El Gobierno lo apoda «máquina de vetos». La coalición no tiene los tres quintos para anularlos. Solo el 33% aprueba la gestión del Gobierno en el último sondeo del CBOS, y el 61,7% espera que Tusk pierda el poder en 2027, según United Surveys. «La promesa de cambio llevó a su coalición al Gobierno. Tras cuatro años, Tusk necesitará una nueva razón para que los votantes decepcionados voten», señala TVP World.
 
 PiS, principal fuerza de la oposición, se rompió en julio. El ex primer ministro Mateusz Morawiecki se marchó con unos 40 diputados y fundó Development Plus. PiS pasó de 186 a 146 escaños, y la Coalición Cívica, con 156, es ahora la primera fuerza del Parlamento.
 
