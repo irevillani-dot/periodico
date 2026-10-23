@@ -7,7 +7,7 @@ Ewa Waluś tenía tres años cuando su padre, Janusz, emigró a Sudáfrica. En 1
 Su padre salió de la cárcel en 2022 y Sudáfrica lo deportó a Polonia en diciembre de 2024. Hoy es un ídolo de la ultraderecha polaca. Además, podría presentarse a las elecciones de 2027, según informa el medio sudafricano *GroundUp*.
 ## El hombre de Braun
 
-Waluś militaba en el Movimiento de Resistencia Afrikáner. Fue condenado por matar a Hani, muy popular en Sudáfrica, cuando el país ya negociaba el fin del apartheid. «Lo que hice, sigo considerándolo necesario», afirmó en su primera entrevista tras volver. Añadió que «lo prepararía mejor».
+Waluś militaba en el Movimiento de Resistencia Afrikáner. Fue condenado por matar a Hani, muy popular en Sudáfrica, cuando el país ya negociaba el fin del apartheid. «Lo que hice, sigo considerándolo necesario», afirmó en su primera entrevista. Añadió que «lo prepararía mejor».
 
 Lo esperaba en el aeropuerto de Varsovia Grzegorz Braun, eurodiputado y líder de la Confederación de la Corona Polaca (KKP). Braun lo llama «el último soldado maldito». Ewa no fue. «Creo que el motivo principal es que Grzegorz Braun está, al fin y al cabo, más cerca de mi padre que yo», explicó a la periodista Dorota Wysocka-Schnepf.
 
@@ -25,13 +25,13 @@ Bruselas y Washington pesan en el debate. Tusk presenta una victoria de la derec
 
 ## Migrantes y refugiados, el malestar
 
-Los ucranianos son el otro gran asunto. Casi 953.000 tenían protección temporal en Polonia en julio, aunque la cifra baja desde la primavera, según datos del Gobierno recogidos por Radio Free Europe. La ley especial para ellos dejó de regir en marzo. El periodista Mateusz Mazzini sostiene en *The Guardian* que «la compasión por los ucranianos se ha convertido en desprecio», y advierte de que «las consecuencias podrían ser dramáticas». Un sondeo del CBOS de julio halló que el 52% de los polacos rechaza acogerlos.
+Los ucranianos son el otro gran asunto. Casi 953.000 tenían protección temporal en Polonia en julio, aunque la cifra baja desde la primavera, según datos del Gobierno recogidos por Radio Free Europe. La ley especial para ellos dejó de regir en marzo. El periodista Mateusz Mazzini sostiene en *The Guardian* que «la compasión por los ucranianos se ha convertido en desprecio». Un sondeo del CBOS de julio halló que el 52% de los polacos rechaza acogerlos.
 
-Mazzini explica que muchos los ven ya como competidores en el empleo y en los negocios. El presidente, Karol Nawrocki, vetó en 2025 prorrogar las ayudas, y el Parlamento limitó después el subsidio por hijo a quienes trabajan. Braun presenta a los refugiados como una amenaza. Waluś usa Sudáfrica como advertencia a Europa sobre la inmigración.
+Según Mazzini, los refugiados abrieron negocios, a menudo en competencia directa con los locales, y «se negaron a comportarse como receptores agradecidos o pasivos de la caridad polaca». El presidente, Karol Nawrocki, vetó en 2025 prorrogar las ayudas, y el Parlamento limitó después el subsidio por hijo a quienes trabajan. Braun presenta a los refugiados como una amenaza. Waluś usa Sudáfrica como advertencia a Europa sobre la inmigración.
 
 ## ¿Quién gobierna y puede volver Ley y Justicia?
 
-Tusk gobierna desde 2023 con la Coalición Cívica, Polonia 2050, el PSL y la Izquierda. Convive con Nawrocki, elegido en 2025 con el apoyo de Ley y Justicia (PiS). El presidente ha vetado ya 37 leyes, más que ninguno de sus predecesores, según *Notes from Poland*, entre ellas la de los préstamos europeos de defensa. El Gobierno lo apoda «máquina de vetos». La coalición no tiene los tres quintos para anularlos. Además, solo el 33% aprueba la gestión del Gobierno en el último sondeo del CBOS, y el 61,7% espera que Tusk pierda el poder en 2027, según United Surveys. «La promesa de cambio llevó a su coalición al Gobierno. Tras cuatro años, Tusk necesitará una nueva razón para que los votantes decepcionados voten», señala TVP World.
+Tusk gobierna desde 2023 con la Coalición Cívica, Polonia 2050, el PSL y la Izquierda. Convive con Nawrocki, elegido en 2025 con el apoyo de Ley y Justicia (PiS). El presidente ha vetado 37 leyes, más que ninguno de sus predecesores, según *Notes from Poland*, entre ellas la de los préstamos europeos de defensa. El Gobierno lo apoda «máquina de vetos». La coalición no tiene los tres quintos para anularlos. Solo el 33% aprueba la gestión del Gobierno en el último sondeo del CBOS, y el 61,7% espera que Tusk pierda el poder en 2027, según United Surveys. «La promesa de cambio llevó a su coalición al Gobierno. Tras cuatro años, Tusk necesitará una nueva razón para que los votantes decepcionados voten», señala TVP World.
 
 PiS, principal fuerza de la oposición, se rompió en julio. El ex primer ministro Mateusz Morawiecki se marchó con unos 40 diputados y fundó Development Plus. PiS pasó de 186 a 146 escaños, y la Coalición Cívica, con 156, es ahora la primera fuerza del Parlamento.
 
