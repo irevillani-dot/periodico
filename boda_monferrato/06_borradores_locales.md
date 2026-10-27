@@ -1,6 +1,6 @@
 # Borradores de primer contacto – 5 locales preseleccionados
 
-Fecha pedida: **sábado 2 de octubre de 2027** (alternativa: sábado 9). Boda civil, 65 invitados sin novios. Basado en la plantilla (a) de `04_correos_italiano.md`.
+Fecha pedida: **octubre de 2027** (sin día concreto). Boda civil, 65 invitados sin novios. Basado en la plantilla (a) de `04_correos_italiano.md`.
 
 Firma: [NOMBRE]. **Pendiente:** `[TELÉFONO]`. No se mencionan idioma, hora ni presupuesto.
 
@@ -16,17 +16,17 @@ Contacto: **email no localizada**. Teléfonos vistos en directorios: +39 0141 63
 
 Fuentes: [Wezoree](https://wezoree.com/it/vendors/profile/37675-venues-tenuta-montemagno-relais-wines/), [Meininger](https://www.meininger.de/firmenprofil/142673)
 
-**Oggetto:** Richiesta di disponibilità e preventivo – matrimonio 2 ottobre 2027 – [NOMBRE]
+**Oggetto:** Richiesta di disponibilità e preventivo – matrimonio ottobre 2027 – [NOMBRE]
 
 Gentile Direzione eventi,
 
-mi chiamo [NOMBRE] e sto organizzando il nostro matrimonio nel Monferrato. Abbiamo visto la Tenuta Montemagno Relais & Wines e ci piacerebbe molto celebrare lì questa giornata.
+mi chiamo [NOMBRE] e sto organizzando il nostro matrimonio. Abbiamo visto la Tenuta Montemagno Relais & Wines e ci piacerebbe molto celebrare lì questa giornata.
 
-Prevediamo circa 65 ospiti, sposi esclusi, per sabato 2 ottobre 2027 (date alternative: sabato 9 ottobre 2027, oppure il venerdì o la domenica della stessa settimana). Si tratterebbe di una cerimonia civile.
+Prevediamo circa 65 ospiti, sposi esclusi, per ottobre 2027. Si tratterebbe di una cerimonia civile.
 
 Vorremmo gentilmente sapere:
 
-1. se la struttura è disponibile nelle date indicate;
+1. se la struttura è disponibile nel periodo indicato;
 2. cosa comprende il prezzo (affitto degli spazi, tavoli, sedie, tovagliato, pulizie, personale, illuminazione, parcheggio);
 3. se è previsto l'uso esclusivo della struttura e dei giardini per tutta la giornata;
 4. se i prezzi sono IVA inclusa o esclusa e se il servizio è incluso;
@@ -58,17 +58,17 @@ Contacto: **accoglienza@castellodigabiano.com** (visto en varias fuentes) o info
 
 Fuentes: [Gambero Rosso](https://www.gamberorosso.it/luoghi/aziende/cantina/castello-di-gabiano), [ICE](https://borsaviniseoul2026.eventidigitali.ice.it/azienda/castello-di-gabiano)
 
-**Oggetto:** Richiesta di disponibilità e preventivo – matrimonio 2 ottobre 2027 – [NOMBRE]
+**Oggetto:** Richiesta di disponibilità e preventivo – matrimonio ottobre 2027 – [NOMBRE]
 
 Gentile Direzione,
 
-mi chiamo [NOMBRE] e sto organizzando il nostro matrimonio nel Monferrato. Abbiamo visto il Castello di Gabiano e ci piacerebbe molto celebrare lì questa giornata.
+mi chiamo [NOMBRE] e sto organizzando il nostro matrimonio. Abbiamo visto il Castello di Gabiano e ci piacerebbe molto celebrare lì questa giornata.
 
-Prevediamo circa 65 ospiti, sposi esclusi, per sabato 2 ottobre 2027 (date alternative: sabato 9 ottobre 2027, oppure il venerdì o la domenica della stessa settimana). Si tratterebbe di una cerimonia civile.
+Prevediamo circa 65 ospiti, sposi esclusi, per ottobre 2027. Si tratterebbe di una cerimonia civile.
 
 Vorremmo gentilmente sapere:
 
-1. se la struttura è disponibile nelle date indicate;
+1. se la struttura è disponibile nel periodo indicato;
 2. cosa comprende il prezzo (affitto degli spazi, tavoli, sedie, tovagliato, pulizie, personale, illuminazione, parcheggio);
 3. se è previsto l'uso esclusivo della struttura e dei giardini per tutta la giornata;
 4. se i prezzi sono IVA inclusa o esclusa e se il servizio è incluso;
@@ -100,17 +100,17 @@ Contacto: **castellodilajone@gmail.com** (folleto de eventos corporativos) y web
 
 Fuentes: [Museionline](https://www.museionline.info/piemonte-musei-monumenti/castello-di-lajone), [folleto](https://www.meetingecongressi.com/pdf/184942/presentazione_lajone_-_eventi_corporate_compressed_pdf)
 
-**Oggetto:** Richiesta di disponibilità e preventivo – matrimonio 2 ottobre 2027 – [NOMBRE]
+**Oggetto:** Richiesta di disponibilità e preventivo – matrimonio ottobre 2027 – [NOMBRE]
 
 Gentile Direzione,
 
-mi chiamo [NOMBRE] e sto organizzando il nostro matrimonio nel Monferrato. Abbiamo visto il Castello di Lajone e ci piacerebbe molto celebrare lì questa giornata.
+mi chiamo [NOMBRE] e sto organizzando il nostro matrimonio. Abbiamo visto il Castello di Lajone e ci piacerebbe molto celebrare lì questa giornata.
 
-Prevediamo circa 65 ospiti, sposi esclusi, per sabato 2 ottobre 2027 (date alternative: sabato 9 ottobre 2027, oppure il venerdì o la domenica della stessa settimana). Si tratterebbe di una cerimonia civile.
+Prevediamo circa 65 ospiti, sposi esclusi, per ottobre 2027. Si tratterebbe di una cerimonia civile.
 
 Vorremmo gentilmente sapere:
 
-1. se la struttura è disponibile nelle date indicate;
+1. se la struttura è disponibile nel periodo indicato;
 2. cosa comprende il prezzo (affitto degli spazi, tavoli, sedie, tovagliato, pulizie, personale, illuminazione, parcheggio);
 3. se è previsto l'uso esclusivo della struttura e dei giardini per tutta la giornata;
 4. se i prezzi sono IVA inclusa o esclusa e se il servizio è incluso;
@@ -142,17 +142,17 @@ Contacto: **email no localizada** (en Falstaff aparece oculta). Teléfono visto:
 
 Fuentes: [Falstaff](https://www.falstaff.com/en/restaurants/baladin-open-garden-piozzo), [Baladin](https://www.baladin.it/en/baladin-open-garden), [Matrimonio.com](https://www.matrimonio.com/location-matrimoni/baladin-open-garden--e443833)
 
-**Oggetto:** Richiesta di disponibilità e preventivo – matrimonio 2 ottobre 2027 – [NOMBRE]
+**Oggetto:** Richiesta di disponibilità e preventivo – matrimonio ottobre 2027 – [NOMBRE]
 
 Gentile Ufficio eventi,
 
-mi chiamo [NOMBRE] e sto organizzando il nostro matrimonio nel Monferrato. Abbiamo visto il Baladin Open Garden e ci piacerebbe molto celebrare lì questa giornata.
+mi chiamo [NOMBRE] e sto organizzando il nostro matrimonio. Abbiamo visto il Baladin Open Garden e ci piacerebbe molto celebrare lì questa giornata.
 
-Prevediamo circa 65 ospiti, sposi esclusi, per sabato 2 ottobre 2027 (date alternative: sabato 9 ottobre 2027, oppure il venerdì o la domenica della stessa settimana). Si tratterebbe di una cerimonia civile.
+Prevediamo circa 65 ospiti, sposi esclusi, per ottobre 2027. Si tratterebbe di una cerimonia civile.
 
 Vorremmo gentilmente sapere:
 
-1. se la struttura è disponibile nelle date indicate;
+1. se la struttura è disponibile nel periodo indicato;
 2. cosa comprende il prezzo (affitto degli spazi, tavoli, sedie, tovagliato, pulizie, personale, illuminazione, parcheggio);
 3. se è previsto l'uso esclusivo della struttura e dei giardini per tutta la giornata;
 4. se i prezzi sono IVA inclusa o esclusa e se il servizio è incluso;
@@ -184,17 +184,17 @@ Contacto: **email no localizada**. Teléfonos de una ficha de producto: +39 0143
 
 Fuentes: [Matrimonio.com](https://www.matrimonio.com/castelli-matrimoni/castello-di-grillano--e116705), [ficha PDF](https://files.supersite.aruba.it/media/34574_ab4f0534c930f94ab0038607533a4b0d2c538a7d.pdf)
 
-**Oggetto:** Richiesta di disponibilità e preventivo – matrimonio 2 ottobre 2027 – [NOMBRE]
+**Oggetto:** Richiesta di disponibilità e preventivo – matrimonio ottobre 2027 – [NOMBRE]
 
 Gentile Famiglia Torello Rovereto,
 
-mi chiamo [NOMBRE] e sto organizzando il nostro matrimonio nel Monferrato. Abbiamo visto il Castello di Grillano e ci piacerebbe molto celebrare lì questa giornata.
+mi chiamo [NOMBRE] e sto organizzando il nostro matrimonio. Abbiamo visto il Castello di Grillano e ci piacerebbe molto celebrare lì questa giornata.
 
-Prevediamo circa 65 ospiti, sposi esclusi, per sabato 2 ottobre 2027 (date alternative: sabato 9 ottobre 2027, oppure il venerdì o la domenica della stessa settimana). Si tratterebbe di una cerimonia civile.
+Prevediamo circa 65 ospiti, sposi esclusi, per ottobre 2027. Si tratterebbe di una cerimonia civile.
 
 Vorremmo gentilmente sapere:
 
-1. se la struttura è disponibile nelle date indicate;
+1. se la struttura è disponibile nel periodo indicato;
 2. cosa comprende il prezzo (affitto degli spazi, tavoli, sedie, tovagliato, pulizie, personale, illuminazione, parcheggio);
 3. se è previsto l'uso esclusivo della struttura e dei giardini per tutta la giornata;
 4. se i prezzi sono IVA inclusa o esclusa e se il servizio è incluso;
