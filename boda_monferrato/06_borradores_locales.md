@@ -37,6 +37,7 @@ Vorremmo gentilmente sapere:
 9. quale soluzione alternativa prevedete in caso di pioggia, per cerimonia e ricevimento;
 10. se per i matrimoni l'uso esclusivo comprende tutte le 17 camere e a quali condizioni; quante camere restano disponibili per i nostri ospiti;
 11. se potete accogliere ospiti con esigenze alimentari particolari (vegetariani, vegani, celiaci, allergie).
+12. se offrite un pacchetto matrimonio "tutto incluso" (catering e bevande, allestimento floreale, musica, fotografo, wedding planner o coordinatore, torta, alloggio) e, in tal caso, cosa comprende e quanto costa; in alternativa, quali di questi servizi potete gestire voi.
 
 Abbiamo letto che per catering e allestimenti ci si affida a fornitori di fiducia della tenuta: potreste inviarci l'elenco?
 
@@ -78,6 +79,7 @@ Vorremmo gentilmente sapere:
 9. quale soluzione alternativa prevedete in caso di pioggia, per cerimonia e ricevimento;
 10. quante camere e posti letto (ci risultano 16) sono disponibili per gli ospiti e a quali condizioni;
 11. se potete accogliere ospiti con esigenze alimentari particolari (vegetariani, vegani, celiaci, allergie).
+12. se offrite un pacchetto matrimonio "tutto incluso" (catering e bevande, allestimento floreale, musica, fotografo, wedding planner o coordinatore, torta, alloggio) e, in tal caso, cosa comprende e quanto costa; in alternativa, quali di questi servizi potete gestire voi.
 
 Ci risulta che il castello offra il rito civile e una cappella, e che la sala interna accolga circa 60 persone: come si organizzerebbe il ricevimento per 67 persone, tra sposi e ospiti?
 
@@ -119,6 +121,7 @@ Vorremmo gentilmente sapere:
 9. quale soluzione alternativa prevedete in caso di pioggia, per cerimonia e ricevimento;
 10. se la struttura dispone di camere per gli ospiti, quanti posti letto ci sono e a quali condizioni;
 11. se potete accogliere ospiti con esigenze alimentari particolari (vegetariani, vegani, celiaci, allergie).
+12. se offrite un pacchetto matrimonio "tutto incluso" (catering e bevande, allestimento floreale, musica, fotografo, wedding planner o coordinatore, torta, alloggio) e, in tal caso, cosa comprende e quanto costa; in alternativa, quali di questi servizi potete gestire voi.
 
 In un annuncio abbiamo letto un costo di affitto di 3.900 euro più IVA e un numero minimo garantito di ospiti per il catering: potreste confermarci le condizioni attuali?
 
@@ -160,6 +163,7 @@ Vorremmo gentilmente sapere:
 9. quale soluzione alternativa prevedete in caso di pioggia, per cerimonia e ricevimento;
 10. se dispone di alloggio per gli ospiti o se potete consigliarci strutture vicine;
 11. se potete accogliere ospiti con esigenze alimentari particolari (vegetariani, vegani, celiaci, allergie).
+12. se offrite un pacchetto matrimonio "tutto incluso" (catering e bevande, allestimento floreale, musica, fotografo, wedding planner o coordinatore, torta, alloggio) e, in tal caso, cosa comprende e quanto costa; in alternativa, quali di questi servizi potete gestire voi.
 
 Ci risulta che dal 2023 la struttura sia autorizzata a celebrare le unioni civili: la cerimonia civile potrebbe tenersi lì, con rito celebrato da un ufficiale di stato civile? Ci risulta inoltre che non sia possibile affittare la struttura senza il vostro catering.
 
@@ -201,6 +205,7 @@ Vorremmo gentilmente sapere:
 9. quale soluzione alternativa prevedete in caso di pioggia, per cerimonia e ricevimento;
 10. quante camere sono disponibili per gli ospiti e a quali condizioni;
 11. se potete accogliere ospiti con esigenze alimentari particolari (vegetariani, vegani, celiaci, allergie).
+12. se offrite un pacchetto matrimonio "tutto incluso" (catering e bevande, allestimento floreale, musica, fotografo, wedding planner o coordinatore, torta, alloggio) e, in tal caso, cosa comprende e quanto costa; in alternativa, quali di questi servizi potete gestire voi.
 
 Ci risulta un menù di nozze da 70 a 130 euro a persona: cosa comprende e da cosa dipende la differenza di prezzo?
 
