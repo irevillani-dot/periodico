@@ -8,7 +8,7 @@ El contraste se ve esta semana. En Ningbo (China) arranca el primer Mundial que 
 
 ## Moscú, por primera vez desde 1983
 
-La IWF anunció el domingo cuatro sedes. Ahmedabad (India) acogerá el Mundial de 2029, el primero de la federación en el país, y Moscú el de 2030. Prishtina (Kosovo) y Caracas tendrán en 2028 los campeonatos juvenil y junior. Moscú no organizaba un Mundial de este deporte desde 1983. Es además el primer gran evento de un deporte olímpico que se concede a Rusia desde la invasión de Ucrania, según *The Moscow Times*.
+La IWF anunció el domingo cuatro sedes. Ahmedabad (India) acogerá el Mundial de 2029, el primero de la federación en el país. Moscú será la sede del de 2030. Prishtina (Kosovo) y Caracas tendrán en 2028 los campeonatos juvenil y junior. Moscú no organizaba un Mundial de este deporte desde 1983. Es además el primer gran evento de un deporte olímpico que se concede a Rusia desde la invasión de Ucrania, según *The Moscow Times*.
 
 La IWF calificó de «excelentes» las candidaturas de Rusia y la India. La federación rusa habló de un «resultado histórico». El ministro de Exteriores ucraniano, Andrí Sybiha, lo vio de otra manera. Calificó la decisión de «inaceptable» y pidió revertirla. «Es inmoral conceder a Moscú el privilegio de acoger un gran evento deportivo internacional mientras continúa su agresión», afirmó, según *Kyiv Post*. En el congreso de la federación, el delegado de Noruega preguntó «cómo podían conceder el torneo al agresor», según *Inside the Games*. El ministro ucraniano de Juventud y Deportes, Matvii Bidnyi, prepara recursos ante la IWF y el COI, según *Kyiv Post*.
 
