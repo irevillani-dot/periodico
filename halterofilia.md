@@ -10,7 +10,7 @@ Detrás de la decisión hay un intercambio de necesidades. Rusia recupera un lug
 
 La IWF, por su parte, necesita aliados. La halterofilia figura entre los deportes con el futuro olímpico más comprometido, señala *Il Post*, por los problemas de su federación y su escaso atractivo. Su presencia en Los Ángeles 2028 solo se confirmó en 2023. Fue tras «una enorme mejora dentro de la propia IWF y en su política antidopaje», dijo entonces el secretario general, Antonio Urso. Por eso, según *The Athletic*, la federación busca en India y Rusia «amigos musculosos». Son aliados políticos que ayuden a la halterofilia a seguir en los Juegos.
 
-La clave está en la historia del deporte. Los atletas soviéticos dominaron el podio olímpico desde los años cincuenta hasta los noventa. Vasily Alekseyev logró 80 récords mundiales y dos oros olímpicos en los setenta, según *RFE/RL*.
+Esa búsqueda de aliados tiene raíces en la historia del deporte. Los atletas soviéticos dominaron el podio olímpico desde los años cincuenta hasta los noventa. Vasily Alekseyev logró 80 récords mundiales y dos oros olímpicos en los setenta, según *RFE/RL*.
 
 Desde los noventa se reparten las medallas China, Turquía, Grecia e Irán. Turquía tuvo a Naim Süleymanoğlu, cuyo oro de 1988 acercó este deporte a la lucha, el deporte nacional, según una tesis de la Universidad de Western Ontario. En Armenia, Yurik Vardanyan, campeón olímpico soviético, recibió la Orden de Lenin y llegó a ser ministro de Deportes.
 
