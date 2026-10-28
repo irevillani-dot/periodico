@@ -4,7 +4,7 @@
 
 La Federación Internacional de Halterofilia (IWF, por sus siglas en inglés) ha decidido celebrar su Mundial de 2030 en Moscú. Lo anunció el domingo 25 de octubre, junto con el de 2029, que será en Ahmedabad (India). Es el primer gran evento de un deporte olímpico que se concede a Rusia desde la invasión de Ucrania, según *The Moscow Times*. Moscú no organizaba un Mundial de este deporte desde 1983.
 
-La IWF no explicó por qué eligió Rusia. Su secretario general, José Quiñones, dijo solo que todas las candidaturas recibidas eran «excelentes». El ministro de Exteriores ucraniano, Andrí Sybiha, calificó la decisión de «inaceptable» y pidió revertirla. «Es inmoral conceder a Moscú el privilegio de acoger un gran evento deportivo internacional mientras continúa su agresión», afirmó, según *Kyiv Post*. En el congreso de la federación, el delegado de Noruega preguntó «cómo podían conceder el torneo al agresor», según *Inside the Games*.
+La IWF no explicó por qué eligió Rusia. Su secretario general, José Quiñones, dijo solo que todas las candidaturas recibidas eran «excelentes». El ministro de Exteriores ucraniano, Andrí Sybiha, calificó la decisión de «inaceptable» y pidió revertirla. «Es inmoral conceder a Moscú el privilegio de acoger un gran evento deportivo internacional mientras continúa su agresión», afirmó, según *Kyiv Post*. Queda entonces por saber qué gana cada una de las partes.
 
 ## ¿Quién necesita a quién?
 
