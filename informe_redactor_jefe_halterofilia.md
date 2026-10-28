@@ -54,7 +54,7 @@ No hacen falta recortes. Las frases más largas de la corregida tienen 30 palabr
 
 ## Pendiente de la autora
 
-- Cuatro citas de Serra sin transcripción. El episodio 125 tuvo como invitada a la halterófila Giulia Imperio, así que hay que confirmar quién dice cada frase.
+- Citas de Serra confirmadas por la autora, que ha escuchado el episodio 125: las dice Serra, no la invitada.
 - La cita de Rippetoe, sin original localizado.
 - La cita de *The Athletic* «un largo camino por recorrer», de la que depende el tercer ladillo.
 - «amigos musculosos», de segunda mano vía *Il Post*. Si no aparece el original, mejor «según *The Athletic*, citado por *Il Post*».
@@ -73,7 +73,7 @@ No hacen falta recortes. Las frases más largas de la corregida tienen 30 palabr
 
 **Diagnóstico.** La tesis de la pieza está en el §6 («Esa historia ayuda a entender…»). Rusia necesita volver al calendario y la IWF necesita aliados para seguir en los Juegos. Es lo que explica el titular, pero llega en el sexto de nueve párrafos, después de la reacción, de dos párrafos de debilidad del deporte y de la historia soviética. El §2 ocupa el sitio de lo que está en juego y lo aplaza con «Para entenderla hay que mirar primero al propio deporte». Es el mismo fallo que el editor corrigió en Nord Stream, donde lo que estaba en juego subió del sexto al segundo párrafo. Además, el §5 (historia soviética) queda bajo un ladillo de «amigos musculosos» que no le corresponde. Se entiende mejor como entrada del bloque ruso, antes del dopaje de Estado.
 
-El cierre (§9) tiene una buena escena de «mientras tanto» en Ningbo, pero la cita del pintor flamenco habla de la estética del deporte y no vuelve ni a la tesis ni al titular. Solo «luces y sombras» podría enlazar con la pieza (gloria soviética y dopaje), y el texto no hace ese enlace. Hay dos salidas, y ninguna se aplica en la versión reordenada porque supondrían reescribir. Una es cerrar con la cita de *Sports IN*, que responde a la parte rusa del titular. La otra es enlazar las «luces y sombras» con la tesis en la última frase. Si se recorta la cita del pintor (15 palabras entre comillas), las citas quedan en torno al 17%, dentro del margen.
+El cierre (§9) se mantiene. La autora lo ha decidido así porque «luces y sombras» funciona en dos planos. Serra lo dice en sentido técnico, y el lector, después del dopaje y de la vuelta de Rusia, lo lee en sentido figurado. Que el doble sentido lo cree el contexto y no una valoración propia es un cierre válido. Solo cambia la frase de Ningbo, porque «la barra sigue subiendo» no se entendía.
 
 **Nuevo orden**
 

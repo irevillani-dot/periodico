@@ -64,3 +64,9 @@ Comparación entre la versión que envió la autora y la que se publicó el 22 d
 ## Lo que no se imita
 - Dos puntos explicativos («…la extradición: Italia lo entregó…»): en la página solo se usan ante una enumeración.
 - Cursivas incoherentes en lo publicado (*SRF*, *Reuters*, *Radio Free Europe* en cursiva, pero «la cadena SRF» en redonda): agencias y cadenas van en redonda.
+
+# Cierres de doble lectura (lección de la halterofilia)
+
+Una cita que la fuente dice en sentido literal puede cerrar la pieza si el lector, por lo que acaba de leer, la entiende también en sentido figurado. En la pieza de la halterofilia, Matteo Serra habla de la técnica como de «un deporte que se basa en el contraste entre luces y sombras». Después del dopaje y de la vuelta de Rusia, la frase se lee también como balance. Es válido porque el doble sentido lo crea el contexto, no una valoración del texto. Condiciones:
+- La cita va al final, sin ninguna frase detrás que la explique.
+- La frase que la introduce es clara y literal: nada de metáforas propias que compitan con la de la cita.
