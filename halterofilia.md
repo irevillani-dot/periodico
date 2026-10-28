@@ -10,23 +10,27 @@ La IWF no explicó por qué eligió Rusia. Su secretario general, José Quiñone
 
 Detrás de la decisión hay un intercambio de necesidades. Rusia recupera un lugar en el calendario del que estaba apartada. La IWF prohibió en 2022 los torneos en Rusia y Bielorrusia, según *The Kyiv Independent*. Aleksandr Vinokurov, presidente de la federación rusa, agradeció ahora a la IWF «su confianza» en Telegram. El Mundial de 2030 servirá además como clasificatorio para los Juegos de 2032.
 
-La IWF, por su parte, necesita aliados. La halterofilia figura entre los deportes con el futuro olímpico más comprometido, señala *Il Post*, por los problemas de su federación y su escaso atractivo. Su presencia en Los Ángeles 2028 solo se confirmó en 2023. Fue tras «una enorme mejora dentro de la propia IWF y en su política antidopaje», dijo entonces el secretario general, Antonio Urso. Por eso, según *The Athletic*, la federación busca en India y Rusia «amigos musculosos». Son aliados políticos que ayuden a la halterofilia a seguir en los Juegos, al menos unas ediciones más.
+La IWF, por su parte, necesita aliados. La halterofilia figura entre los deportes con el futuro olímpico más comprometido, señala *Il Post*, por los problemas de su federación y su escaso atractivo. Su presencia en Los Ángeles 2028 solo se confirmó en 2023. Fue tras «una enorme mejora dentro de la propia IWF y en su política antidopaje», dijo entonces el secretario general, Antonio Urso. Por eso, según *The Athletic*, la federación busca en India y Rusia «amigos musculosos». Son aliados políticos que ayuden a la halterofilia a seguir en los Juegos.
 
-## Héroes nacionales en el Este
+## Héroes en el Este, afición de gimnasio en Occidente
 
-El mapa del deporte ayuda a entender la elección. Los atletas soviéticos dominaron el podio olímpico desde los años cincuenta hasta los noventa. Desde entonces se reparten las medallas China, Turquía, Grecia e Irán. En Armenia es uno de los deportes más populares. La ciudad de Gyumri es conocida por sus campeones. Yurik Vardanyan, campeón olímpico soviético, recibió la Orden de Lenin y llegó a ser ministro de Deportes.
+Los atletas soviéticos dominaron el podio olímpico desde los años cincuenta hasta los noventa. Vasily Alekseyev logró 80 récords mundiales y dos oros olímpicos en los setenta, según *RFE/RL*.
 
-Los Gobiernos del Cáucaso y de Asia Central premian a sus campeones olímpicos. Georgia prometió un millón de laris (unos 324.000 dólares) a cada oro en Tokio 2020, según *Civil Georgia*. Kazajistán pagó unos 250.000 dólares por oro en Londres 2012, según *Eurasianet*. Ofreció la misma cifra en París 2024, según *The Times of Central Asia*. Uzbekistán prometió 200.000 dólares.
+Desde los noventa se reparten las medallas China, Turquía, Grecia e Irán. China lidera el medallero histórico, con 43 oros. Turquía tuvo a Naim Süleymanoğlu, cuyo oro de 1988 acercó este deporte a la lucha, el deporte nacional, según una tesis de la Universidad de Western Ontario. En Armenia es uno de los más populares. Yurik Vardanyan, campeón olímpico soviético, recibió la Orden de Lenin y llegó a ser ministro de Deportes.
+
+Los Gobiernos de la región premian a sus campeones olímpicos. Georgia prometió un millón de laris (unos 324.000 dólares) a cada oro en Tokio 2020, según *Civil Georgia*. Kazajistán pagó unos 250.000 dólares por oro en Londres 2012, según *Eurasianet*.
+
+En Occidente, el recorrido ha sido otro. En Estados Unidos, el deporte compite por los jóvenes fuertes con el fútbol americano, el baloncesto y el béisbol, según el entrenador Mark Rippetoe. «No es un deporte popular que recompense bien a sus atletas», sostiene. La afición llegó por el gimnasio. El CrossFit, que incluye los movimientos olímpicos en sus entrenamientos, duplicó con creces los miembros de USA Weightlifting entre 2012 y 2016, según el Comité Olímpico de EE. UU. El resultado es un deporte que se practica más de lo que se mira, según *Il Post*, por su escaso atractivo.
 
 ## Un pasado que pesa
 
-El dopaje ha dejado huella. Tamás Aján presidió la IWF de 2000 a 2020 y dimitió tras un documental de la televisión alemana sobre dopaje y corrupción. Las pruebas retrospectivas de Pekín 2008 y Londres 2012 dejaron a Kazajistán sin varios oros, entre ellos los dos de Ilya Ilyin. China perdió tres de Pekín, según *CBC*. La halterofilia solo es superada por el atletismo en positivos de la historia de los Juegos.
+El dopaje ha dejado huella. Tamás Aján presidió la IWF de 2000 a 2020 y dimitió tras un documental de la televisión alemana sobre dopaje y corrupción. Las pruebas retrospectivas de Pekín 2008 y Londres 2012 dejaron a Kazajistán sin varios oros, entre ellos los dos de Ilya Ilyin. China perdió tres de Pekín, según *CBC*.
 
 El COI respondió con un recorte. La halterofilia pasó de 15 pruebas y 260 atletas en Río 2016 a 10 pruebas y 120 en París 2024, según el propio COI. Fue el mayor recorte de cualquier deporte. Rusia también carga con ese pasado. Aplicó un programa de dopaje patrocinado por el Estado en los Juegos de Invierno de Sochi 2014, según la agencia antidopaje mundial.
 
 ## El deshielo, a pasos cortos
 
-Las puertas se han abierto en los últimos meses. La IWF levantó el 26 de junio las restricciones a los atletas rusos y bielorrusos, según *Inside the Games*. El 7 de julio el COI relajó las suyas y abrió a los rusos el camino hacia las pruebas de clasificación de Los Ángeles. Ucrania recurrió esa decisión ante el Tribunal de Arbitraje Deportivo.
+Las puertas se han abierto en los últimos meses. La IWF levantó el 26 de junio las restricciones a los atletas rusos y bielorrusos, según *Inside the Games*. El 7 de julio el COI relajó las suyas y abrió a los rusos el camino hacia las pruebas de clasificación de Los Ángeles.
 
 La rehabilitación completa parece lejana. El COI no organizará eventos en Rusia y decidirá «en el momento oportuno» si puede exhibir su bandera y su himno. El punto, escribe *The Athletic*, «no es que Rusia haya vuelto a la escena, sino que su renacimiento tiene aún un largo camino por recorrer». Conceder un Mundial a Moscú «no determina las condiciones de la participación de Rusia en los Juegos ni garantiza la vuelta de su bandera y su himno», recuerda *Sports IN*.
 
