@@ -18,7 +18,7 @@ El COI calificó sus conclusiones de «profundamente preocupante». En respuesta
 
 ## El regreso de Rusia
 
-Para Rusia, el Mundial es un paso más en su vuelta. Tras la invasión de Ucrania, en 2022, el COI recomendó excluir a sus atletas de las competiciones internacionales. La IWF los admitió en mayo de 2023 como neutrales y sin bandera, pero la Federación Rusa de Halterofilia rechazó las condiciones.
+Tras la invasión de Ucrania, en 2022, el COI recomendó excluir a los atletas rusos de las competiciones internacionales. La IWF los admitió en mayo de 2023 como neutrales y sin bandera, pero la Federación Rusa de Halterofilia rechazó las condiciones.
 
 A la exclusión se suma el historial de dopaje. En 2016, la Agencia Mundial Antidopaje publicó un informe del jurista canadiense Richard McLaren. Según sus conclusiones, el Estado ruso había ocultado el dopaje de sus deportistas en más de 30 disciplinas. El caso más grave fue el de los Juegos de Invierno de Sochi 2014, que organizaba la propia Rusia. Las sanciones llegaron a dejar a toda la halterofilia rusa fuera de Río 2016.
 
