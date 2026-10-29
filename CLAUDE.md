@@ -75,6 +75,7 @@ El revisor de estilo y el redactor jefe repasan esta lista en cada pieza. Cuando
   - «por su parte» sin un actor en paralelo;
   - «Después» cuando la relación es de consecuencia y no de tiempo.
 - **Pronombres y sujetos que se quedan huérfanos al mover o quitar una frase.** «sus atletas» tras quitar la frase sobre Rusia, «lo calificó» sin antecedente claro, «dejó en el aire» cuando el sujeto ha cambiado en la frase anterior. Después de cada movimiento se relee la frase siguiente.
+- **Fechas de más.** Si el día exacto no aporta nada al lector, basta el mes o un enlace temporal: «el 26 de junio… el 7 de julio» pasa a «en junio de 2026… una decisión a la que el COI se sumó poco después». Al quitar una fecha se revisa la frase siguiente (aquí, «Ese día retiró…» se quedaba sin referencia y pasa a «Retiró…»).
 - **Frases con complementos amontonados.** «le redujo las plazas en París 2024, de 196 en Tokio 2020 a 120». Se dice primero qué se hizo y luego la cifra: «redujo las plazas destinadas a la halterofilia en París 2024, que pasaron de 196 a 120».
 - **Imágenes propias que no se entienden.** «la barra sigue subiendo». En los cierres manda la imagen de la cita, no una nuestra.
 - **Hechos paralelos en frases calcadas.** «El 26 de junio la IWF levantó… El 7 de julio el COI levantó…». Se unen en una frase que diga la relación: «…una decisión a la que el COI se sumó el 7 de julio».
