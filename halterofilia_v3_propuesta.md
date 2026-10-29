@@ -6,7 +6,7 @@ La Federación Internacional de Halterofilia (IWF) ha decidido celebrar su Mundi
 
 Moscú no organizaba un Mundial de este deporte desde 1983. La IWF no explicó por qué eligió Rusia. Su secretario general, José Quiñones, se limitó a decir que todas las candidaturas recibidas eran «excelentes». El ministro de Exteriores ucraniano, Andrí Sybiha, calificó la elección de «inaceptable».
 
-Rusia viene de años de aislamiento. Tras la invasión, en 2022, el Comité Olímpico Internacional (COI) recomendó excluir a los atletas rusos de las competiciones internacionales. En halterofilia, la IWF los admitió en mayo de 2023 como neutrales y sin bandera, pero la federación rusa de halterofilia rechazó las condiciones.
+Rusia viene de años de aislamiento. Tras la invasión, en 2022, el Comité Olímpico Internacional (COI) recomendó excluir a los atletas rusos de las competiciones internacionales. En halterofilia, la IWF los admitió en mayo de 2023 como neutrales y sin bandera, pero la Federación Rusa de Halterofilia rechazó las condiciones.
 
 A la exclusión se suma el historial de dopaje. En los Juegos de Invierno de Sochi 2014, varios deportistas rusos consumieron sustancias prohibidas sin dar positivo. En 2016, una investigación encargada por la Agencia Mundial Antidopaje reveló que el Estado lo había ocultado. No fue un caso aislado. Ese año, toda la halterofilia rusa quedó fuera de Río por dopaje. Desde entonces, sus deportistas compiten con restricciones. Pese a esos obstáculos, el país ha ido recuperando terreno. El 26 de junio la IWF levantó las restricciones a los atletas rusos y bielorrusos. El 7 de julio el COI relajó las suyas y permitió a los rusos competir en las pruebas de clasificación para Los Ángeles 2028.
 
