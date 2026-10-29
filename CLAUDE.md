@@ -21,6 +21,13 @@ Cuando la autora pasa un texto para revisar:
 ## Comprobaciones obligatorias del redactor jefe
 
 0. **Estilo en la primera entrega**: el informe dice cuántas frases pasan de 30 palabras en el original y en la corregida (debe ser 0 en la corregida), y confirma que no quedan dos puntos fuera de una enumeración ni comas antes de «y» entre oraciones.
+0b. **Estructura clara para el lector, desde la primera entrega**: el texto tiene que entenderse a la primera. El redactor jefe lo comprueba siempre, aunque la autora no lo pida:
+   - un tema o un actor por bloque (por ejemplo, todo lo de la federación junto y todo lo de Rusia junto), sin ir y volver entre ellos;
+   - la tesis en el primer o segundo párrafo, dicha en una frase;
+   - cada dato una sola vez (si aparece en dos párrafos, se queda donde explica algo y se quita del otro);
+   - la misma fórmula de enlace no se repite («A esa debilidad se suma…», «A la exclusión se suma…»);
+   - cada escándalo, cifra o cita con su fuente y sin mezclar dos casos parecidos (dopaje de un Estado frente a corrupción de una federación).
+   Si la estructura falla, se entrega ya la propuesta de reorganización completa, sin esperar a que la autora la pida.
 1. **Raccord**: que nadie ni nada aparezca como ya presentado sin haberlo sido. Por ejemplo: persona citada solo por el apellido o por el cargo en su primera aparición; «el embajador», «la ministra», «el diario» sin presentar; siglas sin desarrollar (WSJ); pronombres y posesivos sin antecedente («lo», «su», «esos mismos»); cargos o grafías que cambian entre párrafos; datos que se contradicen entre el subtítulo y el cuerpo o entre párrafos.
 2. **Porcentaje de citas**: las palabras entre comillas deben ser **entre el 15 % y el 20 %** del cuerpo del texto (sin titular, subtítulo ni ladillos). Se calcula con el script, no a ojo:
 
@@ -66,3 +73,7 @@ Referencia general: **Libro de estilo de *El País***, que es el que sigue la re
 - Primera mención de cada persona con nombre completo y cargo; cargos en minúscula.
 - «el mismo periódico» o «el diario» solo si el antecedente inmediato es ese medio.
 - Nombres rusos y ucranianos: transcripción al español según la Fundéu (Volodímir Zelenski, Serhí, Andrí Yermak, Kiev), no la transliteración inglesa.
+
+## Trato con la autora
+
+- No contestar «tienes razón» ni dar la razón de palabra: aplicar la corrección, anotar la lección aquí o en `herramientas/` y que no se repita.
