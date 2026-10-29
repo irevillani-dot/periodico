@@ -59,6 +59,26 @@ Cuando la autora pasa un texto para revisar:
 - Si la autora pasa un artículo de base para inspirarse, el ángulo se busca con el método de `herramientas/metodo_angulo.md`: el dato que cambia, por qué ahora, la escala europea, hechos de fuentes locales y voces del artículo de base, la reacción y el cierre con la cita más fuerte.
 - Si la autora pide reestructurar un párrafo concreto, se hace aunque la plantilla sea fija, sin cambiar la extensión ni el porcentaje de citas.
 
+## Errores de conexión que corrige la autora (no repetir)
+
+El revisor de estilo y el redactor jefe repasan esta lista en cada pieza. Cuando la autora corrija algo de este tipo, se añade aquí con su ejemplo.
+
+- **Frase de entrada que anticipa una conclusión o repite el ladillo.** «Para Rusia, el Mundial es un paso más en su vuelta», bajo el ladillo «El regreso de Rusia». Se quita y el bloque arranca con el primer hecho («Tras la invasión de Ucrania, en 2022…»).
+- **Palabras que piden un complemento que no está.** «su vuelta» (¿a qué?), «un paso más» (cuando los pasos anteriores aún no se han contado).
+- **Medidas contadas como hechos sueltos.** «En respuesta, recortó las plazas…» no dice que fuera una sanción. Primero va la decisión general (el COI condicionó su futuro olímpico a una reforma) y después sus consecuencias concretas (menos plazas, exclusión provisional, readmisión).
+- **Hechos sin su porqué.** «El COI relajó sus restricciones» deja al lector preguntándose por qué. Se da el motivo con su fuente (la suspensión de 2023 y sus causas, el argumento de Kirsty Coventry).
+- **Saltos sin transición entre temas.** Pasar de la noticia del Mundial al dopaje de Sochi sin una frase que explique la relación. Si dos temas van seguidos, el segundo se presenta como un obstáculo o una causa del primero, en el orden en que pesan (primero la exclusión por la guerra, después el dopaje).
+- **Conectores que no unen nada.**
+  - «en cambio» sin nada con lo que contrastar;
+  - «Por eso» sin una causa delante;
+  - «por su parte» sin un actor en paralelo;
+  - «Después» cuando la relación es de consecuencia y no de tiempo.
+- **Pronombres y sujetos que se quedan huérfanos al mover o quitar una frase.** «sus atletas» tras quitar la frase sobre Rusia, «lo calificó» sin antecedente claro, «dejó en el aire» cuando el sujeto ha cambiado en la frase anterior. Después de cada movimiento se relee la frase siguiente.
+- **Imágenes propias que no se entienden.** «la barra sigue subiendo». En los cierres manda la imagen de la cita, no una nuestra.
+- **El mismo dato o la misma fórmula en dos sitios.** La confirmación de Los Ángeles 2028 en dos bloques, o «A esa debilidad se suma…» y «A la exclusión se suma…».
+- **Ladillo que no corresponde al párrafo que tiene debajo.** Tras mover párrafos, cada ladillo se comprueba contra el bloque que encabeza.
+- **Dos casos parecidos mezclados.** El dopaje de Estado ruso y la corrupción de la federación van en bloques distintos, cada uno con su fuente.
+
 ## Criterios de la casa
 
 Referencia general: **Libro de estilo de *El País***, que es el que sigue la redacción. Donde el periódico se aparta de él, mandan los criterios de abajo, sacados de lo que publica.
