@@ -6,17 +6,17 @@ La Federación Internacional de Halterofilia (IWF) celebrará su Mundial de 2030
 
 La IWF no explicó su elección. Su secretario general, José Quiñones, se limitó a decir que todas las candidaturas eran «excelentes». El ministro de Exteriores ucraniano, Andrí Sybiha, calificó la decisión de «inaceptable». Detrás hay un interés mutuo. La federación necesita aliados para seguir en los Juegos. Rusia, por su parte, busca volver a la competición internacional.
 
-## ¿Por qué necesita aliados la halterofilia?
+## Un deporte sin público ni dinero
 
 La halterofilia es uno de los deportes con el futuro olímpico más comprometido, señala el diario italiano *Il Post*. Pesan los problemas de su federación y su escasa capacidad de atraer al gran público. El periodista Matteo Serra lo explica en su pódcast *Linee – Dentro lo Sport*. Levantar pesas, dice, «no es un deporte que alimente los sueños de los niños, sino al que se llega después de haber practicado otros». En Estados Unidos, «no es un deporte popular que recompense bien a sus atletas», sostiene el entrenador Mark Rippetoe.
 
-Esa falta de público se paga. La mayor parte de los ingresos del Comité Olímpico Internacional (COI) procede de la televisión y los patrocinadores, según *SportBusiness*. Una parte llega a las federaciones, que se la reparten por grupos según su audiencia y su tamaño. Por eso, la halterofilia recibe menos que el atletismo, la gimnasia o la natación, según una investigación del periodista Jens Weinreich.
+Esa falta de público se paga. El Comité Olímpico Internacional (COI) vive sobre todo de la televisión y los patrocinadores. Una parte de ese dinero llega a las federaciones, que se la reparten por grupos según su audiencia. Por eso, la halterofilia recibe menos que el atletismo, la gimnasia o la natación, según una investigación del periodista Jens Weinreich.
 
 El otro lastre es la corrupción. En 2020, la televisión alemana ARD destapó irregularidades en la IWF. Poco después dimitió su presidente durante 20 años, Tamás Aján. Una investigación independiente halló después «fallos sistemáticos de gobernanza y corrupción al más alto nivel», según la cadena pública canadiense CBC. La federación había ocultado decenas de positivos, algunos de atletas que luego ganaron medallas.
 
 El COI calificó el informe de «profundamente preocupante». En respuesta, recortó las plazas de la halterofilia en París 2024, de 196 en Tokio a 120. Su presencia en Los Ángeles 2028 no se confirmó hasta octubre de 2023. Según la IWF, se debió a «una mejora enorme en dos de los ámbitos que necesitaban más atención, la buena gobernanza y la política antidopaje». Brisbane 2032 sigue sin confirmar. De ahí que la federación busque en la India y Rusia «amigos musculosos» que la ayuden a seguir en los Juegos, según el digital estadounidense *The Athletic*.
 
-## ¿Qué gana Rusia?
+## El regreso de Rusia
 
 Para Rusia, el Mundial es un paso más en su vuelta. Tras la invasión de Ucrania, en 2022, el COI recomendó excluir a sus atletas de las competiciones internacionales. La IWF los admitió en mayo de 2023 como neutrales y sin bandera, pero la Federación Rusa de Halterofilia rechazó las condiciones.
 
