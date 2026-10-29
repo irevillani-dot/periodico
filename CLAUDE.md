@@ -64,6 +64,7 @@ Cuando la autora pasa un texto para revisar:
 El revisor de estilo y el redactor jefe repasan esta lista en cada pieza. Cuando la autora corrija algo de este tipo, se añade aquí con su ejemplo.
 
 - **Frase de entrada que anticipa una conclusión o repite el ladillo.** «Para Rusia, el Mundial es un paso más en su vuelta», bajo el ladillo «El regreso de Rusia». Se quita y el bloque arranca con el primer hecho («Tras la invasión de Ucrania, en 2022…»).
+- **Frase genérica al principio del párrafo en lugar de un conector y el hecho.** «Pese a esos obstáculos, el país ha ido recuperando terreno» pasa a «Aun así, este año tanto la IWF como el COI han levantado sus restricciones». El párrafo sigue después en orden de causa y efecto: qué se decidió, por qué (motivo oficial y cita) y qué cambia.
 - **Palabras que piden un complemento que no está.** «su vuelta» (¿a qué?), «un paso más» (cuando los pasos anteriores aún no se han contado).
 - **Medidas contadas como hechos sueltos.** «En respuesta, recortó las plazas…» no dice que fuera una sanción. Primero va la decisión general (el COI condicionó su futuro olímpico a una reforma) y después sus consecuencias concretas (menos plazas, exclusión provisional, readmisión).
 - **Hechos sin su porqué.** «El COI relajó sus restricciones» deja al lector preguntándose por qué. Se da el motivo con su fuente (la suspensión de 2023 y sus causas, el argumento de Kirsty Coventry).
