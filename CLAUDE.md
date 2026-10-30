@@ -11,6 +11,24 @@ Cuando la autora pasa un texto para revisar:
    - **Redactor jefe**: lee los cuatro informes, arbitra y da el veredicto (APROBADO / APROBADO CON CAMBIOS / NO APROBADO).
 3. Entregar un **Word con control de cambios sobre el texto original** y comentarios al margen, más el informe breve del redactor jefe (`informe_redactor_jefe_<pieza>.md`). Comprobar que, rechazando todos los cambios, sale exactamente el original.
 
+## Jerarquía de criterios
+
+El editor, Mario, es quien decide cómo sale la pieza. **Su estilo (`herramientas/estilo_editor.md`) manda sobre las pautas de la autora**, que son indicativas. Cuando choquen, se sigue lo que publica Mario.
+
+## Es un *press review*, no un reportaje
+
+La pieza cuenta qué dice la prensa internacional sobre un tema y por qué importa. No es una historia detallada. El redactor jefe **propone siempre recortes de detalles** para que quede más corta e incisiva, aunque no se pase de 900 palabras. Lo hace como borrados marcados, cada uno con un comentario «Recorte propuesto (−N palabras): motivo». Referencia orientativa: entre 700 y 800 palabras de cuerpo.
+
+Candidatos habituales a recorte:
+- nombres propios secundarios (se deja el cargo: «su presidente, que llevaba dos décadas en el cargo»);
+- cifras que no cambian la lectura;
+- fechas exactas que no aportan nada;
+- reacciones institucionales previsibles;
+- párrafos de procedimiento (quién levantó qué restricción y cuándo);
+- datos de contexto que no sostienen la tesis.
+
+Se conserva todo lo que sostiene la tesis y las citas más fuertes.
+
 ## Reglas innegociables
 
 - **La estructura es una plantilla fija**: titular, subtítulo, ladillos y orden de los párrafos no se mueven, no se fusionan y no se reescriben. Como mucho, una coma o una cursiva. Nunca reestructurar.
@@ -20,12 +38,12 @@ Cuando la autora pasa un texto para revisar:
 
 ## Comprobaciones obligatorias del redactor jefe
 
-0. **Estilo en la primera entrega**: el informe dice cuántas frases pasan de 30 palabras en el original y en la corregida (debe ser 0 en la corregida), y confirma que no quedan dos puntos fuera de una enumeración ni comas antes de «y» entre oraciones.
+0. **Estilo en la primera entrega**: el informe dice cuántas frases pasan de 30 palabras en el original y en la corregida. Es orientativo: Mario admite alguna de hasta unas 35, pero no frases de cuatro o cinco líneas. Confirma también que no hay abuso de dos puntos ni comas antes de «y» entre oraciones.
 0b. **Estructura clara para el lector, desde la primera entrega**: el texto tiene que entenderse a la primera. El redactor jefe lo comprueba siempre, aunque la autora no lo pida:
    - un tema o un actor por bloque (por ejemplo, todo lo de la federación junto y todo lo de Rusia junto), sin ir y volver entre ellos;
    - la tesis en el primer o segundo párrafo, dicha en una frase;
    - cada dato una sola vez (si aparece en dos párrafos, se queda donde explica algo y se quita del otro);
-   - la misma fórmula de enlace no se repite («A esa debilidad se suma…», «A la exclusión se suma…»);
+   - la misma fórmula de enlace no se repite pegada (Mario usa «se suma» y «se añade», pero en párrafos distintos);
    - cada escándalo, cifra o cita con su fuente y sin mezclar dos casos parecidos (dopaje de un Estado frente a corrupción de una federación).
    Si la estructura falla, se entrega ya la propuesta de reorganización completa, sin esperar a que la autora la pida.
 1. **Raccord**: que nadie ni nada aparezca como ya presentado sin haberlo sido. Por ejemplo: persona citada solo por el apellido o por el cargo en su primera aparición; «el embajador», «la ministra», «el diario» sin presentar; siglas sin desarrollar (WSJ); pronombres y posesivos sin antecedente («lo», «su», «esos mismos»); cargos o grafías que cambian entre párrafos; datos que se contradicen entre el subtítulo y el cuerpo o entre párrafos.
@@ -42,7 +60,7 @@ Cuando la autora pasa un texto para revisar:
 
 **La primera versión corregida ya tiene que salir en el estilo de la página.** La autora no debe tener que pedir después, párrafo a párrafo, que se acorten frases o se quiten dos puntos. El revisor de estilo y el redactor jefe aplican estas pautas en la primera entrega.
 
-- Frases cortas: sujeto, verbo y predicado. Nada de oraciones de cuatro o cinco líneas encadenando subordinadas. **Ninguna frase del cuerpo pasa de 30 palabras** en la versión corregida. Se comprueba con el script, sobre el original y sobre la corregida:
+- Frases cortas: sujeto, verbo y predicado. Nada de oraciones de cuatro o cinco líneas encadenando subordinadas. **Referencia: frases de 30 palabras como máximo**; se tolera alguna de hasta unas 35 si se lee bien, como hace Mario. Se comprueba con el script, sobre el original y sobre la corregida:
 
   ```
   python3 herramientas/frases_largas.py nombre.md
@@ -52,7 +70,7 @@ Cuando la autora pasa un texto para revisar:
 - No abusar de la «y» para unir oraciones, ni de la coma antes de «y»; mejor punto y seguido.
 - Evitar las enumeraciones de tres elementos como recurso fijo.
 - Que cada idea se enlace con la anterior con un conector claro (por eso, sin embargo, además…) y que el párrafo siga una lógica. Repertorio por función en `herramientas/conectores.md` (según el *Diccionario de conectores y operadores del español* de Catalina Fuentes); variar los conectores y evitar los coloquiales.
-- Dos puntos **solo para introducir una enumeración**. No se usan para explicar, encadenar ideas ni introducir citas; la cita va con el verbo de atribución detrás o con «que».
+- Dos puntos con moderación: ante una enumeración y, como hace Mario, en algún caso para explicar («…más allá del deporte: la federación necesita…»). Como máximo uno o dos por pieza. No para introducir citas: la cita va con el verbo de atribución detrás o con «que».
 - No trocear el texto en frases telegráficas: es un texto periodístico, no una lista de ladillos desarrollados. Las frases cortas se enlazan con conectores o con una subordinada breve.
 - Ninguna valoración sin atribuir (p. ej. «algo que no parece probable»): solo hechos o juicios con fuente.
 - **Lo que cambia el editor al publicar** está en `herramientas/estilo_editor.md`. Lo leen todos los agentes. Manda sobre el modelo de *El País* cuando choquen: entrada que abre con la tesis atribuida a un medio, fechas relativas, menos nombres y cifras secundarios, reacciones y párrafos de procedimiento fuera si no sostienen la tesis, paráfrasis clave convertidas en cita, medios presentados por su función y titular en dos tiempos con la noticia delante.
@@ -78,9 +96,9 @@ El revisor de estilo y el redactor jefe repasan esta lista en cada pieza. Cuando
 - **Pronombres y sujetos que se quedan huérfanos al mover o quitar una frase.** «sus atletas» tras quitar la frase sobre Rusia, «lo calificó» sin antecedente claro, «dejó en el aire» cuando el sujeto ha cambiado en la frase anterior. Después de cada movimiento se relee la frase siguiente.
 - **Fechas de más.** Si el día exacto no aporta nada al lector, basta el mes o un enlace temporal: «el 26 de junio… el 7 de julio» pasa a «en junio de 2026… una decisión a la que el COI se sumó poco después». Al quitar una fecha se revisa la frase siguiente (aquí, «Ese día retiró…» se quedaba sin referencia y pasa a «Retiró…»).
 - **Frases con complementos amontonados.** «le redujo las plazas en París 2024, de 196 en Tokio 2020 a 120». Se dice primero qué se hizo y luego la cifra: «redujo las plazas destinadas a la halterofilia en París 2024, que pasaron de 196 a 120».
-- **Imágenes propias que no se entienden.** «la barra sigue subiendo». En los cierres manda la imagen de la cita, no una nuestra.
+- **Imágenes propias que no se entienden.** «la barra sigue subiendo». En los cierres manda la imagen de la cita. Mario admite después una frase muy corta que haga explícito el doble sentido («También en su vertiente política»).
 - **Hechos paralelos en frases calcadas.** «El 26 de junio la IWF levantó… El 7 de julio el COI levantó…». Se unen en una frase que diga la relación: «…una decisión a la que el COI se sumó el 7 de julio».
-- **El mismo dato o la misma fórmula en dos sitios.** La confirmación de Los Ángeles 2028 en dos bloques, o «A esa debilidad se suma…» y «A la exclusión se suma…».
+- **El mismo dato en dos sitios, o la misma fórmula pegada.** La confirmación de Los Ángeles 2028 en dos bloques, o «A esa debilidad se suma…» seguido de «A la exclusión se suma…».
 - **Ladillo que no corresponde al párrafo que tiene debajo.** Tras mover párrafos, cada ladillo se comprueba contra el bloque que encabeza.
 - **Dos casos parecidos mezclados.** El dopaje de Estado ruso y la corrupción de la federación van en bloques distintos, cada uno con su fuente.
 
