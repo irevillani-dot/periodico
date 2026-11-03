@@ -8,9 +8,13 @@ El motivo, según *Le Djely*, fue una sola letra. La misión se llamaba MINURSO.
 
 ## Un duelo por intermediarios
 
-Detrás del choque en Nueva York hay otro más antiguo. Marruecos controla la mayor parte de esta antigua colonia española y propone convertirla en una región autónoma bajo su soberanía. El Frente Polisario, el movimiento independentista saharaui, reclama en cambio el referéndum. Lo respalda Argelia, que acoge en Tinduf los campamentos de refugiados. Los dos vecinos rompieron sus relaciones diplomáticas en 2021.
+Detrás del choque en Nueva York hay otro más antiguo. El Sáhara Occidental fue colonia española hasta 1975. Ese año, Marruecos organizó la Marcha Verde y España se retiró sin completar la descolonización. Desde entonces, Rabat controla la mayor parte del territorio y propone convertirlo en una región autónoma bajo su soberanía. El Frente Polisario, el movimiento independentista saharaui, reclama en cambio el referéndum. Lo respalda Argelia, que acoge en Tinduf los campamentos de refugiados. Los dos vecinos rompieron sus relaciones diplomáticas en 2021.
+
+España, por su parte, abandonó su tradicional neutralidad en 2022. Ese año, Pedro Sánchez escribió al rey Mohamed VI que el plan marroquí era «la base más seria, creíble y realista» para resolver el conflicto. En respuesta, el Polisario suspendió sus relaciones con el Gobierno español.
 
 «Cuando Marruecos y Argelia se enfrentan en el ámbito de las Naciones Unidas, lo hacen a través de los intermediarios de Estados Unidos y Rusia», resume *Le Djely*. Según el diario, ninguno de los dos países tiene por sí solo peso suficiente en los organismos internacionales. Por eso Rabat se ampara en Washington y en el bloque occidental, incluidos Francia y España, mientras Argel confía en Moscú.
+
+Esas alianzas vienen de lejos. Marruecos fue en 1777 el primer país en reconocer a Estados Unidos, un argumento que Donald Trump invocó en 2020 al reconocer la soberanía marroquí sobre el Sáhara. «Por tanto, lo correcto es que reconozcamos su soberanía», escribió entonces, recoge *El Español*. Argelia, en cambio, se alineó con el bloque soviético durante la Guerra Fría. Rusia sigue siendo hoy su socio tradicional y su mayor proveedor de armamento, explica el portal de análisis LISA News. Ya en 1963, durante la guerra de las Arenas, el primer choque armado entre los dos vecinos, cada bando recibió el apoyo de un bloque.
 
 ## Dos lecturas del mismo veto
 
@@ -22,6 +26,8 @@ Argel, en cambio, ha expresado su «profundo pesar» por la retirada de la misi�
 
 El peligro, según *Le Djely*, está en lo que viene ahora. El secretario general de la ONU, António Guterres, teme un «riesgo de escalada» tras el fin del mandato. Aun así, recordó que la salida de la misión «no pone en cuestión» el derecho de los saharauis a la autodeterminación, recoge ONU Noticias. Marruecos, añade el diario guineano, pretende «imponer un hecho consumado» con su plan de autonomía. El Polisario podría interpretarlo como «una provocación». Por eso el periódico teme un choque entre Rabat y Argel, ya que ambas partes «parecen atrincheradas en sus posiciones».
 
-Para España, antigua potencia colonial, el vacío queda muy cerca. El alto el fuego se queda sin observadores internacionales sobre el terreno, señala el digital *Moncloa.com*, que concluye que España «pierde su coartada multilateral». El presidente del Cabildo de Gran Canaria, Antonio Morales, ha pedido al Gobierno y a la Unión Europea una respuesta rápida y un nuevo mecanismo de verificación en la ONU. El Polisario, por su parte, reprocha a Pedro Sánchez y al ministro de Exteriores, José Manuel Albares, su silencio sobre el papel de España en la votación, según *Espacios Europeos*.
+Para España, el vacío queda muy cerca. El alto el fuego se queda sin observadores internacionales sobre el terreno, señala el digital *Moncloa.com*, que concluye que España «pierde su coartada multilateral». El presidente del Cabildo de Gran Canaria, Antonio Morales, ha pedido al Gobierno y a la Unión Europea una respuesta rápida y un nuevo mecanismo de verificación en la ONU.
 
-La Asamblea General de la ONU debatirá el 10 de noviembre el uso del veto en este caso. Para *Le Djely*, sin embargo, el pulso amenaza con ir más allá del Magreb y enfrentar a «los bloques occidental y oriental, e incluso al Norte y al Sur globales». Morales lo resumía en el título de su columna en *Canarias7*, «El Sáhara, sin testigos».
+Para *Le Djely*, el pulso amenaza con ir más allá del Magreb y enfrentar a «los bloques occidental y oriental, e incluso al Norte y al Sur globales».
+
+Mientras la ONU se retira, Marruecos consolida su control por otras vías. El reino usa desde hace años su pujante industria cinematográfica para normalizar la ocupación, sostiene el diario italiano *Il Post*. «Para Marruecos, el cine es un instrumento de colonización», titula. *La Odisea*, de Christopher Nolan, rodó escenas en las dunas de Dajla, en el territorio en disputa. En los créditos, sin embargo, las imágenes se atribuyen al Reino de Marruecos, sin mencionar el Sáhara Occidental. Es, en la gran pantalla, el «hecho consumado» del que advierte *Le Djely*.
