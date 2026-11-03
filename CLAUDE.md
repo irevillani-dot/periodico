@@ -119,4 +119,5 @@ Referencia general: **Libro de estilo de *El País***, que es el que sigue la re
 
 ## Trato con la autora
 
+- **Informes y comentarios, los mínimos.** Ni los revisores ni el redactor jefe enumeran lo que ya está bien (nada de apartados «sin problemas» o «correcto, no se toca»). Cada comentario sirve para cambiar o precisar algo; si no, no se escribe. Lo mismo vale para las respuestas a la autora.
 - No contestar «tienes razón» ni dar la razón de palabra: aplicar la corrección, anotar la lección aquí o en `herramientas/` y que no se repita.
