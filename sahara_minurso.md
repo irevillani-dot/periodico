@@ -8,7 +8,7 @@ El motivo, según *Le Djely*, fue una sola letra. La misión se llamaba MINURSO.
 
 ## Un duelo por intermediarios
 
-Detrás del choque en Nueva York hay otro más antiguo. El Sáhara Occidental fue colonia española hasta 1975. Ese año, Marruecos organizó la Marcha Verde y España se retiró sin completar la descolonización. Desde entonces, Rabat controla la mayor parte del territorio y propone convertirlo en una región autónoma bajo su soberanía. El Frente Polisario, el movimiento independentista saharaui, reclama en cambio el referéndum. Lo respalda Argelia, que acoge en Tinduf los campamentos de refugiados. Los dos vecinos rompieron sus relaciones diplomáticas en 2021.
+Detrás del choque en Nueva York hay otro más antiguo. El Sáhara Occidental fue colonia española hasta 1975. Ese año, Marruecos envió a cientos de miles de civiles a cruzar la frontera para reclamar el territorio. España se retiró poco después sin completar la descolonización. Desde entonces, Rabat controla la mayor parte del territorio y propone convertirlo en una región autónoma bajo su soberanía. El Frente Polisario, el movimiento independentista saharaui, reclama en cambio el referéndum. Lo respalda Argelia, que acoge en Tinduf los campamentos de refugiados. Los dos vecinos rompieron sus relaciones diplomáticas en 2021.
 
 España, por su parte, abandonó su tradicional neutralidad en 2022. Ese año, Pedro Sánchez escribió al rey Mohamed VI que el plan marroquí era «la base más seria, creíble y realista» para resolver el conflicto. En respuesta, el Polisario suspendió sus relaciones con el Gobierno español.
 
