@@ -14,7 +14,7 @@ España, por su parte, abandonó su tradicional neutralidad en 2022. Ese año, P
 
 «Cuando Marruecos y Argelia se enfrentan en el ámbito de las Naciones Unidas, lo hacen a través de los intermediarios de Estados Unidos y Rusia», resume *Le Djely*. Según el diario, ninguno de los dos tiene peso suficiente por sí solo en la ONU. Por eso Rabat se ampara en Washington y en el bloque occidental, incluidos Francia y España, mientras Argel confía en Moscú.
 
-Esas alianzas vienen de lejos. Marruecos fue en 1777 el primer país en reconocer a Estados Unidos, un argumento que Donald Trump invocó en 2020 al reconocer la soberanía marroquí sobre el Sáhara. «Por tanto, lo correcto es que reconozcamos su soberanía», escribió entonces, recoge *El Español*. Argelia, en cambio, se alineó con el bloque soviético durante la Guerra Fría. Rusia sigue siendo hoy su socio tradicional y su mayor proveedor de armamento, explica el portal de análisis *LISA News*.
+Esas alianzas vienen de lejos. Marruecos fue en 1777 el primer país en reconocer a Estados Unidos, un argumento que Donald Trump invocó en 2020 al reconocer la soberanía marroquí sobre el Sáhara. «Por tanto, lo correcto es que reconozcamos su soberanía», escribió entonces en Twitter. Argelia, en cambio, se alineó con el bloque soviético durante la Guerra Fría. Rusia sigue siendo hoy su socio tradicional y su mayor proveedor de armamento, explica el portal de análisis *LISA News*.
 
 ## Dos lecturas del mismo veto
 
