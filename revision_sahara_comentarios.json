@@ -1,0 +1,112 @@
+[
+ {
+  "parrafo": 0,
+  "ancla": "la ONU se va",
+  "texto": "[Redactor jefe] Titular en dos tiempos y con la noticia delante, como pide el editor. Se mantiene; sin cambios."
+ },
+ {
+  "parrafo": 1,
+  "ancla": "tras los vetos cruzados",
+  "texto": "[Verificación] «Vetos cruzados» confirmado (Telquel): veto ruso al texto de EE UU y veto estadounidense al ruso."
+ },
+ {
+  "parrafo": 2,
+  "ancla": "«Si no fuera por el riesgo",
+  "texto": "[Verificación] Cita de Le Djely NO VERIFICADA: no se pudo abrir el original (Courrier International bloqueado). Cotejar con el francés."
+ },
+ {
+  "parrafo": 2,
+  "ancla": "Desde el sábado 31 de octubre",
+  "texto": "[Estilo] Fecha confirmada. El modelo de la casa prefiere fecha relativa («el sábado pasado»); lo decide la autora."
+ },
+ {
+  "parrafo": 3,
+  "ancla": "Moscú vetó ese texto",
+  "texto": "[Sintaxis] Era «Moscú lo vetó»: «lo» no tenía antecedente masculino claro (misión, R). Hecho confirmado por Telquel."
+ },
+ {
+  "parrafo": 3,
+  "ancla": "«ni la MINURSO ni siquiera la MINUSO»",
+  "texto": "[Verificación] Literal no verificado; el rebautizo como MINUSO sí está confirmado. Conviene desarrollar las siglas (Misión de las Naciones Unidas para el Referéndum en el Sáhara Occidental) en un inciso si hay espacio."
+ },
+ {
+  "parrafo": 5,
+  "ancla": "Ese apoyo enfrenta desde hace décadas",
+  "texto": "[Estilo] Relación causal sin atribuir; Argelia alegó otros motivos al romper en agosto de 2021 (la ruptura la decidió Argel). Atribuir o matizar."
+ },
+ {
+  "parrafo": 6,
+  "ancla": "[España, por su parte",
+  "texto": "[Redactor jefe] Corchete de la autora, se mantiene. Aporta el ángulo español, pero corta el hilo entre §3 y la cita de §5; si se recorta, el texto sigue cumpliendo citas (~15%) y gana margen de extensión."
+ },
+ {
+  "parrafo": 6,
+  "ancla": "el presidente Pedro Sánchez",
+  "texto": "[Sintaxis] Primera mención con cargo (criterio de la casa). Cita de la carta confirmada."
+ },
+ {
+  "parrafo": 6,
+  "ancla": "suspendió sus contactos con",
+  "texto": "[Verificación] Era «relaciones»: el Polisario suspendió los «contactos» con el Gobierno español (confirmado)."
+ },
+ {
+  "parrafo": 8,
+  "ancla": "Donald Trump, entonces presidente",
+  "texto": "[Sintaxis] Primera mención con cargo."
+ },
+ {
+  "parrafo": 8,
+  "ancla": "es apropiado que reconozcamos",
+  "texto": "[Verificación] El tuit dice «It is thus fitting we recognize their sovereignty»: «fitting» es «apropiado», no «lo correcto». Tuit del 10/12/2020 confirmado."
+ },
+ {
+  "parrafo": 8,
+  "ancla": "a su vez, se alineó",
+  "texto": "[Estilo] Era «en cambio», repetido tres veces en el texto (§3, §6, §8)."
+ },
+ {
+  "parrafo": 8,
+  "ancla": "[Rusia sigue siendo hoy",
+  "texto": "[Redactor jefe] Corchete de la autora, se mantiene. LISA News no verificable (dominio no resuelve); el dato coincide con el SIPRI. Recortable: Moscú como apoyo ya está en §5. Provoca el falso positivo de frase larga."
+ },
+ {
+  "parrafo": 10,
+  "ancla": "«un nuevo escenario»",
+  "texto": "[Verificación] Era «una nueva situación». El titular de Le Matin dice «une nouvelle donne», mejor «nuevo escenario». Cuerpo no leído."
+ },
+ {
+  "parrafo": 11,
+  "ancla": "«profundo pesar»",
+  "texto": "[Verificación] Confirmado, pero la fuente es Algérie Patriotique, no TSA: así queda atribuido implícitamente a TSA. «Extrema parcialidad» no verificada literalmente. Maghreb Online (bandera rusa en Tinduf) no verificable; confirmar nombre del medio."
+ },
+ {
+  "parrafo": 13,
+  "ancla": "Marruecos, añade, pretende",
+  "texto": "[Estilo] Se quita «el diario guineano», repetido junto a «según Le Djely». Las citas de este párrafo (Le Djely) NO están verificadas; «teme» pasa a «prevé» para no repetir el verbo en §10."
+ },
+ {
+  "parrafo": 14,
+  "ancla": "los más expuestos son los saharauis",
+  "texto": "[Estilo] Valoración sin atribuir y «sin embargo» no opone nada. Atribuir (p. ej. a Guterres) si la fuente lo dice."
+ },
+ {
+  "parrafo": 14,
+  "ancla": "«riesgo de escalada»",
+  "texto": "[Verificación] NO VERIFICADO en ONU Noticias (news.un.org no resolvió); puede venir de Le Djely. Tampoco «no pone en cuestión». La edición en español se llama Noticias ONU. Carnegie y La Marea, no verificables (datos de fondo correctos)."
+ },
+ {
+  "parrafo": 14,
+  "ancla": "el derecho de los saharauis",
+  "texto": "[Sintaxis] Era «su derecho»: se leía como de Guterres. Igual «la única presencia de la ONU» (antes «su»). «Asimismo», «señala» y «subraya» evitan repetir «además», «explica» y «recuerda»."
+ },
+ {
+  "parrafo": 15,
+  "ancla": "«consumía su dulce existencia suspirando por el regreso»",
+  "texto": "[Verificación] Segalá (Odisea, V) dice «suspirando por el regreso», no «añorando». Conviene citar al traductor. Título: *La odisea* (minúscula) si es el del estreno en España; comprobar con la distribuidora. Medio en cursiva: *Africa Is a Country*."
+ },
+ {
+  "parrafo": 15,
+  "ancla": "muchos saharauis siguen esperando",
+  "texto": "[Estilo] Cierre sin fuente y no todos dejaron su tierra: mejor «muchos refugiados saharauis». No vuelve a la entrada; lo decide la autora."
+ }
+]
