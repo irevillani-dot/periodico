@@ -1,0 +1,29 @@
+# Una letra dejó al Sáhara sin la ONU. Rabat y Argel, frente a frente
+
+**Dos vetos cruzados entre Washington y Moscú en el Consejo de Seguridad dejan sin misión de la ONU en el territorio que se disputan Marruecos y los independentistas saharauis, apoyados por Argelia**
+
+Por primera vez desde 1991, Naciones Unidas no tiene una misión en el Sáhara Occidental, la antigua colonia española que controla Marruecos y reclaman los independentistas saharauis. La misión vigilaba el alto el fuego entre ambas partes, roto en noviembre de 2020. Su salida podría acercar a un enfrentamiento directo a Marruecos y a Argelia, advierte el diario guineano Le Djely. El mandato expiró sin renovarse el domingo pasado, después de que Estados Unidos y Rusia bloquearan cada uno la resolución del otro en el Consejo de Seguridad. «Si no fuera por el riesgo de un enfrentamiento entre dos países africanos, sería casi ridículo», escribe el periódico.
+
+El motivo, según Le Djely, fue una sola letra. La misión se llamaba MINURSO (Misión de las Naciones Unidas para el Referéndum en el Sáhara Occidental). La R correspondía a un referéndum de autodeterminación que nunca llegó a celebrarse. Washington propuso renovarla sin esa R, lo que equivalía a renunciar a una futura votación. Además, el proyecto de resolución tomaba como base el plan marroquí de integración, que deja el territorio bajo soberanía de Rabat. La postura de Moscú fue la de mantener el texto sin cambios, con referéndum incluido. El resultado, ironiza el diario, es que no queda «ni la MINURSO ni siquiera la MINUSO» por el bloqueo mutuo de las resoluciones propuestas por ambas potencias.
+
+## Un duelo por intermediarios
+
+Detrás del choque en el Consejo de Seguridad hay otro más antiguo. El Sahara Occidental formaba parte del vestigio colonial de España. En 1975, Marruecos envió a miles de civiles a cruzar la frontera para reclamar el territorio, en la llamada Marcha Verde. España se retiró poco después sin completar la descolonización. Desde entonces, Rabat controla la mayor parte del territorio. El nuevo dominio restó autonomía y obligó al desplazamiento la población local. En consecuencia, se organizó un movimiento independentista saharaui, el Frente Polisario, respaldado por Argelia. El conflicto en el Sahara generó una rivalidad entre los dos vecinos que acabó en ruptura diplomática en 2021.
+
+«Cuando Marruecos y Argelia se enfrentan en el ámbito de las Naciones Unidas, lo hacen a través de los intermediarios de Estados Unidos y Rusia», resume Le Djely. A juicio del diario, ninguno de los dos países tiene por sí solo peso suficiente en los organismos internacionales. Por eso Rabat se ampara en Washington y en el bloque occidental, mientras Argel confía en Moscú.
+
+Esas alianzas vienen de lejos. Marruecos fue el primer país en reconocer a Estados Unidos, un argumento que Donald Trump invocó en 2020 al reconocer la soberanía marroquí sobre el Sáhara. Argelia, a su vez, se alineó con el bloque soviético durante la Guerra Fría. Rusia es hoy su principal proveedor de armas, según el instituto de investigación sueco SIPRI.
+
+## Dos lecturas del mismo veto
+
+En Rabat, el desmantelamiento de la misión se ha leído como una victoria. El Gabinete marroquí considera el fin del mandato «un paso significativo hacia el cierre definitivo del expediente», recoge el semanario local La Vie Éco. El diario Le Matin ve en ello, además, «un nuevo escenario» para el reino.
+
+Argel, en cambio, ha expresado su «profundo pesar» por la retirada de la misión. Su Ministerio de Exteriores ya había denunciado la «extrema parcialidad» del texto estadounidense, según el periódico argelino Tout sur l’Algérie. Para ese medio, el veto ruso «le recuerda la realidad a Marruecos», que se daba por vencedor. Desde Rabat, el digital Le360 responde con ironía y acusa a los periódicos argelinos de «celebrar un veto y omitir que este acabó con la MINURSO», la misión que Argel quería mantener. En los campamentos de Tinduf, mientras tanto, los refugiados saharauis izaron la bandera rusa y el Polisario dio las gracias a Moscú, cuenta el portal marroquí Maghreb Online, critico con Rabat.
+
+## Un riesgo de escalada
+
+El peligro, según Le Djely, está en lo que viene ahora. El diario sostiene que Marruecos pretende El diario sostiene que Marruecos pretende «poner a todos ante un hecho consumado, con la aplicación forzosa de su plan de autonomía». El frente Polisario podría interpretarlo como «una provocación». Por eso el periódico prevé un choque entre Rabat y Argel, ya que ambas partes «parecen atrincheradas en sus posiciones». Este pulso, advierte, podría ir más allá del Magreb y enfrentar a «los bloques occidental y oriental, e incluso al Norte y al Sur globales».
+
+Entretanto, los saharauis se quedan sin ningún observador internacional. El secretario general de la ONU, António Guterres, también teme un «riesgo de escalada» tras el fin del mandato. Desde la ruptura de la tregua, la ONU registra «hostilidades de baja intensidad» a lo largo del muro de arena que separa a las partes. Hasta ahora, solo vigiladas por los observadores de la misión. Al mismo tiempo, recordó que la salida de la MINURSO «no pone en cuestión» el derecho de los saharauis a la autodeterminación recoge ONU Noticias. Para Naciones Unidas, el Sáhara Occidental sigue siendo un territorio no autónomo, pendiente de descolonización, señala el centro de análisis Carnegie.
+
+Mientras la ONU se retira, Marruecos ofrece como plató de cine el territorio en disputa, que considera sus «provincias del sur». La Odisea de Christopher Nolan «fue la primera gran producción de Hollywood en rodar allí» relata el medio Africa Is a Country. En el poema de Homero, Ulises pasa siete años retenido en la isla de Calipso, donde «consumía su dulce existencia suspirando por el regreso». Medio siglo después de dejar su tierra, muchos saharauis siguen esperando su momento de volver.
