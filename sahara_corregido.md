@@ -8,7 +8,7 @@ El motivo, según *Le Djely*, fue una sola letra. La misión se llamaba MINURSO 
 
 ## Un duelo por intermediarios
 
-Detrás del choque en el Consejo de Seguridad hay otro más antiguo. El Sáhara Occidental fue colonia española hasta 1975. España lo abandonó sin completar la descolonización. Desde entonces, Rabat controla la mayor parte del territorio. El Frente Polisario, el movimiento independentista saharaui, reclama en cambio el referéndum. Lo respalda Argelia, que acoge en Tinduf los campamentos de refugiados. La rivalidad entre los dos vecinos acabó en ruptura en 2021, cuando Argelia cortó relaciones por los «actos hostiles» de Rabat.
+Detrás del choque en el Consejo de Seguridad hay otro más antiguo. En 1975, cuando España preparaba su salida, Marruecos envió a cientos de miles de civiles a cruzar la frontera para reclamar el territorio, en la llamada Marcha Verde. España se retiró poco después sin completar la descolonización. Desde entonces, Rabat controla la mayor parte del territorio. El Frente Polisario, el movimiento independentista saharaui, reclama en cambio el referéndum. Lo respalda Argelia, que acoge en Tinduf los campamentos de refugiados. La rivalidad entre los dos vecinos acabó en ruptura en 2021, cuando Argelia cortó relaciones por los «actos hostiles» de Rabat.
 
 «Cuando Marruecos y Argelia se enfrentan en el ámbito de las Naciones Unidas, lo hacen a través de los intermediarios de Estados Unidos y Rusia», resume *Le Djely*. A juicio del diario, ninguno de los dos países tiene por sí solo peso suficiente en los organismos internacionales. Por eso Rabat se ampara en Washington y en el bloque occidental, incluidas Francia y España, mientras Argel confía en Moscú.
 
