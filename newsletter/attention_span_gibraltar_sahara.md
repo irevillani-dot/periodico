@@ -28,7 +28,7 @@ The courts have been less accommodating. In October 2024, the Court of Justice o
 
 ## Without the UN
 
-This autumn the dispute changed again. On 1 November, the UN mission that had monitored the ceasefire since 1991 shut down. The ceasefire itself had already collapsed in 2020. Its mandate expired after the United States and Russia vetoed each other's draft resolutions in the Security Council. Washington wanted to drop the reference to a referendum, the R in its name, MINURSO, and Moscow refused. Rabat called the outcome a step towards closing the file. Algiers expressed its "deep regret". Guinea's *Le Djely* warned that Morocco and Algeria could now come face to face.
+This autumn the dispute changed again. On 1 November, the UN mission that had monitored the ceasefire since 1991 shut down. The ceasefire itself had already collapsed in 2020. The mission's mandate expired after the United States and Russia vetoed each other's draft resolutions in the Security Council. Washington wanted to drop the reference to a referendum, the R in its name, MINURSO, and Moscow refused. Rabat called the outcome a step towards closing the file. Algiers expressed its "deep regret". Guinea's *Le Djely* warned that Morocco and Algeria could now come face to face.
 
 For Spain, the former colonial power, the timing is awkward. It backs Morocco's plan but buys much of its gas from Algeria. And the bond with the Sahrawis has never quite broken: many in the Tindouf camps still speak Spanish, and Spanish families host thousands of Sahrawi children every summer through the *Vacaciones en Paz* programme.
 
