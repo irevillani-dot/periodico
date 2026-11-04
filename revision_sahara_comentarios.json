@@ -15,11 +15,6 @@
   "texto": "[Verificación] Cita de Le Djely NO VERIFICADA: no se pudo abrir el original (Courrier International bloqueado). Cotejar con el francés."
  },
  {
-  "parrafo": 2,
-  "ancla": "Desde el sábado 31 de octubre",
-  "texto": "[Estilo] Fecha confirmada. El modelo de la casa prefiere fecha relativa («el sábado pasado»); lo decide la autora."
- },
- {
   "parrafo": 3,
   "ancla": "Moscú vetó ese texto",
   "texto": "[Sintaxis] Era «Moscú lo vetó»: «lo» no tenía antecedente masculino claro (misión, R). Hecho confirmado por Telquel."
@@ -116,12 +111,32 @@
  },
  {
   "parrafo": 8,
-  "ancla": "durante la Guerra Fría",
-  "texto": "[Redactor jefe] Recorte propuesto (−20 palabras): se borra la frase entre corchetes de LISA News para compensar la matización sobre Argelia. La idea ya está en «Argel confía en Moscú». Si se prefiere mantenerla, rechazar este borrado y recortar en otro sitio."
+  "ancla": "según el instituto sueco SIPRI",
+  "texto": "[Verificación] La frase de LISA News (entre corchetes) se sustituye por un dato con fuente más sólida: según el SIPRI (Trends in International Arms Transfers, 2025), Rusia fue el primer proveedor de armas de Argelia en 2021-2025, con en torno al 39%, seguida de China y Alemania. Conviene confirmarlo en el informe original. Contexto: en junio de 2023, Tebboune y Putin firmaron en Moscú una declaración de «asociación estratégica profundizada» (APS, EFE)."
  },
  {
   "parrafo": 5,
   "ancla": "España se retiró sin completar",
   "texto": "[Redactor jefe] Recorte propuesto (−2 palabras): «poco después»."
+ },
+ {
+  "parrafo": 2,
+  "ancla": "Desde el sábado ya no existe",
+  "texto": "[Redactor jefe] Recorte propuesto (−3 palabras): «31 de octubre». La fecha relativa es la de la casa para días recientes."
+ },
+ {
+  "parrafo": 7,
+  "ancla": "por sí solo en la ONU",
+  "texto": "[Redactor jefe] Recorte propuesto (−4 palabras), mismo sentido."
+ },
+ {
+  "parrafo": 15,
+  "ancla": "retenido, mirando al mar",
+  "texto": "[Redactor jefe] Recorte propuesto (−5 palabras): «sentado en la orilla y»."
+ },
+ {
+  "parrafo": 15,
+  "ancla": "relata Africa Is a Country",
+  "texto": "[Redactor jefe] Recorte propuesto (−2 palabras): «el medio»."
  }
 ]
