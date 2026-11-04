@@ -40,3 +40,35 @@ Comparación entre lo que se envía y lo que sale en *Página Internacional*. To
 ### Otros
 - «India», sin artículo.
 - «Rusia arrastraba, además, su propio historial de dopaje», en pasado.
+
+## Sáhara Occidental (publicada el 4 de noviembre de 2026)
+
+«Cómo la pelea por una R dejó al Sáhara sin cascos azules». Enviado: 902 palabras de cuerpo. Publicado: 736 (−18%). Cambió o se quitó un 33% de las palabras. Las citas suben al 20,2%, porque se recorta texto propio y no citas.
+
+### Titular, subtítulo y ladillos
+- **El titular explica el mecanismo**: «Cómo la pelea por una R dejó al Sáhara sin cascos azules». El gancho (la R) va en el titular. No hay dos tiempos: el patrón «Cómo…» también vale.
+- **El subtítulo es corto y sin actores secundarios**: «Dos vetos cruzados dejan sin misión de la ONU al Sáhara Occidental y agravan la tensión entre Marruecos y Argelia». Se caen Washington, Moscú y los independentistas.
+- **Menos ladillos**: de cuatro a tres. Desaparece «Dos lecturas del mismo veto» y las reacciones quedan dentro del bloque anterior.
+- **Los ladillos nombran a los actores**: «Marruecos y Argelia, un duelo por intermediarios», «El temor a una nueva escalada».
+
+### Lo que condensa
+- **El párrafo histórico se reduce a tres frases**, una sola idea encadenada: 1975 (España sale sin descolonizar), Marcha Verde y ocupación, refugiados en Tinduf, el Polisario con el respaldo de Argel y la ruptura de 2021 en una subordinada. Desaparece la fecha de fundación del Polisario.
+- **Las alianzas, en una frase**: «Rabat cuenta con el apoyo de Washington, que reconoció su soberanía sobre el Sáhara en 2020, mientras Argelia mantiene su histórica alianza con Moscú…». Fuera quedan 1777, el tuit de Trump, la Guerra Fría y el «a juicio del diario» sobre el peso de cada país.
+- **Las reacciones se ordenan por país y no por medio**: en Marruecos, el Gabinete Real, *Le Matin* y *Le360*; en Argelia, el Gobierno, *Tout sur l'Algérie* y Tinduf. La réplica de *Le360* pasa al bloque marroquí.
+- **Se quitan explicaciones redundantes**: «la misión que Argel quería mantener», «Hasta ahora, solo vigiladas por los observadores…», la frase de Carnegie y las presentaciones como «el semanario local» o «el portal marroquí».
+
+### Precisiones de vocabulario
+- **«propuestas de resolución»** en lugar de «la resolución del otro»: el término técnico.
+- **«plan marroquí de autonomía»**, con el nombre oficial y no «de integración». «mantiene el territorio bajo soberanía de Rabat» lo explica.
+- **«Marruecos ocupó la mayor parte del territorio»**: Mario usa «ocupó», con sujeto claro.
+- **«Su retirada»** en lugar de «Su salida», y **«abandonar su tierra»** en lugar de «dejar».
+- **Atribuye al Gobierno argelino** «profundo pesar» y la «extrema parcialidad». El medio (*TSA*) queda solo para su propia opinión.
+
+### Lo que respeta
+- **El cierre de cine y Homero**, sin añadir nada detrás.
+- **La entrada lineal** que explica el territorio antes de la tesis de *Le Djely*.
+- **El bloque de *Le Djely* sobre la escalada**, casi intacto, incluidos «Por eso… ya que» y la cita con «con la aplicación forzosa…» dentro de las comillas.
+
+### Ortotipografía
+- **Cursiva también para *ONU Noticias***, como portal de noticias.
+- **«el pasado domingo»** en lugar de «el domingo pasado».
