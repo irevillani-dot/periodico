@@ -30,11 +30,6 @@
   "texto": "[Verificación] Literal no verificado; el rebautizo como MINUSO sí está confirmado. Conviene desarrollar las siglas (Misión de las Naciones Unidas para el Referéndum en el Sáhara Occidental) en un inciso si hay espacio."
  },
  {
-  "parrafo": 5,
-  "ancla": "Ese apoyo enfrenta desde hace décadas",
-  "texto": "[Estilo] Relación causal sin atribuir; Argelia alegó otros motivos al romper en agosto de 2021 (la ruptura la decidió Argel). Atribuir o matizar."
- },
- {
   "parrafo": 6,
   "ancla": "[España, por su parte",
   "texto": "[Redactor jefe] Corchete de la autora, se mantiene. Aporta el ángulo español, pero corta el hilo entre §3 y la cita de §5; si se recorta, el texto sigue cumpliendo citas (~15%) y gana margen de extensión."
@@ -63,11 +58,6 @@
   "parrafo": 8,
   "ancla": "a su vez, se alineó",
   "texto": "[Estilo] Era «en cambio», repetido tres veces en el texto (§3, §6, §8)."
- },
- {
-  "parrafo": 8,
-  "ancla": "[Rusia sigue siendo hoy",
-  "texto": "[Redactor jefe] Corchete de la autora, se mantiene. LISA News no verificable (dominio no resuelve); el dato coincide con el SIPRI. Recortable: Moscú como apoyo ya está en §5. Provoca el falso positivo de frase larga."
  },
  {
   "parrafo": 10,
@@ -113,5 +103,25 @@
   "parrafo": 15,
   "ancla": "ofrece el territorio en disputa",
   "texto": "[Redactor jefe] Formulación menos neutra a petición de la autora: el rodaje en Dajla con permisos y ayudas marroquíes fue criticado porque la soberanía del territorio está en disputa (FiSahara, Javier Bardem; El Independiente, Carnegie)."
+ },
+ {
+  "parrafo": 5,
+  "ancla": "no es parte del conflicto",
+  "texto": "[Verificación] Posición oficial argelina: no se considera parte y presenta el Sáhara como cuestión de descolonización ante la ONU (carta de Argelia a la ONU, S/2004/657; diplomacia argelina ante De Mistura)."
+ },
+ {
+  "parrafo": 5,
+  "ancla": "por sus «actos hostiles»",
+  "texto": "[Verificación] Argelia rompió relaciones el 24 de agosto de 2021; el ministro Ramtane Lamamra citó «actos hostiles» de Rabat, entre ellos el espionaje con Pegasus y el acercamiento a Israel (AP, La República, The Objective). Rabat lo calificó de injustificable."
+ },
+ {
+  "parrafo": 8,
+  "ancla": "durante la Guerra Fría",
+  "texto": "[Redactor jefe] Recorte propuesto (−20 palabras): se borra la frase entre corchetes de LISA News para compensar la matización sobre Argelia. La idea ya está en «Argel confía en Moscú». Si se prefiere mantenerla, rechazar este borrado y recortar en otro sitio."
+ },
+ {
+  "parrafo": 5,
+  "ancla": "España se retiró sin completar",
+  "texto": "[Redactor jefe] Recorte propuesto (−2 palabras): «poco después»."
  }
 ]
