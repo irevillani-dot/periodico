@@ -55,11 +55,6 @@
   "texto": "[Estilo] Era «en cambio», repetido tres veces en el texto (§3, §6, §8)."
  },
  {
-  "parrafo": 10,
-  "ancla": "«un nuevo escenario»",
-  "texto": "[Verificación] Era «una nueva situación». El titular de Le Matin dice «une nouvelle donne», mejor «nuevo escenario». Cuerpo no leído."
- },
- {
   "parrafo": 11,
   "ancla": "«profundo pesar»",
   "texto": "[Verificación] Confirmado, pero la fuente es Algérie Patriotique, no TSA: así queda atribuido implícitamente a TSA. «Extrema parcialidad» no verificada literalmente. Maghreb Online (bandera rusa en Tinduf) no verificable; confirmar nombre del medio."
@@ -138,5 +133,30 @@
   "parrafo": 15,
   "ancla": "relata Africa Is a Country",
   "texto": "[Redactor jefe] Recorte propuesto (−2 palabras): «el medio»."
+ },
+ {
+  "parrafo": 5,
+  "ancla": "paso fronterizo de Guerguerat",
+  "texto": "[Verificación] 13-14 de noviembre de 2020: el ejército marroquí entró en la zona de amortiguamiento de Guerguerat para despejar el bloqueo de manifestantes saharauis (desde el 21 de octubre) en la carretera hacia Mauritania; Brahim Ghali dio por roto el alto el fuego de 1991 (elDiario.es, The Objective). Rabat sostiene que sigue apegada al alto el fuego (carta S/2020/1133)."
+ },
+ {
+  "parrafo": 2,
+  "ancla": "Su mandato expiró después",
+  "texto": "[Redactor jefe] Recorte propuesto (−2 palabras): «sin renovarse», para compensar la frase sobre 2020."
+ },
+ {
+  "parrafo": 3,
+  "ancla": "bloqueó a su vez el texto ruso",
+  "texto": "[Redactor jefe] Recorte propuesto (−6 palabras): «que mantenía la misión sin cambios»."
+ },
+ {
+  "parrafo": 10,
+  "ancla": "recoge el semanario marroquí",
+  "texto": "[Redactor jefe] Recorte propuesto (−14 palabras): se elimina la frase de Le Matin («un nuevo escenario»), que repite la idea del Gabinete Real, para dejar sitio a 2020."
+ },
+ {
+  "parrafo": 11,
+  "ancla": "El digital Le360 acusa",
+  "texto": "[Redactor jefe] Recorte propuesto (−6 palabras): «La prensa marroquí responde con ironía»."
  }
 ]
