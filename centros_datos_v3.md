@@ -6,7 +6,7 @@ En el desierto de Sonora, en Arizona, miles de aviones jubilados esperan uno det
 
 Es la última solución de una industria que necesita electricidad más deprisa de lo que la red y sus vecinos pueden darle. Los centros de datos son las naves de ordenadores que hacen funcionar la inteligencia artificial. Uno grande puede consumir tanta electricidad como 100.000 hogares, según la Agencia Internacional de la Energía. Pero conectarlo a la red puede llevar años. Y cada vez más comunidades se niegan a acogerlo.
 
-## Más rápido, más sucio
+## Motores de avión para la IA
 
 Una turbina nueva también tarda años en llegar. Por eso los promotores se conforman con lo que hay, sin importar el coste ni la eficiencia. «Todo consiste en conseguir energía lo más rápido posible», explica Audun Martinsen, analista de la consultora Rystad Energy. Con estos motores, añade, «pueden tener un centro de datos funcionando en 24 meses». La pregunta de los promotores, resume Bill Kleyman, consejero delegado de la empresa de infraestructura Apolo, es «¿con qué rapidez me consigues energía?». La demanda no espera. «Instalamos un acelerador de IA cada 14 segundos», presumió ante analistas Andy Jassy, consejero delegado de Amazon, en referencia a los chips especializados en IA.
 

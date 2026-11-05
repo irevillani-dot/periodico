@@ -99,6 +99,7 @@ El revisor de estilo y el redactor jefe repasan esta lista en cada pieza. Cuando
 - **Imágenes propias que no se entienden.** «la barra sigue subiendo». En los cierres manda la imagen de la cita. Mario admite después una frase muy corta que haga explícito el doble sentido («También en su vertiente política»).
 - **Hechos paralelos en frases calcadas.** «El 26 de junio la IWF levantó… El 7 de julio el COI levantó…». Se unen en una frase que diga la relación: «…una decisión a la que el COI se sumó el 7 de julio».
 - **El mismo dato en dos sitios, o la misma fórmula pegada.** La confirmación de Los Ángeles 2028 en dos bloques, o «A esa debilidad se suma…» seguido de «A la exclusión se suma…».
+- **Ladillos de eslogan.** «Más rápido, más sucio» no gustó: el ladillo dice de qué va el bloque, con el actor o el objeto concreto («Motores de avión para la IA»), no un juego de palabras.
 - **Ladillo que no corresponde al párrafo que tiene debajo.** Tras mover párrafos, cada ladillo se comprueba contra el bloque que encabeza.
 - **Dos casos parecidos mezclados.** El dopaje de Estado ruso y la corrupción de la federación van en bloques distintos, cada uno con su fuente.
 
