@@ -22,7 +22,7 @@ Musk propuso la solución más radical. «Los centros de datos en el espacio par
 
 ## Europa, sin red y sin bosques
 
-En Europa el problema es el mismo, pero la respuesta pasa por la regulación. La espera para conectarse a la red es de siete a diez años de media en los grandes nodos europeos, como Fráncfort o Dublín, según la AIE. Irlanda ha convertido la solución de urgencia en obligación. Su regulador exige a los nuevos centros que aporten generación o almacenamiento propios.
+En Europa el problema es el mismo, pero la respuesta pasa por la regulación. La espera para conectarse a la red es de siete a diez años de media en los grandes nodos europeos, como Fráncfort o Dublín, según la AIE. En Irlanda, los nuevos centros solo pueden conectarse a la red si producen o almacenan su propia electricidad, exige el regulador.
 
 Muchas empresas miran al norte, por el frío y la energía renovable, según la consultora Fastmarkets. Allí también chocan con sus vecinos. En Finlandia, la policía de Oulu investiga a una filial de Google, informa la cadena pública australiana ABC. Los investigadores sospechan que la empresa taló y drenó unas 330 hectáreas de bosque antes de terminar las evaluaciones ambientales. En Noruega, los partidos que sostienen al Gobierno piden congelar los nuevos proyectos por motivos energéticos, publica la agencia Bloomberg.
 
