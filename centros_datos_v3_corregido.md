@@ -20,7 +20,7 @@ Hinojosa es demócrata, pero el malestar también ha calado entre los votantes r
 
 Musk propuso la solución más radical. «Los centros de datos en el espacio parecen bastante atractivos ahora mismo», escribió en X. El empresario tiene en Texas la sede de Tesla y la base de SpaceX. Allí había gastado al menos 212 millones de dólares en apoyar al republicano Ken Paxton, que perdió la carrera al Senado, según *The New York Times*.
 
-## Europa, sin red y sin bosques
+## Europa pone condiciones
 
 En Europa, conectarse a la red puede llevar de siete a diez años en Fráncfort o Dublín, según la AIE. Por eso, en lugar de improvisar, los gobiernos ponen condiciones. En Irlanda, los nuevos centros solo pueden conectarse si producen o almacenan su propia electricidad, exige el regulador. En España, el Gobierno prepara un decreto con requisitos energéticos y ambientales para estos centros.
 
