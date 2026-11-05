@@ -4,7 +4,7 @@
 
 En el desierto de Sonora, en Arizona, miles de aviones jubilados esperan uno detrás de otro. «Muchos de sus motores llevan años sin arrancar. Pero la creciente demanda de electricidad para alimentar los centros de datos los está devolviendo a la vida», cuenta *The New York Times*. Varias empresas desmontan esos motores, que en esencia son turbinas de gas, y los convierten en generadores.
 
-Es la última solución de una industria que necesita electricidad más deprisa de lo que la red y sus vecinos pueden darle. Los centros de datos son las naves de ordenadores que hacen funcionar la inteligencia artificial. Uno grande puede consumir tanta electricidad como 100.000 hogares, según la Agencia Internacional de la Energía. Pero conectarlo a la red puede llevar años. Y cada vez más comunidades se niegan a acogerlo.
+Es la última solución de una industria que necesita electricidad más deprisa de lo que la red puede darle y que empieza a perder en las urnas. Los centros de datos son las naves de ordenadores que hacen funcionar la inteligencia artificial. Uno grande puede consumir tanta electricidad como 100.000 hogares, según la Agencia Internacional de la Energía. Pero conectarlo a la red puede llevar años. Y cada vez más comunidades votan para no tenerlo cerca.
 
 ## Motores de avión para la IA
 
