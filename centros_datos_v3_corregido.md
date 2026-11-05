@@ -2,7 +2,7 @@
 
 **La industria de la inteligencia artificial improvisa soluciones para conseguir electricidad mientras crece el rechazo de las comunidades que cargan con su consumo de agua, su ruido y sus facturas**
 
-En el desierto de Sonora, en Arizona, miles de aviones jubilados esperan uno detrás de otro. «Muchos de sus motores llevan años sin arrancar», cuenta *The New York Times*. Varias empresas desmontan esos motores, que en esencia son turbinas de gas, y los convierten en generadores para los centros de datos, que se los quitan de las manos.
+En el desierto de Sonora, en Arizona, descansan miles de aviones jubilados. «Muchos de sus motores llevan años sin arrancar», cuenta *The New York Times*. Varias empresas desmontan esos motores, que en esencia son turbinas de gas, y los convierten en generadores para los centros de datos, que se los quitan de las manos.
 
 Es la última solución de una industria que necesita electricidad más deprisa de lo que la red puede darle. Los centros de datos son las naves de ordenadores que hacen funcionar la inteligencia artificial. Uno grande puede consumir tanta electricidad como 100.000 hogares, según la Agencia Internacional de la Energía (AIE). Conectarlo a la red, sin embargo, puede llevar años. El obstáculo, además, ya no es solo técnico. Las comunidades donde se instalan están cada vez más descontentas. El martes, en las elecciones de mitad de mandato de Estados Unidos, lo dijeron en las urnas.
 
