@@ -95,3 +95,30 @@ Orden sugerido del cierre: 1) las comunidades ganan (WaPo: al menos 38 jurisdicc
 - Finlandia, investigación a Google en Muhos (policía de Oulu): ABC News (Australia) y The Hill. Suelo y agua: 330 hectáreas de bosque talado y drenado antes de la evaluación ambiental.
 - Noruega: Bloomberg (2/11), los aliados del Gobierno piden congelar los centros de datos por temor a falta de electricidad.
 - Contexto nórdico (fuentes secundarias, por contrastar): Ember (demanda de los centros de datos de la región multiplicada por 4-5 en una década), Fingrid (casi 5 GW de capacidad con acuerdos de conexión firmados en Finlandia, agosto), Fastmarkets (obstáculos: red, permisos, oposición local).
+
+## Citas y datos aportados por la autora (traducciones propias, por revisar)
+
+**NYT (escena y coste), citas literales en inglés con traducción**
+- «Many of their engines haven't been fired up for years. But America's soaring demand for electricity to power data centers is bringing them back to life.» → «Muchos de sus motores llevan años sin arrancar. Pero la creciente demanda de electricidad en Estados Unidos para alimentar los centros de datos los está devolviendo a la vida.»
+- Paniagua-Perez (Purdue): la velocidad de conversión «es la principal consideración hoy en día», pero «en uno o dos años, creo que la gente empezará a preocuparse más por el coste del combustible y la eficiencia». «Las emisiones también adquirirán mucha importancia.»
+- Trump, en agosto: «Fue idea mía. Ahora yo obligo a los centros de datos a que generen su propia electricidad, para que no la tomen de la red.»
+- Por qué el desierto: el clima árido reduce la corrosión y el suelo endurecido sostiene los aviones sin pavimento (NYT). Atención: la expresión «saqueadores de tumbas» no está en el texto del NYT. No atribuirla.
+- *TechCrunch* (3/11) resume el reportaje del NYT: menos eficientes, más contaminantes y hacen falta más unidades; según el NYT, la eficiencia y el medio ambiente pueden pesar más «en uno o dos años». No aporta datos nuevos.
+
+**Fortune (4/11, Sebastian Herrera), «After the midterms, Big Tech's AI data center problem is only getting bigger»**
+- Redbud Consulting (datos preliminares): los votantes rechazaron los centros en todas menos una de las 38 consultas locales con recuento completo.
+- Piqua (Ohio, 20.000 habitantes): revocaron al alcalde y a dos concejales que apoyaban un centro de Meta de 1.000 millones de dólares y hasta 1,4 GW.
+- Ohio: al menos 14 municipios aprobaron prohibiciones o restricciones (Fortune). Brockovich cuenta 18 y el Post habla de 38 jurisdicciones en total. Usar el Post.
+- Texas: más de 400 centros de datos (American Edge Project y Technology Councils of North America).
+- Baron Fung (Dell'Oro): «dos o tres pasos adelante, uno atrás». Habrá retrasos y las empresas asumirán más carga financiera y energética.
+- Macquarie: el efecto puede ser menor en restricciones que en «extraer más de los operadores a cambio de la licencia social para operar: impuestos, tarifas de electricidad, consideraciones ambientales y apoyo comunitario».
+- Capex: Amazon, Microsoft, Alphabet y Meta, entre 720.000 y 740.000 millones de dólares combinados en 2026. Nadella: 24 nuevos centros de datos en cinco continentes en un trimestre. Jassy: «Estamos instalando un acelerador de IA cada 14 segundos, y casi tan rápido como instalamos capacidad, los clientes se lo comen.»
+- Data Center Watch (10a Labs): al menos 45 proyectos, unos 68.000 millones de dólares, interrumpidos por oposición local en el segundo trimestre.
+- Oracle (Clay Magouyrk): «no tenemos todos los huevos en la misma cesta». Más de 125.000 millones de deuda. Amazon, «Built Together» (más de 1.000 millones en cinco años), Microsoft (pagará la infraestructura eléctrica y renuncia a bonificaciones fiscales), y las tres grandes han dejado de exigir acuerdos de confidencialidad a los ayuntamientos.
+- Musk: SpaceX prevé gastos de capital de entre 35.000 y 40.000 millones de dólares en el trimestre.
+
+## Europa: lo que se sabe y lo que no (para la transición entre EE. UU. y Europa)
+- No hay fuente que diga que en Europa no se usen motores de avión convertidos ni por qué. No afirmarlo.
+- Lo documentado: en Dublín, AVK y Pure DC completaron un centro con turbinas de gas dedicadas de unos 90 MW que funcionan con gas natural (DeSmog, *The Irish Times* por confirmar). Más de 100 centros de datos del Reino Unido planean quemar gas. Los fabricantes de turbinas ya tienen pedidos hasta 2030. La UE y el Reino Unido preparan normas sobre las plantas de gas fuera de red (resúmenes de DeSmog, abril de 2026).
+- EASA: no hay una norma específica para los residuos de aeronaves y se aplican las normas generales de residuos de la UE. Los motores aptos pueden reutilizarse como repuestos, pero necesitan una aprobación válida. Eso regula la reutilización en aviación, no prohíbe la conversión.
+- Pista para España: Tarmac Aerosave desguaza aviones y motores en el aeropuerto de Teruel (325 aviones y 170 motores desde 2007), en Aragón, que también es el polo de centros de datos. No consta ningún uso de esos motores para generar electricidad. Es una pregunta para Tarmac, no un hecho.
