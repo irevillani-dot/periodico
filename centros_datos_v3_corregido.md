@@ -8,7 +8,7 @@ Es la última solución de una industria que necesita electricidad más deprisa 
 
 ## Motores de avión para la IA
 
-Una turbina nueva también tarda años en llegar. Por eso los promotores se conforman con lo que hay. «Todo consiste en conseguir energía lo más rápido posible», explica Audun Martinsen, analista de la consultora Rystad Energy. Con estos motores, añade, «pueden tener un centro de datos funcionando en 24 meses». «Instalamos un acelerador de IA aproximadamente cada 14 segundos», presumió ante analistas Andy Jassy, consejero delegado de Amazon, en referencia a los chips especializados en IA.
+Una turbina nueva también tarda años en llegar. Por eso los promotores se conforman con lo que hay. «Todo consiste en conseguir energía lo más rápido posible», explica Audun Martinsen, analista de la consultora Rystad Energy. Con estos motores, añade, «pueden tener un centro de datos funcionando en 24 meses». La urgencia la marcan las propias tecnológicas, que amplían sus centros a toda velocidad. «Instalamos un acelerador de IA aproximadamente cada 14 segundos», presumió ante analistas Andy Jassy, consejero delegado de Amazon, en referencia a los chips especializados en IA.
 
 El atajo tiene un coste. Los motores reciclados contaminan más y «consumen más combustible que las turbinas construidas para las centrales de gas modernas», según *The New York Times*. xAI, la empresa de IA de Elon Musk, ha instalado ocho en una central de Misisipi. Tienen permiso para emitir el doble de monóxido de carbono que las otras turbinas de la planta. La generación eléctrica «debería ser más limpia con el tiempo, no más sucia», sostiene Patrick Anderson, abogado de una organización ecologista.
 

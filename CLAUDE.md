@@ -88,6 +88,7 @@ El revisor de estilo y el redactor jefe repasan esta lista en cada pieza. Cuando
 - **Medidas contadas como hechos sueltos.** «En respuesta, recortó las plazas…» no dice que fuera una sanción. Primero va la decisión general (el COI condicionó su futuro olímpico a una reforma) y después sus consecuencias concretas (menos plazas, exclusión provisional, readmisión).
 - **Hechos sin su porqué.** «El COI relajó sus restricciones» deja al lector preguntándose por qué. Se da el motivo con su fuente (la suspensión de 2023 y sus causas, el argumento de Kirsty Coventry).
 - **Saltos sin transición entre temas.** Pasar de la noticia del Mundial al dopaje de Sochi sin una frase que explique la relación. Si dos temas van seguidos, el segundo se presenta como un obstáculo o una causa del primero, en el orden en que pesan (primero la exclusión por la guerra, después el dopaje).
+- **Dos citas pegadas sin relación explícita.** Martinsen («energía lo más rápido posible») seguido de Jassy («un acelerador de IA cada 14 segundos»): falta la frase puente que diga qué las une («La urgencia la marcan las propias tecnológicas, que amplían sus centros a toda velocidad»).
 - **Conectores que no unen nada.**
   - «en cambio» sin nada con lo que contrastar;
   - «Por eso» sin una causa delante;
