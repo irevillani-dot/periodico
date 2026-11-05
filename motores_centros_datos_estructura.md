@@ -55,3 +55,35 @@ El pleito de la NAACP contra xAI y la intervención de la administración Trump 
 3. Si la pausa de Energinet sigue en vigor.
 4. Los plazos de la CRU irlandesa y si los gestores publicaron el proceso de conexión que debían publicar el 31 de marzo.
 5. Las traducciones de las citas del NYT.
+
+## Cierre previsto: las comunidades ganan esta ronda, pero la industria es poderosa
+
+Idea: cerrar con la cita de Erin Brockovich (*The Brockovich Report*, 4 de noviembre). Atribuirla como activista, nunca como fuente de hechos. Traducciones propias del inglés.
+
+- Opción A, la que mejor encaja con el cierre: «Un voto es un primer paso, no una denegación de permiso» (*A vote is a first step, not a permit denial*). Funciona como advertencia: en Trenton (Ohio) el veto probablemente no frena un campus de AWS más pequeño que ya se construye, el de Ottawa (Kansas) puede caer en los tribunales y la junta de Ohio decide el 22 de noviembre sobre la central de gas de Ashville.
+- Opción B, la victoria: «No elegisteis a las tecnológicas para decidir qué se construye en vuestro patio» (*You did not elect tech companies to decide what goes in your backyards*).
+
+Orden sugerido del cierre: 1) las comunidades ganan (WaPo: al menos 38 jurisdicciones); 2) la industria se adapta (OpenAI habla de «campus de computación de IA», Microsoft, Google y Amazon dejan de exigir secreto, Meta arma un equipo bipartidista); 3) cita de Brockovich (opción A); 4) vuelta a la imagen de los motores en el desierto, si el arranque es la escena de Arizona.
+
+## Fuentes sobre las elecciones de mitad de mandato (3-4 de noviembre de 2026)
+
+**Fuentes de referencia**
+- *The Washington Post* (4/11), «A nationwide backlash against data centers erupts at the polls» (Miriam Waldvogel, Shira Ovide y Evan Halper). Al menos 38 jurisdicciones aprobaron prohibiciones o restricciones. Joliet Township (Illinois) casi el 80%, Hubbard (Ohio) más de tres cuartos, Janesville (Wisconsin) más del 60%. La excepción: Harwood (Dakota del Norte). Gina Hinojosa gana en Texas, Amy Acton en Ohio, Keisha Lance Bottoms en Georgia, Sherrod Brown vence a Jon Husted y Darline Graham pierde en Carolina del Sur. Sondeo del Post, ABC y Ipsos: 7 de cada 10 estadounidenses se oponen a nuevos centros de datos en su comunidad. Más de 145 proyectos retrasados o cancelados hasta agosto (S&P Global). Ed Mills (Raymond James): es la «señal de salida» para regular. Nota: el Post tiene un acuerdo de contenidos con OpenAI y su propietario, Jeff Bezos, es el presidente ejecutivo de Amazon (lo aclara el propio texto).
+- *TIME* (4/11), sobre las elecciones y la industria de la IA: sondeo de salida de NBC (56% considera la IA y los centros de datos un factor «crucial o importante»), los demócratas gastaron más de 100 millones de dólares en anuncios, alcaldes revocados en Piqua (Ohio) y Yukon (Oklahoma), Blue Rose Research (los estadounidenses preferirían vivir cerca de una cárcel, una clínica de metadona o una central nuclear que de un centro de datos), memorándum del Comité Nacional Republicano del Senado en agosto («los centros de datos son el ancla que cuelga del cuello de Husted»), súper PAC Leading the Future (más de 100 millones), Musk (446 millones, de los que 168 apoyaron a Ken Paxton, derrotado por James Talarico), Anthropic (más de 40 millones a Public First Action, sin uso electoral), OpenAI prepara una ofensiva de relaciones públicas y Meta construye un equipo bipartidista.
+- CNBC (4/11), «Voters rebuff data centers in every ballot measure except one during the 2026 midterms»; Fortune (4/11), «After the midterms, Big Tech's AI data center problem is only getting bigger»; Brookings, «Why data centers are a top issue in the 2026 midterms».
+
+**Para casos locales y cautelas (activismo, atribuir)**
+- *The Brockovich Report* (4/11): Ohio (18 municipios, Ashville y la central de gas de 800 MW de EdgeConneX, decisión de la junta el 22 de noviembre), Kansas (El Dorado, Emporia y Ottawa) y Georgia (Comisión de Servicios Públicos).
+
+**Matices a mantener**
+- El 56% de TIME y del Post se refiere a lo mismo (sondeo de salida de NBC), pero el Post añade que la IA y los centros de datos fueron el último de cinco temas, muy por detrás de la corrupción, la guerra de Irán y el coste de la vida. Decirlo así: entraron por primera vez en una campaña grande, no la decidieron.
+- Gasto de Musk: «más de 400 millones» (Post) frente a 446 millones (TIME). Usar «más de 400 millones».
+- Las cifras de proyectos frenados difieren entre fuentes: S&P cuenta más de 145 retrasados o cancelados (Post) y antes se habló de más de 50 cancelados. Data Center Watch habla de 68.000 millones de dólares en 45 proyectos. Elegir una formulación y atribuirla.
+- Resultados todavía no definitivos en varias carreras (Kansas y Arizona, según TIME). Cotejar con los oficiales.
+
+## Fuentes del norte de Europa
+
+- *The European Correspondent*, «The energy footprint of AI» (https://europeancorrespondent.com/en/r/the-energy-footprint-of-ai). No se ha podido abrir: el dominio no está permitido en la sesión. Pendiente de leer.
+- Finlandia, investigación a Google en Muhos (policía de Oulu): ABC News (Australia) y The Hill. Suelo y agua: 330 hectáreas de bosque talado y drenado antes de la evaluación ambiental.
+- Noruega: Bloomberg (2/11), los aliados del Gobierno piden congelar los centros de datos por temor a falta de electricidad.
+- Contexto nórdico (fuentes secundarias, por contrastar): Ember (demanda de los centros de datos de la región multiplicada por 4-5 en una década), Fingrid (casi 5 GW de capacidad con acuerdos de conexión firmados en Finlandia, agosto), Fastmarkets (obstáculos: red, permisos, oposición local).
