@@ -26,6 +26,10 @@ Vance culpa a la guerra de Irán. En un largo ensayo, defendió que los republic
 
 Sigue liderando los sondeos y es el favorito en las apuestas para la nominación republicana, según *The Washington Post*. Pero sus rivales ya se mueven. Ron DeSantis, gobernador de Florida, ha iniciado una ofensiva en los medios. Brian Kemp, gobernador de Georgia, sopesa presentarse. Ted Cruz se prepara con un veterano consultor. DeSantis, antes un halcón conservador, se ha reposicionado contra la guerra de Irán y a favor de límites estrictos a los centros de datos. «Creo que los caucus y el proceso presidencial empezaron el miércoles por la mañana, si no el martes por la noche», dice Bob Vander Plaats, líder evangélico de Iowa. Trump ha rehusado señalar un sucesor. «Quizá no se presente», dijo de Vance.
 
-## Un nombre que no figuraba hace un año
+## El péndulo y el relevo
 
-El *Post* y el *Journal* anticipan primarias disputadas en los dos partidos. En el lado demócrata, Ossoff sería, según el *Journal*, «formidable» si cambia de opinión. «Hace apenas un año, no figuraba en las listas», recuerda *El País*. Todavía dice que cumplirá sus seis años de mandato.
+La próxima carrera será también un relevo generacional. Vance, de 42 años, y Ossoff, de 39, son millennials, como Ocasio-Cortez y Talarico. Más de un tercio de los candidatos al Congreso tenía menos de 45 años este ciclo. En 2024 era uno de cada cuatro, según el grupo Future Caucus que cita *The Hill*. Los votantes jóvenes eligen temas antes que partidos, según *The 19th*. Ocasio-Cortez sostiene que esa generación empieza a ser decisiva en las urnas, según *Newsweek*. Barack Obama ha pedido a los demócratas que dejen paso a los más jóvenes, según *Fox News*.
+
+El cambio en Estados Unidos nunca es gradual, escribe el periodista de *Il Post* Francesco Costa. «Más bien, se asemeja a un péndulo: primero se oscila con gran ímpetu en una dirección, luego se oscila con gran ímpetu en la dirección opuesta». Pero «cada vez, algo de la fase anterior permanece».
+
+Ossoff dice que cumplirá sus seis años de mandato. «Hace apenas un año, no figuraba en las listas», recuerda *El País*. Según el *Journal*, sería «formidable» si cambiara de opinión.
