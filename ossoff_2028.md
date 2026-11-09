@@ -24,7 +24,7 @@ Al otro lado, el *Journal* habla de «la derrota republicana más amplia desde e
 
 De momento, Vance sigue liderando los sondeos y las apuestas. Según Kalshi, el secretario de Estado Marco Rubio y el gobernador de Florida, Ron DeSantis, han recortado distancias tras las elecciones. De hecho, según *The Washington Post*, DeSantis ha iniciado una ofensiva en los medios. Antes visto como halcón, ahora se opone a la guerra de Irán y pide límites estrictos a los centros de datos. El *Post* añade que Brian Kemp, gobernador saliente de Georgia, sopesa presentarse y que el senador Ted Cruz se prepara con un veterano consultor.
 
-«Creo que los *caucus* y el proceso presidencial empezaron el miércoles por la mañana, si no el martes por la noche», dice Bob Vander Plaats, líder evangélico de Iowa. En cambio, Trump no señala un sucesor. «Quizá no se presente», dijo de Vance, según el *Journal*.
+«Creo que los *caucus* y el proceso presidencial empezaron el miércoles por la mañana, si no el martes por la noche», dice Bob Vander Plaats, líder evangélico de Iowa. Trump, por su parte, no señala un sucesor. Sobre Vance dijo el miércoles que «quizá no se presente» y que no sabe quién lo hará, según el *Journal*.
 
 ## Dos partidos, dos resacas
 
