@@ -8,7 +8,7 @@ En su discurso de victoria, Ossoff dijo que la tarea de los demócratas «no es 
 
 ## El documentalista
 
-Ossoff empezó su vida laboral como documentalista. Se nota. Sus mítines de los domingos por la noche y sus vídeos cortos virales han disparado su recaudación, según el *Journal*. En agosto, una alusión a Natalie Harp, asistente personal de Trump, enfureció a la Casa Blanca y dio la vuelta a las redes. «Es consciente de la importancia de la imagen y de un gesto bien iluminado», escribe *El País*. Sus aliados dicen que lo frena el impacto de una campaña en sus dos hijas, de uno y cuatro años.
+Ossoff dirigió una productora de documentales de investigación hasta llegar al Senado, en 2021. Se nota. Sus mítines de los domingos por la noche y sus vídeos cortos virales han disparado su recaudación, según el *Journal*. En agosto, una alusión a Natalie Harp, asistente personal de Trump, enfureció a la Casa Blanca y dio la vuelta a las redes. «Es consciente de la importancia de la imagen y de un gesto bien iluminado», escribe *El País*. Sus aliados dicen que lo frena el impacto de una campaña en sus dos hijas, de uno y cuatro años.
 
 ## Moderados al poder, progresistas al foco
 
