@@ -2,9 +2,11 @@
 
 **Jon Ossoff lidera las apuestas entre unos demócratas que ganaron con candidatos moderados. Los republicanos, tras perder, no tienen un heredero claro para Trump**
 
-Seis días antes de las elecciones legislativas, el expresidente Barack Obama subió a un estrado de Morrow, al sur de Atlanta. Había ido a apoyar al senador Jon Ossoff. Ambos suelen comparecer en los mítines con las mangas de la camisa enrolladas y las manos sobre el atril, según *El País*. «No es solamente porque se exprese tan bien; no es solo porque parezca un Kennedy», proclamó.
+Jon Ossoff y Barack Obama tienen más en común de lo que parece. Los dos suben al estrado con las mangas de la camisa enrolladas y apoyan las manos en el atril, según *El País*. Los dos usan las pausas y la cadencia para mantener al público pendiente, y consiguen que progresistas y centristas vean en ellos lo que buscan.
 
-La comparación no es casual. Ossoff empezó su vida laboral como documentalista. Por eso, escribe *El País*, «es perfectamente consciente de la importancia de la imagen y de un gesto bien iluminado». Como Obama en su día con las redes sociales, sabe que una frase contundente puede hacerse viral.
+Seis días antes de las elecciones de mitad de mandato, Obama subió a un estrado de Morrow, al sur de Atlanta, para apoyar al senador. «No es solamente porque se exprese tan bien; no es solo porque parezca un Kennedy», proclamó ante 10.000 personas.
+
+Ossoff empezó su vida laboral como documentalista. Por eso, escribe *El País*, «es perfectamente consciente de la importancia de la imagen y de un gesto bien iluminado». Como Obama en su día con las redes sociales, sabe que una frase contundente puede hacerse viral.
 
 Esa imagen funcionó en una noche histórica. Los demócratas ganaron las dos cámaras. Arrebataron siete escaños en el Senado, incluido el de Ohio, que dejó el vicepresidente J. D. Vance, y recuperaron gobernaciones en feudos republicanos como Georgia y Texas, según *The Wall Street Journal*. Fue un año de «voto de castigo al Gobierno», según *El País*. Lo marcaron la guerra de Irán, los aranceles y el coste de la vida.
 
@@ -27,7 +29,5 @@ De momento, Vance sigue liderando los sondeos y las apuestas. Según Kalshi, el 
 Bob Vander Plaats, líder evangélico de Iowa, cree que la carrera por la nominación empezó al día siguiente de las elecciones, si no la propia noche electoral. Trump, por su parte, no señala un sucesor. El miércoles dijo que el propio Vance podría no presentarse y que no sabe quién competirá por el partido, según el *Journal*.
 
 ## Dos partidos, dos resacas
-
-El balance de la noche es desigual. Los demócratas tienen demasiados aspirantes y una discusión abierta sobre hacia dónde ir. Los republicanos tienen un favorito debilitado y un presidente que no señala heredero.
 
 El cambio en Estados Unidos nunca es gradual, escribe Francesco Costa, periodista italiano experto en Estados Unidos, en su boletín *Da Costa a Costa*. «Más bien, se asemeja a un péndulo: primero se oscila con gran ímpetu en una dirección, luego se oscila con gran ímpetu en la dirección opuesta». Pero «cada vez, algo de la fase anterior permanece».
