@@ -75,7 +75,7 @@ Referencia general: **Libro de estilo de *El País***, que es el que sigue la re
 - **Atribución al final de la frase** («…, señala *El País*») o al principio («Según el *Journal*, …»), nunca un «según X» metido en medio de la oración. Variar los verbos de atribución (señala, apunta, recoge, escribe, informa, sostiene, explica).
 - **Sujeto explícito**: evitar frases que empiecen con un verbo con sujeto elíptico («Renovó…», «Gusta a…»).
 - **Raccord entre párrafos**: si un párrafo termina con un nombre, el siguiente no debe empezar con el mismo nombre; usar el cargo, «el demócrata», «el senador», etc. Vigilar las repeticiones de una misma palabra o raíz en párrafos cercanos.
-- **Pocas cifras**: solo las que aportan información; nada de detalles demasiado específicos.
+- **Pocas cifras**: solo las que aportan información. Los detalles concretos que dan color (una imagen, un gesto, una anécdota) sí valen; lo que sobra es la precisión que no aporta nada al lector.
 - Para hablar de favoritos, **mejor prensa y encuestas que webs de apuestas**.
 - Las citas, siempre **literales y verificadas** en la fuente; si una traducción es propia, decírselo. Si un dato no se ha podido verificar, avisar antes de usarlo.
 - En el Word de revisión, **pocos comentarios**: solo los imprescindibles; lo demás, en el informe o en el chat.
