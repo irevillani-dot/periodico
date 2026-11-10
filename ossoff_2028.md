@@ -26,10 +26,10 @@ Del otro lado del tablero, el *Journal* habla de «la derrota republicana más a
 
 El golpe deja al vicepresidente J. D. Vance ante un dilema. Vance ha dicho a su entorno que no ha decidido si se presentará. En octubre admitió en CBS News que «hay una posibilidad» de que nunca lo haga. Según el *Journal*, sus allegados le han propuesto volver a presentarse como senador en Ohio, pero él lo ha rechazado. Algunos donantes dicen que no pueden respaldarlo y proponen a otros candidatos. Además, su coalición se fragmenta, con votantes hispanos que apoyan a los demócratas y con republicanos contrarios a la guerra.
 
-De momento, no hay nuevas figuras emergentes. El secretario de Estado, Marco Rubio, ha dicho que apoyaría a Vance si se presenta, informa *The Washington Post*. El gobernador de Florida, Ron DeSantis, ha iniciado en cambio una ofensiva en los medios. Antes visto como halcón, ahora se opone a la guerra de Irán y pide límites estrictos a los centros de datos.
+De momento, no hay nuevas figuras emergentes. El secretario de Estado, Marco Rubio, ha dicho que apoyaría a Vance si se presenta, informa *The Washington Post*. El gobernador de Florida, Ron DeSantis, ha iniciado en cambio una ofensiva en los medios. El gobernador, antes partidario de la línea dura en el exterior, rechaza ahora la guerra de Irán y pide limitar los centros de datos.
 
 La duda va más allá de Vance. Algunos de sus aliados creen que ningún republicano podrá ganar en 2028, revela el *Journal*. Quien lo intente tendrá que cargar con un presidente impopular, como refleja la encuesta de AP. Trump, por ahora, no señala a ningún sucesor. El comentarista conservador Steve Deace advierte en el *Post* de que, si Trump no cambia de rumbo, «esto se trasladará a 2028 y no importará a quién nominemos».
 
 ## Dos partidos, dos resacas
 
-Los republicanos ni siquiera coinciden en el diagnóstico. DeSantis calificó las elecciones de «un rechazo al presidente y al Congreso» en una entrevista en Fox News. Trump, sin embargo, no se arrepiente de la guerra. «No pienso en ello. Hice lo correcto. Lo habría vuelto a hacer», declaró la noche electoral al *Journal*.
+Los republicanos ni siquiera coinciden en el diagnóstico. DeSantis calificó las elecciones de «un rechazo al presidente y al Congreso» en Fox News. Trump, sin embargo, no se arrepiente de la guerra. «No pienso en ello. Hice lo correcto. Lo habría vuelto a hacer», declaró la noche electoral al *Journal*.
