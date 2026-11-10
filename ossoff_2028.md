@@ -6,11 +6,11 @@ Jon Ossoff y Barack Obama tienen más en común de lo que parece. Los dos suben 
 
 Seis días antes de las elecciones de mitad de mandato, Obama viajó a Georgia para apoyar al senador. «No es solamente porque se exprese tan bien; no es solo porque parezca un Kennedy», proclamó. Ossoff, de 39 años, es el senador más joven de la actualidad. Ganó su escaño en 2021, con 33, en una elección especial. Hizo prácticas con John Lewis, líder del movimiento por los derechos civiles. Obama recordó que Lewis fue maestro de ambos.
 
-Ossoff tiene un pasado como documentalista, con investigaciones sobre corrupción. Por eso, escribe *El País*, «es perfectamente consciente de la importancia de la imagen y de un gesto bien iluminado». Como Obama en su día con las redes sociales, sabe que una frase contundente puede hacerse viral.
+Ossoff tiene un pasado como documentalista, con investigaciones sobre corrupción. Según *El País*, «es perfectamente consciente de la importancia de la imagen y de un gesto bien iluminado». Para Jonathan Martin, de *Politico*, su fórmula son mítines de fin de semana, clips para las redes y un mensaje anticorrupción.
 
 Los demócratas ganaron las dos cámaras el martes 3 de noviembre, en una noche histórica según *The Wall Street Journal*. Arrebataron siete escaños en el Senado, incluido el de Ohio, que dejó el vicepresidente J. D. Vance, y recuperaron gobernaciones en feudos republicanos como Georgia y Texas. Fue un año de «voto de castigo al Gobierno», según *El País*. Lo marcaron la guerra de Irán, los aranceles y el coste de la vida, según *The Washington Post*.
 
-Tras su triunfo, se habla de Ossoff como candidato en 2028, según *El País*. Este martes renovó su escaño con el 59% de los votos, en un estado que el presidente Donald Trump ganó en 2024. Según el diario, gusta a los progresistas por sus «acusaciones despiadadas de la corrupción dentro de la Administración republicana». Los centristas valoran, en cambio, su seriedad.
+Tras su triunfo, se habla de Ossoff como candidato en 2028, según *El País*. Renovó su escaño con el 59% de los votos, en un estado que el presidente Donald Trump ganó en 2024. Según el diario, gusta a los progresistas por sus «acusaciones despiadadas de la corrupción dentro de la Administración republicana». Los centristas valoran, en cambio, su seriedad.
 
 Ossoff dice que tiene «cero interés» en la presidencia, según el *Journal*. *El País* añade que cumplirá sus seis años de mandato. Aun así, el mercado de apuestas Kalshi lo sitúa por delante de la congresista Alexandria Ocasio-Cortez. «Hace apenas un año, no figuraba en las listas», recuerda el diario.
 
