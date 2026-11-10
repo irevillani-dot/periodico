@@ -10,7 +10,7 @@ Ossoff empezó su vida laboral como documentalista, con investigaciones sobre co
 
 Tras su triunfo, se habla de Ossoff como candidato en 2028, según *El País*. Gusta a los progresistas por sus «acusaciones despiadadas de la corrupción dentro de la Administración republicana» y a los centristas por su seriedad. Él dice que tiene «cero interés» en la presidencia, según el *Journal*. Aun así, Kalshi lo sitúa por delante de la congresista Alexandria Ocasio-Cortez.
 
-## Los demás aspirantes demócratas
+## Un campo demócrata abarrotado y una pugna por el rumbo
 
 Fortalecidos por una victoria aplastante, los demócratas afrontan unas primarias presidenciales muy concurridas, con numerosos aspirantes potenciales. La primaria será «de las más abiertas en una generación», según el *Journal*, que advierte de que un campo tan nutrido puede volver el proceso más caótico.
 
@@ -20,7 +20,7 @@ El reto es que tanta variedad expone las divisiones del partido. Los demócratas
 
 La pugna entre moderados y progresistas ya tuvo su examen en las urnas. Según CNN, hasta los candidatos con un pasado más «woke» superaron las expectativas porque esta vez se presentaron como moderados. El camino a la victoria lo pavimentaron sobre todo los moderados, según *The New York Times*. Hablaron del coste de la vida y prometieron bajar los precios y mejorar la sanidad. «Está claro que son los moderados de estos distritos disputados quienes han volteado la Cámara», dice Elaine Luria, que ha recuperado su escaño en Virginia.
 
-## Vance y los demás republicanos
+## Un vicepresidente que duda y un partido sin heredero
 
 Al otro lado, el *Journal* habla de «la derrota republicana más amplia desde el Watergate». Según la encuesta AP VoteCast, a los votantes les pesaron sobre todo el coste de la vida y la corrupción. Seis de cada diez creen que Estados Unidos se equivocó al intervenir en Irán.
 
