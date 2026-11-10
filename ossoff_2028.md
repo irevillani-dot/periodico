@@ -30,7 +30,7 @@ Lo confirma Elaine Luria, que ha recuperado su escaño en Virginia. «Está clar
 
 Al otro lado, el *Journal* habla de «la derrota republicana más amplia desde el Watergate». Según la encuesta AP VoteCast, a los votantes les pesaron sobre todo el coste de la vida y la corrupción. Seis de cada diez creen que Estados Unidos se equivocó al intervenir en Irán. Trump ha reconocido que la guerra explica en parte las pérdidas, según el *Journal*.
 
-El golpe deja a J. D. Vance ante un dilema. El vicepresidente ha dicho a su entorno que no ha decidido si se presentará y en octubre admitió en *CBS News* que «hay una posibilidad» de que nunca lo haga. En un ensayo, culpó a la guerra y recordó que la coalición de Trump acudió a las urnas, pero no votó a los republicanos.
+El golpe deja a J. D. Vance ante un dilema. El vicepresidente ha dicho a su entorno que no ha decidido si se presentará y en octubre admitió en CBS News que «hay una posibilidad» de que nunca lo haga. En un ensayo, culpó a la guerra y recordó que la coalición de Trump acudió a las urnas, pero no votó a los republicanos.
 
 Aun así, Vance sigue liderando los sondeos. Según Kalshi, el secretario de Estado Marco Rubio y el gobernador de Florida, Ron DeSantis, han recortado distancias tras las elecciones. Trump, por su parte, no señala un sucesor y dice que no sabe quién se presentará.
 
