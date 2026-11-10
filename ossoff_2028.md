@@ -22,14 +22,14 @@ La pugna entre moderados y progresistas ya tuvo su examen en las urnas. Según C
 
 ## Vance y los demás republicanos
 
-Al otro lado, el *Journal* habla de «la derrota republicana más amplia desde el Watergate». Según la encuesta AP VoteCast, a los votantes les pesaron sobre todo el coste de la vida y la corrupción. Seis de cada diez creen que Estados Unidos se equivocó al intervenir en Irán. Trump ha reconocido que la guerra explica en parte las pérdidas, según el *Journal*.
+Al otro lado, el *Journal* habla de «la derrota republicana más amplia desde el Watergate». Según la encuesta AP VoteCast, a los votantes les pesaron sobre todo el coste de la vida y la corrupción. Seis de cada diez creen que Estados Unidos se equivocó al intervenir en Irán.
 
 El golpe deja a J. D. Vance ante un dilema. El vicepresidente ha dicho a su entorno que no ha decidido si se presentará. En octubre admitió en CBS News que «hay una posibilidad» de que nunca lo haga. Sus allegados le han propuesto volver a presentarse como senador en Ohio, según el *Journal*, pero él lo rechazó. Algunos donantes dicen que no pueden respaldarlo y proponen a otros candidatos. Además, su coalición se fragmenta, con votantes hispanos que apoyan a los demócratas y con republicanos contrarios a la guerra.
 
-De momento, Vance sigue liderando los sondeos y las apuestas. Según Kalshi, el secretario de Estado Marco Rubio y el gobernador de Florida, Ron DeSantis, han recortado distancias tras las elecciones. Rubio, sin embargo, ha dicho que apoyaría a Vance si se presenta. De hecho, según *The Washington Post*, DeSantis ha iniciado una ofensiva en los medios. Antes visto como halcón, ahora se opone a la guerra de Irán y pide límites estrictos a los centros de datos.
+De momento, Vance sigue liderando los sondeos y las apuestas. Según Kalshi, el secretario de Estado Marco Rubio y el gobernador de Florida, Ron DeSantis, han recortado distancias tras las elecciones. Rubio, sin embargo, ha dicho que apoyaría a Vance si se presenta. De hecho, según *The Washington Post*, DeSantis ha iniciado una ofensiva en los medios. Antes visto como halcón, ahora pide límites estrictos a los centros de datos.
 
 La duda va más allá de Vance. Según el *Journal*, algunos aliados no creen que ningún republicano pueda ganar en 2028. El candidato heredaría a un presidente impopular, según AP. El comentarista conservador Steve Deace advierte de que, si Trump no cambia de rumbo, «esto se trasladará a 2028 y no importará a quién nominemos», según el *Post*. Trump, por ahora, no señala un sucesor.
 
 ## Dos partidos, dos resacas
 
-¿Cuánto durará esta ola? El cambio en Estados Unidos nunca es gradual, escribe Francesco Costa, periodista italiano experto en Estados Unidos, en su boletín *Da Costa a Costa*. «Más bien, se asemeja a un péndulo: primero se oscila con gran ímpetu en una dirección, luego se oscila con gran ímpetu en la dirección opuesta». Pero «cada vez, algo de la fase anterior permanece».
+Los republicanos ni siquiera coinciden en el diagnóstico. DeSantis dijo en Fox News que las elecciones fueron «un rechazo al presidente y al Congreso». Trump reconoce que la guerra explica en parte las pérdidas, pero no se arrepiente: «No pienso en ello. Hice lo correcto. Lo habría vuelto a hacer», dijo la noche electoral, según el *Journal*.
