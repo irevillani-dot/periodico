@@ -66,3 +66,17 @@ Referencia general: **Libro de estilo de *El País***, que es el que sigue la re
 - Primera mención de cada persona con nombre completo y cargo; cargos en minúscula.
 - «el mismo periódico» o «el diario» solo si el antecedente inmediato es ese medio.
 - Nombres rusos y ucranianos: transcripción al español según la Fundéu (Volodímir Zelenski, Serhí, Andrí Yermak, Kiev), no la transliteración inglesa.
+
+## Preferencias de la autora (acumuladas en el trabajo)
+
+- **Nunca palabrotas** en los textos que se le escriben, ni siquiera citadas para explicar que se han quitado.
+- Se puede citar a medios italianos, pero **nunca como única fuente extranjera**: siempre acompañados de prensa anglosajona o internacional.
+- Mario prefiere **abrir con la noticia** (gancho de actualidad) y luego ampliar.
+- **Atribución al final de la frase** («…, señala *El País*») o al principio («Según el *Journal*, …»), nunca un «según X» metido en medio de la oración. Variar los verbos de atribución (señala, apunta, recoge, escribe, informa, sostiene, explica).
+- **Sujeto explícito**: evitar frases que empiecen con un verbo con sujeto elíptico («Renovó…», «Gusta a…»).
+- **Raccord entre párrafos**: si un párrafo termina con un nombre, el siguiente no debe empezar con el mismo nombre; usar el cargo, «el demócrata», «el senador», etc. Vigilar las repeticiones de una misma palabra o raíz en párrafos cercanos.
+- **Pocas cifras**: solo las que aportan información; nada de detalles demasiado específicos.
+- Para hablar de favoritos, **mejor prensa y encuestas que webs de apuestas**.
+- Las citas, siempre **literales y verificadas** en la fuente; si una traducción es propia, decírselo. Si un dato no se ha podido verificar, avisar antes de usarlo.
+- En el Word de revisión, **pocos comentarios**: solo los imprescindibles; lo demás, en el informe o en el chat.
+- La autora escribe en italiano o en español; se le responde en el idioma en que escribe. Los artículos, siempre en español de España.
