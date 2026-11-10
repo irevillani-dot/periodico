@@ -28,7 +28,7 @@ El golpe deja al vicepresidente J. D. Vance ante un dilema. Vance ha dicho a su 
 
 De momento, no hay nuevas figuras emergentes. El secretario de Estado, Marco Rubio, ha dicho que apoyaría a Vance si se presenta, informa *The Washington Post*. El gobernador de Florida, Ron DeSantis, ha iniciado en cambio una ofensiva en los medios. El gobernador, antes partidario de la línea dura en el exterior, rechaza ahora la guerra de Irán y pide limitar los centros de datos.
 
-La duda va más allá de Vance. Algunos de sus aliados creen que ningún republicano podrá ganar en 2028, revela el *Journal*. Quien lo intente tendrá que cargar con un presidente impopular, como refleja la encuesta de AP. Trump, por ahora, no señala a ningún sucesor. El comentarista conservador Steve Deace advierte en el *Post* de que, si Trump no cambia de rumbo, «esto se trasladará a 2028 y no importará a quién nominemos».
+La duda va más allá de Vance. Algunos aliados políticos del vicepresidente le han dicho que ningún republicano podrá ganar en 2028, revela el *Journal*. Quien lo intente tendrá que cargar con un presidente impopular, como refleja la encuesta de AP. Trump no señala a ningún sucesor. El comentarista conservador Steve Deace advierte en el *Post* de que, si Trump no cambia de rumbo, «esto se trasladará a 2028 y no importará a quién nominemos».
 
 ## Dos partidos, dos resacas
 
