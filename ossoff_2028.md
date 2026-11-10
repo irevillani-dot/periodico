@@ -12,7 +12,7 @@ Tras su triunfo, se habla de Ossoff como candidato en 2028, según *El País*. G
 
 ## Los demás aspirantes demócratas
 
-Fortalecidos por una victoria aplastante, los demócratas afrontan unas primarias presidenciales muy concurridas, con numerosos aspirantes potenciales. La primaria será «de las más abiertas en una generación», según el *Journal*, que advierte de que tanta cantera puede volver el proceso más caótico.
+Fortalecidos por una victoria aplastante, los demócratas afrontan unas primarias presidenciales muy concurridas, con numerosos aspirantes potenciales. La primaria será «de las más abiertas en una generación», según el *Journal*, que advierte de que un campo tan nutrido puede volver el proceso más caótico.
 
 Las elecciones han lanzado a nuevas estrellas, según el diario. James Talarico ganó el Senado en Texas, y Abdul El-Sayed será el primer senador musulmán. Entre los nombres que suenan para 2028, la exvicepresidenta Kamala Harris lidera los sondeos, pero no las apuestas. Los gobernadores Gavin Newsom (California), J. B. Pritzker (Illinois) y Andy Beshear (Kentucky) también se mueven. Ocasio-Cortez, que podría presentarse a presidenta o al Senado, es la gran incógnita. «Su decisión alterará la carrera», refiere el *Journal*.
 
