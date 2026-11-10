@@ -18,7 +18,7 @@ Las urnas han lanzado, además, a nuevas estrellas. El demócrata James Talarico
 
 Tanta variedad expone, sin embargo, las divisiones del partido. Los demócratas se debaten entre el aparato y los recién llegados, entre moderados y progresistas y entre juventud y experiencia, señala el diario. «Tiene que ser alguien que atraiga no solo a los demócratas, sino también a independientes y a algunos republicanos», sostiene Beshear, que no descarta presentarse.
 
-La pugna entre moderados y progresistas ya pasó su primer examen en las urnas. Incluso los candidatos con un pasado más «woke» superaron las expectativas porque esta vez se presentaron desde el centro, apunta CNN. El camino a la victoria lo abrieron sobre todo los demócratas centristas, sostiene *The New York Times*. Sus candidatos hablaron del coste de la vida y prometieron bajar los precios y mejorar la sanidad. «Está claro que son los moderados de estos distritos disputados quienes han dado la vuelta a la Cámara», comenta la demócrata Elaine Luria, que ha recuperado su escaño en Virginia.
+Las urnas premiaron a quienes se presentaron con posiciones moderadas, sostiene *The New York Times*. Esos candidatos hablaron del coste de la vida y prometieron bajar los precios y mejorar la sanidad. Según CNN, hasta los aspirantes con un pasado más «woke» superaron las expectativas porque suavizaron su discurso. «Está claro que son los moderados de estos distritos disputados quienes han dado la vuelta a la Cámara», comenta la demócrata Elaine Luria, que ha recuperado su escaño en Virginia.
 
 ## Un vicepresidente que duda y un partido sin heredero
 
