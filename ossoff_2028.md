@@ -8,23 +8,23 @@ Seis días antes de las elecciones de mitad de mandato, Obama viajó a Georgia p
 
 Ossoff tiene un pasado como documentalista, con investigaciones sobre corrupción. Según *El País*, «es perfectamente consciente de la importancia de la imagen y de un gesto bien iluminado». Para Jonathan Martin, de *Politico*, su fórmula son mítines de fin de semana, clips para las redes y un mensaje anticorrupción.
 
-Los demócratas ganaron las dos cámaras el martes 3 de noviembre, en una noche histórica según *The Wall Street Journal*. Arrebataron siete escaños en el Senado, incluido el de Ohio, que dejó el vicepresidente J. D. Vance, y recuperaron gobernaciones en feudos republicanos como Georgia y Texas. Fue un año de «voto de castigo al Gobierno», según *El País*. Lo marcaron la guerra de Irán, los aranceles y el coste de la vida, según *The Washington Post*.
+Los demócratas ganaron las dos cámaras el 3 de noviembre, en una noche histórica según *The Wall Street Journal*. Arrebataron siete escaños en el Senado, incluido el de Ohio, que dejó el vicepresidente J. D. Vance, y recuperaron gobernaciones en feudos republicanos como Georgia y Texas. En Texas, donde llevaban décadas sin ganar, se impuso James Talarico. Fue un año de «voto de castigo al Gobierno», según *El País*. Lo marcaron la guerra de Irán, los aranceles y el coste de la vida, según *The Washington Post*.
 
-Tras su triunfo, se habla de Ossoff como candidato en 2028, según *El País*. Renovó su escaño con el 59% de los votos, en un estado que el presidente Donald Trump ganó en 2024. Según el diario, gusta a los progresistas por sus «acusaciones despiadadas de la corrupción dentro de la Administración republicana». Los centristas valoran, en cambio, su seriedad.
+Tras su triunfo, se habla de Ossoff como candidato en 2028, según *El País*. Renovó su escaño con el 59% de los votos, en un estado que el presidente Donald Trump ganó en 2024. Según el diario, gusta a los progresistas por sus «acusaciones despiadadas de la corrupción dentro de la Administración republicana».
 
 Ossoff dice que tiene «cero interés» en la presidencia, según el *Journal*. Aun así, el mercado de apuestas Kalshi lo sitúa por delante de la congresista Alexandria Ocasio-Cortez.
 
 ## Los demás aspirantes demócratas
 
-Fortalecidos por una victoria aplastante, los demócratas afrontan ahora unas primarias presidenciales muy concurridas, con numerosos aspirantes potenciales. Será una primaria «de las más abiertas en una generación», según el *Journal*, que advierte de que tanta cantera puede volver el proceso más caótico.
+Fortalecidos por una victoria aplastante, los demócratas afrontan unas primarias presidenciales muy concurridas, con numerosos aspirantes potenciales. Será una primaria «de las más abiertas en una generación», según el *Journal*, que advierte de que tanta cantera puede volver el proceso más caótico.
 
-El abanico es amplio. Las caras nuevas, como los senadores electos James Talarico (Texas) y Abdul El-Sayed (Michigan), ya están en el escenario nacional. La exvicepresidenta Kamala Harris lidera los sondeos, pero no las apuestas. Los gobernadores Gavin Newsom (California), J. B. Pritzker (Illinois) y Andy Beshear (Kentucky) también se mueven. Ocasio-Cortez, que podría presentarse a presidenta o al Senado, es la gran incógnita.
+El abanico es amplio. La exvicepresidenta Kamala Harris lidera los sondeos, pero no las apuestas. Los gobernadores Gavin Newsom (California), J. B. Pritzker (Illinois) y Andy Beshear (Kentucky) también se mueven. Ocasio-Cortez, que podría presentarse a presidenta o al Senado, es la gran incógnita.
 
 El reto es que tanta variedad expone las divisiones del partido, según el diario. Los demócratas se debaten entre el establishment y los outsiders, entre moderados y progresistas, y entre juventud y experiencia. «Tiene que ser alguien que atraiga no solo a los demócratas, sino también a independientes y a algunos republicanos», dice Beshear, que no descarta presentarse.
 
 La pugna entre moderados y progresistas ya tuvo su primer examen en las urnas. El camino a la victoria lo pavimentaron sobre todo los moderados, según *The New York Times*. Hablaron del coste de la vida y prometieron bajar los precios y mejorar la sanidad. Se presentaron «no como héroes de la izquierda, sino como populistas pragmáticos», es decir, con medidas posibles y no grandes transformaciones.
 
-Lo confirma Elaine Luria, que ha recuperado su escaño en Virginia. «Está claro que son los moderados de estos distritos disputados quienes han volteado la Cámara», dice. El analista David Wasserman, de *The Cook Political Report*, advierte además de que los demócratas no crecerán en sitios como Texas con un candidato «progresista cultural», según *El País*. Y el estratega David Axelrod avisa de que el reto ahora es dar alivio económico y no solo pedir cuentas a Trump, según el *Times*.
+Lo confirma Elaine Luria, que ha recuperado su escaño en Virginia. «Está claro que son los moderados de estos distritos disputados quienes han volteado la Cámara», dice. Los progresistas también ganaron. Abdul El-Sayed será el primer senador musulmán, un impulso para el ala progresista, según el *Journal*. El analista David Wasserman, de *The Cook Political Report*, advierte de que los demócratas no crecerán en sitios como Texas con un candidato «progresista cultural», según *El País*. Y el estratega David Axelrod avisa de que el reto ahora es dar alivio económico y no solo pedir cuentas a Trump, según el *Times*.
 
 ## Vance y los demás republicanos
 
