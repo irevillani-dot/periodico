@@ -1,6 +1,6 @@
 # Arrancan las quinielas para suceder a Trump, con un campo demócrata abarrotado y los republicanos sin heredero
 
-**Los demócratas llegan fortalecidos y con Ossoff a la cabeza de las apuestas. Los republicanos, tras perder, tienen un vicepresidente que duda y ningún heredero claro**
+**Los demócratas llegan fortalecidos y con Ossoff como el nombre que más suena. Los republicanos, tras perder, tienen un vicepresidente que duda y ningún heredero claro**
 
 Los demócratas ganaron las dos cámaras el 3 de noviembre en una noche histórica, según *The Wall Street Journal*. Fue un «voto de castigo al Gobierno», según *El País*, marcado por la guerra en Irán y el coste de la vida. Arrebataron siete escaños en el Senado y recuperaron gobernaciones en feudos republicanos como Texas y Georgia, donde fue reelegido el senador Jon Ossoff.
 
