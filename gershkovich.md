@@ -4,7 +4,7 @@
 
 Durante años, el Kremlin persiguió a los periodistas rusos y dejó trabajar a los extranjeros. La detención de Evan Gershkovich, en marzo de 2023, acabó con esa regla. «Realmente cruzaron esa línea, llegaron al extremo de detener a un corresponsal extranjero», explica el reportero de *The Wall Street Journal* en una entrevista con *The New York Times*.
 
-Gershkovich pasó 16 meses preso, acusado de espionaje, y salió en un canje en agosto de 2024. El pasado jueves presentó en Barcelona *Esta tierra hermosa y maldita*, el libro en el que cuenta su cautiverio. Informar desde Rusia es hoy mucho más difícil, dijo allí, porque el país «se está convirtiendo cada vez más en una caja negra».
+Gershkovich pasó 16 meses preso, acusado de espionaje, y salió en un canje en agosto de 2024. El pasado jueves presentó en Barcelona *Esta tierra hermosa y maldita*, el libro en el que cuenta su cautiverio. Informar desde Rusia es hoy mucho más difícil, dijo allí, porque el país «se está convirtiendo cada vez más en una caja negra». Desde fuera se ven sus decisiones, pero no cómo se toman.
 
 ## Gershkovich y las viejas reglas del juego
 
