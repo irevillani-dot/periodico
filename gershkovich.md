@@ -22,9 +22,11 @@ El motivo de su arresto lo entendió en la segunda noche de cárcel, al encender
 
 ## Una Rusia casi sin prensa extranjera
 
-Su caso no ha sido el último. En octubre, el FSB detuvo por espionaje a Yuki Imai, corresponsal de un diario japonés en la isla de Sajalín. Ya son dos los corresponsales detenidos, recordó Gershkovich. A ese riesgo se suma el visado. Xavier Colás, corresponsal de *El Mundo*, tuvo que dejar el país en 2024, tras doce años, cuando las autoridades se negaron a renovárselo.
+Su caso no ha sido el último. En octubre, el FSB detuvo en la isla de Sajalín a Yuki Imai, corresponsal del diario japonés *Hokkaido Shimbun*, la víspera de su salida del país. Los servicios rusos lo acusan de reunir datos sobre los vecinos de las islas Kuriles enviados a la guerra de Ucrania. Imai, de 34 años como Gershkovich, se enfrenta a una pena de hasta 20 años de cárcel.
 
-Algunos reporteros extranjeros siguen entrando en Rusia, pero la gente tiene cada vez más miedo de hablar con ellos. «Me preocupa que no puedan hacer mucho para protegerse si deciden detenerlos», admitió. Él mismo ha dejado de cubrir el país. Cualquier ruso que atienda su llamada, explicó, se arriesga a que un agente local lo vea hablando con «un espía estadounidense condenado».
+«Es imposible verificar públicamente las afirmaciones del FSB», advierte *Verstka*, un medio independiente ruso en el exilio. La portavoz del Ministerio de Exteriores, María Zajárova, denunció «la utilización del periodismo como tapadera», recoge el diario económico *Kommersant*. Gershkovich considera inventados los cargos y recordó en Barcelona que ya son dos los corresponsales detenidos.
+
+Al riesgo de la cárcel se añade el del visado. Xavier Colás, corresponsal de *El Mundo*, tuvo que dejar el país en 2024, tras doce años, cuando las autoridades se negaron a renovárselo. Algunos reporteros extranjeros siguen entrando en Rusia, pero la gente tiene cada vez más miedo de hablar con ellos. «Me preocupa que no puedan hacer mucho para protegerse si deciden detenerlos», admitió. Él mismo ha dejado de cubrir el país. Cualquier ruso que atienda su llamada, explicó, se arriesga a que un agente local lo vea hablando con «un espía estadounidense condenado».
 
 Esa distancia, a su juicio, también deforma lo que se publica. Este verano, muchos medios anunciaron un derrumbe inminente del régimen, pero los periodistas no pueden saber qué ocurre en el entorno de Vladímir Putin, advirtió. «Serviríamos mejor a nuestros lectores si no intentáramos predecir el futuro y analizáramos lo que ocurre día a día», añadió.
 
