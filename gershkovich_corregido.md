@@ -10,7 +10,9 @@ Al diario neoyorquino le explicó qué espera de sus lectores. «Espero que la g
 
 ## Gershkovich y las viejas reglas del juego
 
-Hijo de emigrantes soviéticos, Gershkovich llegó a Moscú en 2017. «No era exactamente libertad, pero había ciertas reglas del juego», recuerda en una conversación con el periodista ruso Yuri Dud. La recoge *Nóvaya Gazeta Europa*, fundada en el exilio por antiguos redactores del diario *Nóvaya Gazeta*. Las autoridades declaraban «agentes extranjeros» a los reporteros rusos. A los corresponsales, en cambio, los trataban casi como a diplomáticos, añade el reportero.
+Gershkovich nació y creció en Estados Unidos, en una familia de emigrantes soviéticos que hablaba ruso en casa. Llegó a Moscú en 2017 para trabajar como periodista. Pasó por *The Moscow Times* y por la agencia France Presse y, poco antes de la invasión de Ucrania, se incorporó a *The Wall Street Journal*.
+
+«No era exactamente libertad, pero había ciertas reglas del juego», recuerda sobre aquellos años en una conversación con el periodista ruso Yuri Dud. La recoge *Nóvaya Gazeta Europa*, fundada en el exilio por antiguos redactores del diario *Nóvaya Gazeta*. Las autoridades declaraban «agentes extranjeros» a los reporteros rusos. A los corresponsales, en cambio, los trataban casi como a diplomáticos, añade el reportero.
 
 Esas reglas cambiaron con la invasión de Ucrania. En marzo de 2022, Rusia aprobó una ley que castiga con hasta 15 años de cárcel la «información falsa» sobre el Ejército. «Creemos que los Estados autoritarios no tienen ley, pero lo que hacen es usar la ley en su beneficio», explicó Gershkovich en Barcelona.
 
