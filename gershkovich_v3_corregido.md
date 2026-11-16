@@ -24,7 +24,7 @@ El reportero cuenta que entendió el motivo de su arresto la segunda noche de c�
 
 ## Una Rusia casi sin prensa extranjera
 
-RSF sitúa este año a Rusia en el puesto 172 de 180 de su clasificación. La organización contaba en abril 48 periodistas encarcelados por Rusia. Ningún periodista, «ni siquiera en el exilio», está a salvo de cargos graves basados en leyes «draconianas», sostiene.
+RSF sitúa este año a Rusia en el puesto 172 de 180 de su clasificación. La organización cuenta 36 periodistas encarcelados en el país. Ningún periodista, «ni siquiera en el exilio», está a salvo de cargos graves basados en leyes «draconianas», sostiene.
 
 El último golpe llegó este mes, cuando *Nóvaya Gazeta* cerró su redacción de Moscú tras 33 años y seis periodistas asesinados. «Nos han matado», había anunciado la redacción. Desde la invasión, casi todos los medios independientes rusos han sido prohibidos, bloqueados o declarados «agentes extranjeros», recuerda RSF.
 
