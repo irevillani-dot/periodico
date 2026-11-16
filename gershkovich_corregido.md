@@ -18,7 +18,7 @@ Esa vigilancia coincidió con el deterioro general de la libertad de prensa. Rus
 
 ## La trampa del FSB en Ekaterimburgo
 
-En marzo de 2023, Gershkovich viajó a Ekaterimburgo, la ciudad de los Urales donde los bolcheviques ejecutaron a los Románov, para un reportaje sobre la industria militar. Un sindicalista local lo citó en un restaurante para entregarle unos documentos. Agentes del FSB lo detuvieron allí mismo y dejaron marchar al sindicalista. Gershkovich sostiene que no buscaba secretos de Estado y que su fuente formaba parte de una trampa.
+En marzo de 2023, Gershkovich viajó a Ekaterimburgo, la ciudad de los Urales donde los bolcheviques ejecutaron a los Románov, para un reportaje sobre la industria militar. Un sindicalista lo citó en un restaurante para entregarle unos documentos. Agentes del FSB lo detuvieron y lo trasladaron a Lefortovo, la cárcel moscovita de los disidentes. Gershkovich sostiene que no buscaba secretos de Estado y que su fuente formaba parte de una trampa.
 
 El reportero entendió el motivo de su arresto la segunda noche de cárcel, al encender el televisor de la celda. «Por cínico que suene, hemos repuesto nuestro fondo de canje», decía un presentador del principal informativo. Moscú quería recuperar a un sicario preso en Alemania. Un tribunal condenó a Gershkovich a 16 años de cárcel dos semanas antes del canje.
 
