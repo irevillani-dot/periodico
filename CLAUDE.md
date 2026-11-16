@@ -108,6 +108,7 @@ El revisor de estilo y el redactor jefe repasan esta lista en cada pieza. Cuando
 - **Ladillos de eslogan.** «Más rápido, más sucio» no gustó: el ladillo dice de qué va el bloque, con el actor o el objeto concreto («Motores de avión para la IA»), no un juego de palabras.
 - **Ladillo que no corresponde al párrafo que tiene debajo.** Tras mover párrafos, cada ladillo se comprueba contra el bloque que encabeza.
 - **Discutir el titular porque ninguna fuente lo dice literalmente.** «Rusia encarceló a un corresponsal. Los demás entendieron el mensaje»: el segundo tiempo es la tesis de la pieza (la libertad de prensa en Rusia a partir del libro) y la sostienen los hechos del cuerpo (otro corresponsal preso, visados retirados). Un titular con tesis propia vale si el cuerpo la prueba. No se propone cambiarlo por eso.
+- **Entrada que da cosas por sabidas o generaliza por cuenta propia.** «Durante años, el Kremlin persiguió a los periodistas rusos y dejó trabajar a los extranjeros» es una aproximación arriesgada y sin fuente (hubo expulsiones antes). La entrada pasa a abrir con la cita que contiene la tesis, seguida de quién habla y del hecho comprobable («Ningún periodista estadounidense había sido detenido allí por espionaje desde la caída de la Unión Soviética»).
 - **Dos casos parecidos mezclados.** El dopaje de Estado ruso y la corrupción de la federación van en bloques distintos, cada uno con su fuente.
 
 ## Criterios de la casa
