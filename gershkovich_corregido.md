@@ -6,6 +6,8 @@
 
 Gershkovich pasó 16 meses preso, acusado de espionaje, y salió en un canje en agosto de 2024. El pasado jueves presentó en Barcelona *Esta tierra hermosa y maldita*, el libro sobre su cautiverio. Informar desde Rusia es hoy mucho más difícil, dijo allí, porque el país «se está convirtiendo cada vez más en una caja negra». Es decir, desde fuera se ven sus decisiones, pero no cómo se toman.
 
+Al diario neoyorquino le explicó qué espera de sus lectores. «Espero que la gente se quede no solo con algo sobre la resiliencia del espíritu humano (…), sino también cómo la gente está viviendo una vez más bajo este régimen autocrático en Rusia».
+
 ## Gershkovich y las viejas reglas del juego
 
 Hijo de emigrantes soviéticos, Gershkovich llegó a Moscú en 2017. «No era exactamente libertad, pero había ciertas reglas del juego», recuerda en una conversación con el periodista ruso Yuri Dud. La recoge *Nóvaya Gazeta Europa*, fundada en el exilio por antiguos redactores del diario *Nóvaya Gazeta*. Las autoridades declaraban «agentes extranjeros» a los reporteros rusos. A los corresponsales, en cambio, los trataban casi como a diplomáticos, añade el reportero.
