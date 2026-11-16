@@ -4,9 +4,9 @@
 
 «Realmente cruzaron esa línea, llegaron al extremo de detener a un corresponsal extranjero». Evan Gershkovich, reportero de *The Wall Street Journal*, resume así en *The New York Times* lo que supuso su arresto en Rusia, en 2023. Ningún periodista estadounidense había sido detenido allí por espionaje desde la caída de la Unión Soviética.
 
-Gershkovich pasó 16 meses preso, acusado de espionaje, y salió en un canje en agosto de 2024. El pasado jueves presentó en Barcelona *Esta tierra hermosa y maldita*, el libro sobre su cautiverio. Informar desde Rusia es hoy mucho más difícil, dijo allí, porque el país «se está convirtiendo cada vez más en una caja negra». Es decir, desde fuera se ven sus decisiones, pero no cómo se toman.
+Gershkovich pasó 16 meses preso, acusado de espionaje, y salió en un canje en agosto de 2024. Su caso no ha sido el último. Otro corresponsal extranjero está hoy preso en Rusia y *Nóvaya Gazeta*, el diario independiente más antiguo del país, acaba de cerrar.
 
-Al diario neoyorquino le explicó qué espera de sus lectores. «Espero que la gente se quede no solo con algo sobre la resiliencia del espíritu humano (…), sino también cómo la gente está viviendo una vez más bajo este régimen autocrático en Rusia».
+Gershkovich presentó el pasado jueves en Barcelona *Esta tierra hermosa y maldita*, el libro sobre su cautiverio. Informar desde Rusia es hoy mucho más difícil, dijo allí, porque el país «se está convirtiendo cada vez más en una caja negra». Es decir, desde fuera se ven sus decisiones, pero no cómo se toman.
 
 ## Gershkovich y las viejas reglas del juego
 
@@ -18,8 +18,6 @@ Esas reglas cambiaron con la invasión de Ucrania. En marzo de 2022, Rusia aprob
 
 Tras la invasión, Gershkovich se instaló en Londres, pero siguió viajando a Rusia. El Servicio Federal de Seguridad (FSB) empezó entonces a vigilarlo. En otoño de 2022, sus agentes lo siguieron abiertamente durante un viaje a Bélgorod. El portavoz del Kremlin llegó a decirle que todo lo que publicaba su periódico era «secreto de Estado», cuenta el reportero a Dud.
 
-Esa vigilancia coincidió con el deterioro general de la libertad de prensa. Rusia ocupaba en 2019 el puesto 149 de 180 en la clasificación mundial de Reporteros Sin Fronteras. Este año ha caído al 172, el peor de su historia.
-
 ## La trampa del FSB en Ekaterimburgo
 
 En marzo de 2023, Gershkovich viajó a Ekaterimburgo, la ciudad de los Urales donde los bolcheviques ejecutaron a los Románov, para un reportaje sobre la industria militar. Un sindicalista lo citó en un restaurante para entregarle unos documentos. Agentes del FSB lo detuvieron y lo trasladaron a Lefortovo, la cárcel moscovita de los disidentes. Gershkovich sostiene que no buscaba secretos de Estado y que su fuente formaba parte de una trampa.
@@ -30,12 +28,18 @@ Gershkovich admite que no lo trataron como a otros presos. En sus entrevistas re
 
 ## Una Rusia casi sin prensa extranjera
 
-Reporteros Sin Fronteras contaba en abril 48 periodistas encarcelados por Rusia. El último golpe llegó tres días antes del acto de Barcelona. El diario *Nóvaya Gazeta*, el independiente más antiguo del país, cerró su redacción de Moscú tras 33 años y seis periodistas asesinados. «Nos han matado», anunció la redacción. El Kremlin describió el cierre como un proceso de rotación habitual. Gershkovich recordó que el periódico había intentado sobrevivir dentro de Rusia a base de autocensura.
+Gershkovich explicó a *The New York Times* qué espera de sus lectores. «Espero que la gente se quede no solo con algo sobre la resiliencia del espíritu humano (…), sino también cómo la gente está viviendo una vez más bajo este régimen autocrático en Rusia».
 
-Entre los extranjeros, el caso de Gershkovich no ha sido el último. En octubre, el FSB detuvo en la isla de Sajalín a Yuki Imai, corresponsal del diario japonés *Hokkaido Shimbun*. Los servicios rusos lo acusan de reunir datos sobre los vecinos de las islas Kuriles movilizados o voluntarios en la guerra de Ucrania. El periodista se enfrenta a una pena de hasta 20 años de cárcel. «Es imposible verificar públicamente las afirmaciones del FSB», advierte *Verstka*, un medio independiente ruso en el exilio.
+Reporteros Sin Fronteras sitúa este año a Rusia en el puesto 172 de 180 de su clasificación mundial de la libertad de prensa, el peor de su historia. En 2019 ocupaba el 149. La organización contaba en abril 48 periodistas encarcelados por Rusia. Ningún periodista, «ni siquiera en el exilio», está a salvo de cargos graves basados en leyes «draconianas», sostiene.
 
-Otros han perdido el visado. Xavier Colás, de *El Mundo*, tuvo que dejar el país en 2024, tras 12 años. Un funcionario le comunicó por teléfono que no se le renovaba el permiso y le dio 24 horas para salir. Reporteros Sin Fronteras sostiene que en Rusia ningún periodista, «ni siquiera en el exilio», está a salvo de cargos graves basados en leyes «draconianas».
+El último golpe llegó tres días antes del acto de Barcelona. El diario *Nóvaya Gazeta* cerró su redacción de Moscú tras 33 años y seis periodistas asesinados. «Nos han matado», anunció la redacción. El Kremlin describió el cierre como un proceso de rotación habitual. Gershkovich recordó que el periódico había intentado sobrevivir dentro de Rusia a base de autocensura.
+
+El corresponsal extranjero preso es Yuki Imai, del diario japonés *Hokkaido Shimbun*. El FSB lo detuvo en octubre en la isla de Sajalín. Los servicios rusos lo acusan de reunir datos sobre los vecinos de las islas Kuriles movilizados o voluntarios en la guerra de Ucrania. El periodista se enfrenta a una pena de hasta 20 años de cárcel. «Es imposible verificar públicamente las afirmaciones del FSB», advierte *Verstka*, un medio independiente ruso en el exilio.
+
+Otros han perdido el visado. Xavier Colás, de *El Mundo*, tuvo que dejar el país en 2024, tras 12 años. Un funcionario le comunicó por teléfono que no se le renovaba el permiso y le dio 24 horas para salir.
 
 Gershkovich explicó en Barcelona qué falla, a su juicio, en la cobertura desde fuera. Con cada vez menos gente dispuesta a hablar, muchos medios intentan adivinar. Este verano anunciaron un derrumbe inminente del régimen, aunque ningún periodista sabe qué ocurre en el entorno del presidente, Vladímir Putin. «Serviríamos mejor a nuestros lectores si no intentáramos predecir el futuro y analizáramos lo que ocurre día a día», añadió.
 
-*The Kyiv Independent*, diario ucraniano, reprocha a su libro que busque el «sentimentalismo». Gershkovich respondió que un reportero debe reconocer sus prejuicios e «informar contra ellos». Prefiere, en cambio, no opinar sobre los colegas que siguen en Rusia. «Me preocupa que no puedan hacer mucho para protegerse si deciden detenerlos», admitió. Él ha dejado de escribir sobre el país. Cualquier ruso que atienda su llamada lejos de Moscú, explicó, se arriesga a que un agente local lo vea hablando con «un espía estadounidense condenado». «En una carrera está bien cerrar un capítulo y pasar a un tema nuevo», dijo.
+Su manera de mirar a Rusia también ha recibido críticas. *The Kyiv Independent*, diario ucraniano, reprocha a su libro que busque el «sentimentalismo». Gershkovich respondió que un reportero debe reconocer sus prejuicios e «informar contra ellos».
+
+El reportero prefiere no opinar, en cambio, sobre los colegas que siguen en Rusia. «Me preocupa que no puedan hacer mucho para protegerse si deciden detenerlos», admitió. Él ha dejado de escribir sobre el país. Cualquier ruso que atienda su llamada lejos de Moscú, explicó, se arriesga a que un agente local lo vea hablando con «un espía estadounidense condenado». «En una carrera está bien cerrar un capítulo y pasar a un tema nuevo», dijo.
