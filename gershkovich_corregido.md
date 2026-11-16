@@ -20,13 +20,13 @@ Esa vigilancia coincidió con el deterioro general de la libertad de prensa. Rus
 
 En marzo de 2023, Gershkovich viajó a Ekaterimburgo, la ciudad de los Urales donde los bolcheviques ejecutaron a los Románov, para un reportaje sobre la industria militar. Un sindicalista lo citó en un restaurante para entregarle unos documentos. Agentes del FSB lo detuvieron y lo trasladaron a Lefortovo, la cárcel moscovita de los disidentes. Gershkovich sostiene que no buscaba secretos de Estado y que su fuente formaba parte de una trampa.
 
-El reportero entendió el motivo de su arresto la segunda noche de cárcel, al encender el televisor de la celda. «Por cínico que suene, hemos repuesto nuestro fondo de canje», decía un presentador del principal informativo. Moscú quería recuperar a un sicario preso en Alemania.
+El reportero entendió el motivo de su arresto la segunda noche de cárcel, al encender el televisor de la celda. «Por cínico que suene, hemos repuesto nuestro fondo de canje», decía un presentador del principal informativo. Moscú quería recuperar a un sicario preso en Alemania. Un tribunal condenó a Gershkovich a 16 años de cárcel dos semanas antes del canje.
 
 Gershkovich admite que no lo trataron como a otros presos. En sus entrevistas recuerda a Viktoria Roshchina, la periodista ucraniana muerta bajo custodia rusa. A él lo cuidaban porque era un peón en una negociación. Un día le dijo en broma al director de la prisión que el paquete debía llegar intacto. «Yo no te he dicho esto, pero sí», respondió el funcionario.
 
 ## Una Rusia casi sin prensa extranjera
 
-Reporteros Sin Fronteras contaba en abril 48 periodistas encarcelados por Rusia. El último golpe llegó tres días antes del acto de Barcelona. El diario *Nóvaya Gazeta*, el independiente más antiguo del país, cerró su redacción de Moscú tras 33 años y seis periodistas asesinados. «Nos han matado», anunció la redacción. El Kremlin describió el cierre como un proceso de rotación habitual.
+Reporteros Sin Fronteras contaba en abril 48 periodistas encarcelados por Rusia. El último golpe llegó tres días antes del acto de Barcelona. El diario *Nóvaya Gazeta*, el independiente más antiguo del país, cerró su redacción de Moscú tras 33 años y seis periodistas asesinados. «Nos han matado», anunció la redacción. El Kremlin describió el cierre como un proceso de rotación habitual. Gershkovich recordó que el periódico había intentado sobrevivir dentro de Rusia a base de autocensura.
 
 Entre los extranjeros, el caso de Gershkovich no ha sido el último. En octubre, el FSB detuvo en la isla de Sajalín a Yuki Imai, corresponsal del diario japonés *Hokkaido Shimbun*. Los servicios rusos lo acusan de reunir datos sobre los vecinos de las islas Kuriles movilizados o voluntarios en la guerra de Ucrania. El periodista se enfrenta a una pena de hasta 20 años de cárcel. «Es imposible verificar públicamente las afirmaciones del FSB», advierte *Verstka*, un medio independiente ruso en el exilio.
 
