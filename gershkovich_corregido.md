@@ -20,15 +20,17 @@ El arresto llegó en Ekaterimburgo. Gershkovich preparaba allí un reportaje sob
 
 El reportero entendió el motivo de su arresto la segunda noche de cárcel, al encender el televisor de la celda. «Por cínico que suene, hemos repuesto nuestro fondo de canje», decía un presentador del principal informativo. Moscú quería recuperar a un sicario preso en Alemania. Un tribunal condenó a Gershkovich a 16 años de cárcel dos semanas antes del canje.
 
+Gershkovich admite que no lo trataron como a otros presos. En sus entrevistas recuerda a Viktoria Roshchina, la periodista ucraniana muerta bajo custodia rusa. A él lo cuidaban porque era un peón en una negociación. Un día le dijo en broma al director de la prisión que el paquete debía llegar intacto. «Yo no te he dicho esto, pero sí», respondió el funcionario. *The Kyiv Independent*, diario ucraniano en inglés, reprocha aun así al libro que busque el «sentimentalismo». Gershkovich respondió en Barcelona que un reportero debe reconocer sus prejuicios e «informar contra ellos».
+
 ## Una Rusia casi sin prensa extranjera
 
 Rusia ocupa este año el puesto 172 de 180, el peor de su historia, en la clasificación mundial de la libertad de prensa de Reporteros Sin Fronteras. La organización contaba en abril 48 periodistas encarcelados por Rusia, 26 de ellos ucranianos.
 
-El último golpe llegó el 9 de noviembre, tres días antes del acto de Barcelona. El diario *Nóvaya Gazeta*, el independiente más antiguo del país, cerró su redacción de Moscú tras 33 años y seis periodistas asesinados. «Nos han matado», anunció la redacción. El Kremlin describió el cierre como un proceso de rotación habitual. Gershkovich recordó que el periódico había intentado sobrevivir dentro de Rusia a base de autocensura.
+El último golpe llegó tres días antes del acto de Barcelona. El diario *Nóvaya Gazeta*, el independiente más antiguo del país, cerró su redacción de Moscú tras 33 años y seis periodistas asesinados. «Nos han matado», anunció la redacción. El Kremlin describió el cierre como un proceso de rotación habitual. Gershkovich recordó que el periódico había intentado sobrevivir dentro de Rusia a base de autocensura.
 
 Entre los extranjeros, el caso de Gershkovich no ha sido el último. En octubre, el FSB detuvo en la isla de Sajalín a Yuki Imai, corresponsal del diario japonés *Hokkaido Shimbun*, la víspera de su salida del país. Los servicios rusos lo acusan de reunir datos sobre los vecinos de las islas Kuriles movilizados o voluntarios en la guerra de Ucrania. El periodista se enfrenta a una pena de hasta 20 años de cárcel. «Es imposible verificar públicamente las afirmaciones del FSB», advierte *Verstka*, un medio independiente ruso en el exilio.
 
-Otros corresponsales han perdido el visado o la acreditación. Xavier Colás, de *El Mundo*, tuvo que dejar el país en 2024, tras 12 años, cuando las autoridades se negaron a renovarle el visado. Al año siguiente, Moscú retiró la acreditación al corresponsal de *Le Monde*. El diario francés, que no se quedaba sin corresponsal en la capital rusa desde 1957, calificó la medida de «expulsión encubierta».
+Otros corresponsales han perdido el visado. Xavier Colás, de *El Mundo*, tuvo que dejar el país en 2024, tras 12 años, cuando las autoridades se negaron a renovarle el visado.
 
 Gershkovich contó en Barcelona que los reporteros que aún entran en Rusia encuentran cada vez menos gente dispuesta a hablar. Este verano, recordó, muchos medios anunciaron un derrumbe inminente del régimen, pero ningún periodista puede saber qué ocurre en el entorno del presidente ruso, Vladímir Putin. «Serviríamos mejor a nuestros lectores si no intentáramos predecir el futuro y analizáramos lo que ocurre día a día», añadió.
 
