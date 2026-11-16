@@ -32,6 +32,6 @@ Entre los extranjeros, el caso de Gershkovich no ha sido el último. En octubre,
 
 Otros corresponsales han perdido el visado. Xavier Colás, de *El Mundo*, tuvo que dejar el país en 2024, tras 12 años, cuando Moscú no le renovó el visado.
 
-Gershkovich contó en Barcelona que los reporteros que aún entran en Rusia encuentran cada vez menos gente dispuesta a hablar. Este verano, recordó, muchos medios anunciaron un derrumbe inminente del régimen, pero ningún periodista puede saber qué ocurre en el entorno del presidente ruso, Vladímir Putin. «Serviríamos mejor a nuestros lectores si no intentáramos predecir el futuro y analizáramos lo que ocurre día a día», añadió.
+Gershkovich contó en Barcelona que los reporteros que aún entran en Rusia encuentran cada vez menos gente dispuesta a hablar. Este verano, recordó, muchos medios anunciaron un derrumbe inminente del régimen, pero ningún periodista puede saber qué ocurre en el entorno del presidente, Vladímir Putin. «Serviríamos mejor a nuestros lectores si no intentáramos predecir el futuro y analizáramos lo que ocurre día a día», añadió.
 
 El reportero prefiere no opinar sobre los colegas que siguen allí. «Me preocupa que no puedan hacer mucho para protegerse si deciden detenerlos», admitió. Él ha dejado de escribir sobre Rusia. Cualquier ruso que atienda su llamada lejos de Moscú, explicó, se arriesga a que un agente local lo vea hablando con «un espía estadounidense condenado». «En una carrera está bien cerrar un capítulo y pasar a un tema nuevo», dijo.
