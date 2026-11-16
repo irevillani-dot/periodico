@@ -20,7 +20,7 @@ Esa vigilancia coincidió con el deterioro general de la libertad de prensa. Rus
 
 En marzo de 2023, Gershkovich viajó a Ekaterimburgo, la ciudad de los Urales donde los bolcheviques ejecutaron a los Románov, para un reportaje sobre la industria militar. Un sindicalista lo citó en un restaurante para entregarle unos documentos. Agentes del FSB lo detuvieron y lo trasladaron a Lefortovo, la cárcel moscovita de los disidentes. Gershkovich sostiene que no buscaba secretos de Estado y que su fuente formaba parte de una trampa.
 
-El reportero entendió el motivo de su arresto la segunda noche de cárcel, al encender el televisor de la celda. «Por cínico que suene, hemos repuesto nuestro fondo de canje», decía un presentador del principal informativo. Moscú quería recuperar a un sicario preso en Alemania. Un tribunal condenó a Gershkovich a 16 años de cárcel dos semanas antes del canje.
+El reportero entendió el motivo de su arresto la segunda noche de cárcel, al encender el televisor de la celda. «Por cínico que suene, hemos repuesto nuestro fondo de canje», decía un presentador del principal informativo. Moscú quería recuperar a un sicario preso en Alemania.
 
 Gershkovich admite que no lo trataron como a otros presos. En sus entrevistas recuerda a Viktoria Roshchina, la periodista ucraniana muerta bajo custodia rusa. A él lo cuidaban porque era un peón en una negociación. Un día le dijo en broma al director de la prisión que el paquete debía llegar intacto. «Yo no te he dicho esto, pero sí», respondió el funcionario.
 

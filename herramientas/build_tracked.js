@@ -72,7 +72,8 @@ const children = blocks.map(([kind, s]) => {
 const norm = (s) => s.split("\n").map((l) => l.trim()).filter(Boolean)
   .map((l) => l.replace(/^#+\s*/, "").replace(/^\*\*(.*)\*\*$/, "$1")).join("\n");
 const original = norm(fs.readFileSync(originalPath, "utf8"));
-const rejected = blocks.map(([, s]) => flatten(s, "reject")).join("\n");
+// Un párrafo añadido entero queda vacío al rechazar: se omite en la comparación.
+const rejected = blocks.map(([, s]) => flatten(s, "reject")).filter((l) => l.trim()).join("\n");
 if (rejected !== original) {
   const a = rejected.split("\n"), b = original.split("\n");
   a.forEach((l, i) => { if (l !== b[i]) console.error(`DIFERENCIA en bloque ${i}:\n  marcado: ${l}\n  original: ${b[i]}`); });
