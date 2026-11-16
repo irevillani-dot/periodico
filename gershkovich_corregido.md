@@ -2,13 +2,13 @@
 
 **Evan Gershkovich presenta en Barcelona el libro sobre sus 16 meses de cárcel y describe un país que la prensa extranjera apenas puede ya contar desde dentro**
 
-Durante años, el Kremlin persiguió a los periodistas rusos y dejó trabajar a los extranjeros. La detención de Evan Gershkovich, en marzo de 2023, acabó con esa regla. «Realmente cruzaron esa línea, llegaron al extremo de detener a un corresponsal extranjero», explica el reportero de *The Wall Street Journal* en una entrevista con *The New York Times*.
+Durante años, el Kremlin persiguió a los periodistas rusos y dejó trabajar a los extranjeros. La detención de Evan Gershkovich, en 2023, acabó con esa regla. «Realmente cruzaron esa línea, llegaron al extremo de detener a un corresponsal extranjero», explica el reportero de *The Wall Street Journal* en una entrevista con *The New York Times*.
 
-Gershkovich pasó 16 meses preso, acusado de espionaje, y salió en un canje en agosto de 2024. El pasado jueves presentó en Barcelona *Esta tierra hermosa y maldita*, el libro en el que cuenta su cautiverio. Informar desde Rusia es hoy mucho más difícil, dijo allí, porque el país «se está convirtiendo cada vez más en una caja negra». Es decir, desde fuera se ven sus decisiones, pero no cómo se toman.
+Gershkovich pasó 16 meses preso, acusado de espionaje, y salió en un canje en agosto de 2024. El pasado jueves presentó en Barcelona *Esta tierra hermosa y maldita*, el libro sobre su cautiverio. Informar desde Rusia es hoy mucho más difícil, dijo allí, porque el país «se está convirtiendo cada vez más en una caja negra». Es decir, desde fuera se ven sus decisiones, pero no cómo se toman.
 
 ## Gershkovich y las viejas reglas del juego
 
-Hijo de emigrantes soviéticos, Gershkovich llegó a Moscú en 2017. «No era exactamente libertad, pero había ciertas reglas del juego», recuerda en una conversación con el periodista ruso Yuri Dud. La recoge *Nóvaya Gazeta Europa*, el medio que fundaron en el exilio antiguos redactores del diario ruso *Nóvaya Gazeta*. Las autoridades presionaban a los reporteros rusos y los declaraban «agentes extranjeros». A los corresponsales, en cambio, los trataban casi como a diplomáticos, añade el reportero.
+Hijo de emigrantes soviéticos, Gershkovich llegó a Moscú en 2017. «No era exactamente libertad, pero había ciertas reglas del juego», recuerda en una conversación con el periodista ruso Yuri Dud. La recoge *Nóvaya Gazeta Europa*, fundada en el exilio por antiguos redactores del diario *Nóvaya Gazeta*. Las autoridades declaraban «agentes extranjeros» a los reporteros rusos. A los corresponsales, en cambio, los trataban casi como a diplomáticos, añade el reportero.
 
 Esas reglas cambiaron con la invasión de Ucrania. En marzo de 2022, Rusia aprobó una ley que castiga con hasta 15 años de cárcel la «información falsa» sobre el Ejército. «Creemos que los Estados autoritarios no tienen ley, pero lo que hacen es usar la ley en su beneficio», explicó Gershkovich en Barcelona.
 
@@ -18,11 +18,11 @@ Esa vigilancia coincidió con el deterioro general de la libertad de prensa. Rus
 
 ## La trampa del FSB en Ekaterimburgo
 
-El arresto llegó en Ekaterimburgo. Gershkovich preparaba allí un reportaje sobre la industria militar rusa. Agentes con pasamontañas lo detuvieron en un restaurante mientras revisaba unos documentos que le había llevado una fuente. El periodista sostiene que no buscaba secretos de Estado y que el FSB preparó la cita para tenderle una trampa.
+En marzo de 2023, Gershkovich viajó a Ekaterimburgo, la ciudad de los Urales donde los bolcheviques ejecutaron a los Románov, para un reportaje sobre la industria militar. Un sindicalista local lo citó en un restaurante para entregarle unos documentos. Mientras el reportero los revisaba, agentes con pasamontañas lo tiraron al suelo y se lo llevaron. Gershkovich sostiene que no buscaba secretos de Estado y que el FSB le tendió una trampa.
 
 El reportero entendió el motivo de su arresto la segunda noche de cárcel, al encender el televisor de la celda. «Por cínico que suene, hemos repuesto nuestro fondo de canje», decía un presentador del principal informativo. Moscú quería recuperar a un sicario preso en Alemania. Un tribunal condenó a Gershkovich a 16 años de cárcel dos semanas antes del canje.
 
-Gershkovich admite que no lo trataron como a otros presos. En sus entrevistas recuerda a Viktoria Roshchina, la periodista ucraniana muerta bajo custodia rusa. A él lo cuidaban porque era un peón en una negociación. Un día le dijo en broma al director de la prisión que el paquete debía llegar intacto. «Yo no te he dicho esto, pero sí», respondió el funcionario. *The Kyiv Independent*, diario ucraniano en inglés, reprocha aun así al libro que busque el «sentimentalismo». Gershkovich respondió en Barcelona que un reportero debe reconocer sus prejuicios e «informar contra ellos».
+Gershkovich admite que no lo trataron como a otros presos. En sus entrevistas recuerda a Viktoria Roshchina, la periodista ucraniana muerta bajo custodia rusa. A él lo cuidaban porque era un peón en una negociación. Un día le dijo en broma al director de la prisión que el paquete debía llegar intacto. «Yo no te he dicho esto, pero sí», respondió el funcionario. *The Kyiv Independent*, diario ucraniano, reprocha aun así al libro que busque el «sentimentalismo». Gershkovich respondió en Barcelona que un reportero debe reconocer sus prejuicios e «informar contra ellos».
 
 ## Una Rusia casi sin prensa extranjera
 
@@ -30,7 +30,7 @@ Reporteros Sin Fronteras contaba en abril 48 periodistas encarcelados por Rusia.
 
 Entre los extranjeros, el caso de Gershkovich no ha sido el último. En octubre, el FSB detuvo en la isla de Sajalín a Yuki Imai, corresponsal del diario japonés *Hokkaido Shimbun*, la víspera de su salida del país. Los servicios rusos lo acusan de reunir datos sobre los vecinos de las islas Kuriles movilizados o voluntarios en la guerra de Ucrania. El periodista se enfrenta a una pena de hasta 20 años de cárcel. «Es imposible verificar públicamente las afirmaciones del FSB», advierte *Verstka*, un medio independiente ruso en el exilio.
 
-Otros corresponsales han perdido el visado. Xavier Colás, de *El Mundo*, tuvo que dejar el país en 2024, tras 12 años, cuando las autoridades se negaron a renovarle el visado.
+Otros corresponsales han perdido el visado. Xavier Colás, de *El Mundo*, tuvo que dejar el país en 2024, tras 12 años, cuando Moscú no le renovó el visado.
 
 Gershkovich contó en Barcelona que los reporteros que aún entran en Rusia encuentran cada vez menos gente dispuesta a hablar. Este verano, recordó, muchos medios anunciaron un derrumbe inminente del régimen, pero ningún periodista puede saber qué ocurre en el entorno del presidente ruso, Vladímir Putin. «Serviríamos mejor a nuestros lectores si no intentáramos predecir el futuro y analizáramos lo que ocurre día a día», añadió.
 
