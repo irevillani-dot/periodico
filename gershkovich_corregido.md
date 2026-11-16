@@ -12,7 +12,9 @@ Hijo de emigrantes soviéticos, Gershkovich llegó a Moscú en 2017. «No era ex
 
 Esas reglas cambiaron con la invasión de Ucrania. En marzo de 2022, Rusia aprobó una ley que castiga con hasta 15 años de cárcel la «información falsa» sobre el Ejército. «Creemos que los Estados autoritarios no tienen ley, pero lo que hacen es usar la ley en su beneficio», explicó Gershkovich en Barcelona.
 
-Tras la invasión, Gershkovich se instaló en Londres, pero siguió viajando a Rusia. En otoño de 2022, agentes del Servicio Federal de Seguridad (FSB) lo siguieron abiertamente durante un viaje a Bélgorod, junto a la frontera ucraniana. El reportero pensaba que, si algo salía mal, lo deportarían. «Aunque existía una pequeña posibilidad de que nos arrestaran», admite ante Dud.
+Tras la invasión, Gershkovich se instaló en Londres, pero siguió viajando a Rusia. El Servicio Federal de Seguridad (FSB) empezó entonces a vigilarlo. En otoño de 2022, sus agentes lo siguieron abiertamente durante un viaje a Bélgorod. El portavoz del Kremlin llegó a decirle que todo lo que publicaba su periódico era «secreto de Estado», cuenta el reportero a Dud.
+
+Esa vigilancia coincidió con el deterioro general de la libertad de prensa. Rusia ocupaba en 2019 el puesto 149 de 180 en la clasificación mundial de Reporteros Sin Fronteras. Este año ha caído al 172, el peor de su historia.
 
 ## La trampa del FSB en Ekaterimburgo
 
@@ -24,9 +26,7 @@ Gershkovich admite que no lo trataron como a otros presos. En sus entrevistas re
 
 ## Una Rusia casi sin prensa extranjera
 
-Rusia ocupa este año el puesto 172 de 180, el peor de su historia, en la clasificación mundial de la libertad de prensa de Reporteros Sin Fronteras. La organización contaba en abril 48 periodistas encarcelados por Rusia, 26 de ellos ucranianos.
-
-El último golpe llegó tres días antes del acto de Barcelona. El diario *Nóvaya Gazeta*, el independiente más antiguo del país, cerró su redacción de Moscú tras 33 años y seis periodistas asesinados. «Nos han matado», anunció la redacción. El Kremlin describió el cierre como un proceso de rotación habitual. Gershkovich recordó que el periódico había intentado sobrevivir dentro de Rusia a base de autocensura.
+Reporteros Sin Fronteras contaba en abril 48 periodistas encarcelados por Rusia. El último golpe llegó tres días antes del acto de Barcelona. El diario *Nóvaya Gazeta*, el independiente más antiguo del país, cerró su redacción de Moscú tras 33 años y seis periodistas asesinados. «Nos han matado», anunció la redacción. El Kremlin describió el cierre como un proceso de rotación habitual. Gershkovich recordó que el periódico había intentado sobrevivir dentro de Rusia a base de autocensura.
 
 Entre los extranjeros, el caso de Gershkovich no ha sido el último. En octubre, el FSB detuvo en la isla de Sajalín a Yuki Imai, corresponsal del diario japonés *Hokkaido Shimbun*, la víspera de su salida del país. Los servicios rusos lo acusan de reunir datos sobre los vecinos de las islas Kuriles movilizados o voluntarios en la guerra de Ucrania. El periodista se enfrenta a una pena de hasta 20 años de cárcel. «Es imposible verificar públicamente las afirmaciones del FSB», advierte *Verstka*, un medio independiente ruso en el exilio.
 
