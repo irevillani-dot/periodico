@@ -1,5 +1,7 @@
 # Fourteen kilometres apart
 
+*I went to Gibraltar for macaques, pubs and a view of the Strait. Being an International Relations nerd, I came back thinking about Morocco, Ceuta and Western Sahara, the old colonial dispute that has reshaped Spain’s ties with Rabat and now hangs over its election.*
+
 There are places that are inherently fascinating for International Relations nerds. And there are places that a broad consensus considers overrated and not worth a visit. Gibraltar belongs to both categories. Since the urge to explore always beats trusting other people’s experiences, in October I landed in Málaga and found myself heading towards Gibraltar, to the beat of Brujería.
 
 Brujería (Spanish for witchcraft) is the word I would use to describe the magic of walking across a border from Spain into British territory and ending up in an English town: pubs, old-fashioned shop signs, the funniest mix of English and Spanish (they call it llanito), and a sheer limestone rock looming over everything. Besides the Barbary macaques lounging in the nature reserve, there is nothing to go crazy about. Gibraltar is essentially a military fortress, so you can visit installations, tunnels and forts.
