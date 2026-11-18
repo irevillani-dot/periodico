@@ -37,3 +37,13 @@ The Sahara itself is heating up. On 30 October, Washington and Moscow vetoed eac
 For Spain, the former colonial power, the timing is awkward. It backs Morocco’s plan but buys much of its gas from Algeria. And the bond with the Sahrawis has never quite broken: many in the Tindouf camps still speak Spanish, and Spanish families host thousands of Sahrawi children every summer through the Vacaciones en Paz programme.
 
 From the scenic road above Tarifa, the two shores look close enough to touch. Fourteen kilometres of sea. Half a century of history that neither Madrid nor Rabat has managed to close.
+
+## Recommendations
+
+**Listen to [Brujería](https://www.youtube.com/watch?v=wkFajhKHdSU&list=RDwkFajhKHdSU&start_radio=1).** The soundtrack of my drive to Gibraltar. Fair warning: it will not leave your head before you reach the border.
+
+**Read my piece for [Página Internacional](https://paginainternacional.com/articulo/1098/como-la-pelea-por-una-r-dejo-al-sahara-sin-cascos-azules)**, in Spanish: how a fight over a single letter, the R of referendum, left Western Sahara without UN peacekeepers after 35 years.
+
+**Go to the Tarifa Spirit Festival.** In case you need a lame excuse to visit Tarifa, here is one: a day of yoga, kirtan, ecstatic dance and other workshops that, in theory, keep your spirit high. In practice, you get to do excellent yoga in a deconsecrated church, which is about as close to enlightenment as I have come. Then the wind picks up and everyone goes back to kitesurfing.
+
+**Read [Africa Is a Country](https://africasacountry.com/).** The name is a joke at the expense of everyone who talks about Africa as if it were a single place. Founded in 2009 by the South African scholar Sean Jacobs, it is a left-leaning online magazine that challenges the way Western media cover the continent, with writers who mostly live and work there. It is also where I found the story of how Christopher Nolan filmed scenes of *The Odyssey* in Western Sahara.
