@@ -20,7 +20,7 @@ The reconciliation came at a price. In March 2022, Prime Minister Pedro Sánchez
 
 ## A neighbour too important to lose
 
-Spain’s reasons are easier to understand from Tarifa. Morocco is Spain’s main trading partner in Africa and Spain is Morocco’s largest trading partner. Rabat controls the departure points of one of the main migration routes into Europe. Cooperation on irregular migration and counter-terrorism depends on good relations. The two countries will also co-host the 2030 World Cup with Portugal.
+Spain’s reasons are easier to understand from Tarifa. Trade ties run deep in both directions. No African country trades more with Spain than Morocco, and no country in the world trades more with Morocco than Spain. Rabat controls the departure points of one of the main migration routes into Europe. Cooperation on irregular migration and counter-terrorism depends on good relations. The two countries will also co-host the 2030 World Cup with Portugal.
 
 Morocco, for its part, has turned the Sahara into the yardstick of all its foreign relations. In a 2022 speech, the king called it “the prism through which Morocco views its international environment”. Since then, France, the United Kingdom and a growing number of countries have followed Spain in backing the autonomy plan. The United States has recognised Moroccan sovereignty outright since 2020.
 
