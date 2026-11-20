@@ -83,5 +83,5 @@ No quedan comas antes de «y» entre oraciones, frases que empiecen por verbo, p
 - **27**: La primera cita es el subtítulo de la reseña. Hay que confirmar que la firma Birger.
 - **31**: Bajo este ladillo queda ahora el cierre sobre Bond. Propuesta: «Letonia y Georgia cuentan su propia guerra».
 - **35**: La frase es el titular de la entrevista con Ēķis y Vilis Daudziņš, no solo de Ēķis. La paráfrasis sobre la infiltración se recorta (−10) porque no está verificada.
-- **41**: «él mismo ayudó a popularizar» podía leerse como Pattinson. Bond popularizó el género, no su transformación.
-- **44**: Recorte propuesto (−32): pregunta propia. Para el cierre conviene una cita que vuelva a la entrada (ver propuestas).
+- **41**: Cierre reescrito. «él mismo ayudó a popularizar» podía leerse como Pattinson, y Bond popularizó el género, no su transformación. Se vuelve a la noticia de la entrada y a la crítica de Birger (el «mapa»), sin valoración propia.
+- **44**: Recorte propuesto (−32): pregunta propia; el cierre pasa al párrafo anterior.

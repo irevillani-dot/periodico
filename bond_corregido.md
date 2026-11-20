@@ -80,10 +80,10 @@ Desde Georgia, el medio independiente *OC Media* ha publicado una [crítica de *
 
 ∅
 
-A ese debate llega ahora Robert Pattinson, que será el primer Bond desde que Amazon MGM Studios controla creativamente la franquicia. Además, el regreso del agente coincide con la transformación de un género que el propio 007 popularizó.
+A ese debate llega ahora Robert Pattinson, el primer Bond desde que Amazon MGM Studios controla creativamente la franquicia. El agente 007 nació en las novelas de Ian Fleming, en plena Guerra Fría. Su nueva etapa dirá si el cine de espías ha cambiado también de mapa.
 
 ∅
 
 ∅
 
-El próximo James Bond tendrá que encontrar su lugar en ese escenario.
+∅
