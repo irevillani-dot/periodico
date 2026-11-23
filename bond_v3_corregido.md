@@ -38,16 +38,12 @@ La crítica pesa más tras la invasión rusa de Ucrania. Un mundo dividido entre
 
 ## Cuando los países pequeños cuentan sus propias historias
 
-Letonia, que vivió bajo el dominio soviético, ha estrenado este mes *Tumšā robeža* (La frontera oscura), un *thriller* de Andrejs Ēķis ambientado en 1938, cuando el país todavía era independiente.
+La respuesta a ese mapa llega de los países que Hollywood dejaba en segundo plano. Para ellos, el espionaje no es nostalgia de la Guerra Fría, sino el prólogo de la agresión rusa. «La guerra no empieza con el primer disparo», resume el director letón Andrejs Ēķis a la radiotelevisión pública letona.
 
-Su protagonista es un agente del contraespionaje letón que se hace pasar por periodista. La película sitúa en el centro a un Estado pequeño frente a las ambiciones de sus vecinos.
+Su película *Tumšā robeža* (La frontera oscura) se estrenó en noviembre. Está ambientada en 1938, cuando Letonia todavía era independiente. Su protagonista es un agente del contraespionaje que se hace pasar por periodista. En el centro no están Washington ni Moscú, sino un Estado pequeño frente a las ambiciones de sus vecinos. La crítica Antra Raugule la describe como «una película que se ama y se odia».
 
-En una entrevista con la radiotelevisión pública letona, Ēķis recuerda que «la guerra no empieza con el primer disparo».
+Estonia, desde el enemigo interior. *Reetur* (El traidor), cuya cuarta y última temporada se estrenará en enero, sigue a un estonio que traiciona a su país. Su productor explica que la serie aborda el enfrentamiento entre Rusia y Europa «no solo en términos políticos, sino también de valores y visiones del mundo».
 
-En una reseña para la misma radiotelevisión, la crítica Antra Raugule describe *Tumšā robeža* como «una película que se ama y se odia». Raugule observa que el público tolera las inexactitudes históricas de Hollywood, pero juzga con severidad las ficciones nacionales.
-
-Estonia suma otra ficción nacional con *Reetur* (El traidor), una serie de espionaje cuya cuarta y última temporada se estrenará en enero. Su productor cuenta que la serie aborda el enfrentamiento entre Rusia y Europa «no solo en términos políticos, sino también de valores y visiones del mundo».
-
-En Ucrania, el productor Oleksandr Schur desarrolla la serie *Someone Else's War*. La trama transcurre durante la invasión rusa del Donbás de 2014. Tres antiguos compañeros de academia militar acaban en bandos opuestos de una guerra secreta.
+Ucrania, desde su propia guerra. El productor Oleksandr Schur prepara *Someone Else's War*, ambientada en la invasión rusa del Donbás de 2014. En ella, tres antiguos compañeros de academia militar acaban en bandos opuestos.
 
 A ese panorama llega ahora Robert Pattinson, el primer Bond de la era Amazon. El regreso del agente 007 coincide con un mundo tan inestable como el que lo vio nacer. Para Joe Barton, creador de *Black Doves*, en ese mundo la ficción de espías ofrece al menos la ilusión de entenderlo. «Si hay algo que los seres humanos no soportan de verdad es la incertidumbre», afirma en *The Guardian*.
