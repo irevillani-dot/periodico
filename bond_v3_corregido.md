@@ -2,7 +2,7 @@
 
 **La elección del nuevo 007 coincide con el auge de las series de espías, que reflejan un mundo marcado por la desconfianza política y las nuevas rivalidades geopolíticas. Pero ¿hasta qué punto estas historias han conseguido desprenderse de los esquemas de la Guerra Fría?**
 
-El pasado 16 de noviembre, Amazon MGM Studios anunció que Robert Pattinson heredará el esmoquin y la licencia para matar de James Bond. El actor británico tomará el relevo de Daniel Craig en una película que dirigirá Denis Villeneuve, justo cuando el espionaje ha vuelto a popularizarse en la ficción. «Hay tantos *thrillers* de espías en televisión ahora mismo que uno podría empezar a preguntarse si es la única persona en el mundo que no es un agente secreto», ironiza la BBC.
+El 16 de noviembre, Amazon MGM Studios anunció que Robert Pattinson heredará el esmoquin y la licencia para matar de James Bond. El actor británico tomará el relevo de Daniel Craig en una película que dirigirá Denis Villeneuve, cuando el espionaje ha vuelto a popularizarse. «Hay tantos *thrillers* de espías en televisión ahora mismo que uno podría empezar a preguntarse si es la única persona en el mundo que no es un agente secreto», ironiza la BBC.
 
 *Slow Horses*, *Black Doves*, *The Agency* o *The Day of the Jackal* son algunos de los títulos con los que las plataformas han devuelto a los agentes secretos al centro de la ficción.
 
