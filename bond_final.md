@@ -1,6 +1,6 @@
 # Robert Pattinson será Bond. El cine de espías sigue en la Guerra Fría
 
-**El género vive un auge alimentado por la desconfianza hacia el Estado, mientras los países del antiguo bloque soviético reclaman su propio relato**
+**La desconfianza hacia el Estado impulsa el género, mientras las antiguas repúblicas soviéticas dejan de ser decorado y ruedan sus propias historias**
 
 El pasado 16 de noviembre, Amazon MGM Studios anunció que Robert Pattinson heredará el esmoquin y la licencia para matar de James Bond. El actor británico tomará el relevo de Daniel Craig en una película dirigida por Denis Villeneuve. El agente 007 llega a un terreno muy concurrido. «Hay tantos thrillers de espías en pantalla ahora mismo que uno podría empezar a preguntarse si es la única persona en el mundo que no es un agente secreto», ironiza la BBC.
 
@@ -26,11 +26,9 @@ Aunque los protagonistas se hayan vuelto más complejos, algunas historias sigue
 
 Ambientada en el Moscú de 1977, la serie sigue a dos secretarias de la embajada estadounidense que investigan la muerte de sus maridos, agentes de la CIA. Birger reconoce que «los autores tienen una idea muy vaga de la época, pero eso no es lo peor». Lo grave, a su juicio, es que Ponies «recrea el escenario de las películas de Hollywood de la Guerra Fría, que descansa en una visión imperial del mundo». En ese universo, Estados Unidos y la URSS vuelven a ocupar el centro. Los demás países quedan como territorios bajo su influencia.
 
-La crítica pesa más tras la invasión rusa de Ucrania. Un mundo dividido entre dos adversarios puede funcionar como relato, pero ese relato corre el riesgo de negar autonomía a los países situados entre ambos bloques.
-
 ## Cuando los países pequeños cuentan sus propias historias
 
-La respuesta a ese mapa llega de los países que Hollywood dejaba en segundo plano. Para ellos, el espionaje no es nostalgia de la Guerra Fría, sino el prólogo de la agresión rusa. «La guerra no empieza con el primer disparo», resume el director letón Andrejs Ēķis a la radiotelevisión pública letona. Esos relatos no nacen sólo del mercado. Las dos producciones bálticas más recientes cuentan con dinero público, la película letona Tumšā robeža y la serie estonia Reetur. Para estos Estados, contar su propia versión es también una forma de política cultural.
+La respuesta a ese mapa llega de los países que Hollywood dejaba en segundo plano. Para ellos, el espionaje no es nostalgia de la Guerra Fría, sino el prólogo de la agresión rusa. «La guerra no empieza con el primer disparo», resume el director letón Andrejs Ēķis a la radiotelevisión pública de su país. Esos relatos no nacen sólo del mercado. Las dos producciones bálticas más recientes cuentan con dinero público, la película letona Tumšā robeža y la serie estonia Reetur. Para estos Estados, contar su propia versión es también una forma de política cultural.
 
 Tumšā robeža (La frontera oscura) se estrenó en noviembre. Está ambientada en 1938, cuando Letonia todavía era independiente. Su protagonista es un agente del contraespionaje que se hace pasar por periodista. En el centro no están Washington ni Moscú, sino un Estado pequeño frente a las ambiciones de sus vecinos.
 
@@ -38,4 +36,4 @@ Estonia cuenta su historia desde el enemigo interior: Reetur (El traidor), cuya 
 
 Ucrania, en cambio, la cuenta desde su propia guerra. El productor Oleksandr Schur prepara Someone Else's War, ambientada en la invasión rusa del Donbás de 2014. En ella, tres antiguos compañeros de academia militar acaban en bandos opuestos.
 
-A este panorama llega ahora Robert Pattinson, el primer Bond de la era Amazon. El regreso del agente 007 coincide con un mundo tan inestable como el que lo vio nacer. Para Joe Barton, creador de Black Doves, en ese mundo la ficción de espías ofrece al menos la ilusión de entenderlo. «Si hay algo que los seres humanos no soportan de verdad es la incertidumbre», afirma en The Guardian.
+A este panorama llega ahora Robert Pattinson, el primer Bond de la era Amazon. El agente 007 vuelve a un mundo tan inestable como el que lo vio nacer. «Si hay algo que los seres humanos no soportan de verdad es la incertidumbre», recuerda Joe Barton, creador de Black Doves, en The Guardian. Las historias de espías ofrecen, al menos, la ilusión de despejarla.
