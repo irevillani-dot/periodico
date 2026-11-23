@@ -34,16 +34,14 @@ Ambientada en el Moscú de 1977, la serie sigue a dos secretarias de la embajada
 
 En ese universo, Estados Unidos y la URSS vuelven a ocupar el centro. Los demás países quedan como territorios bajo su influencia.
 
-La crítica pesa más tras la invasión rusa de Ucrania. Un mundo dividido entre dos adversarios puede funcionar como relato, pero ese relato corre el riesgo de negar autonomía a los países situados entre ambos bloques.
-
 ## Cuando los países pequeños cuentan sus propias historias
 
-La respuesta a ese mapa llega de los países que Hollywood dejaba en segundo plano. Para ellos, el espionaje no es nostalgia de la Guerra Fría, sino el prólogo de la agresión rusa. «La guerra no empieza con el primer disparo», resume el director letón Andrejs Ēķis a la radiotelevisión pública letona.
+La respuesta a ese mapa llega de los países que Hollywood dejaba en segundo plano. Para ellos, el espionaje no es nostalgia de la Guerra Fría, sino el prólogo de la agresión rusa. «La guerra no empieza con el primer disparo», resume el director letón Andrejs Ēķis a la radiotelevisión pública de su país. Es también una batalla de relatos con dinero público. El Ministerio de Cultura ruso financia con prioridad las películas que ensalzan a su espionaje exterior, informa el centro de análisis CEPA. Letonia y Estonia sostienen a su vez sus propias ficciones.
 
-Su película *Tumšā robeža* (La frontera oscura) se estrenó en noviembre. Está ambientada en 1938, cuando Letonia todavía era independiente. Su protagonista es un agente del contraespionaje que se hace pasar por periodista. En el centro no están Washington ni Moscú, sino un Estado pequeño frente a las ambiciones de sus vecinos. La crítica Antra Raugule la describe como «una película que se ama y se odia».
+Su película *Tumšā robeža* (La frontera oscura), apoyada por el Centro Nacional de Cine letón, se estrenó en noviembre. Está ambientada en 1938, cuando Letonia todavía era independiente. En el centro no están Washington ni Moscú, sino un Estado pequeño frente a las ambiciones de sus vecinos.
 
-Estonia, desde el enemigo interior. *Reetur* (El traidor), cuya cuarta y última temporada se estrenará en enero, sigue a un estonio que traiciona a su país. Su productor explica que la serie aborda el enfrentamiento entre Rusia y Europa «no solo en términos políticos, sino también de valores y visiones del mundo».
+Estonia cuenta su historia desde el enemigo interior. *Reetur* (El traidor), coproducida por la televisión pública ERR, estrenará en enero su última temporada. La serie sigue a un estonio que traiciona a su país. Su productor explica que aborda el enfrentamiento entre Rusia y Europa «no solo en términos políticos, sino también de valores y visiones del mundo».
 
-Ucrania, desde su propia guerra. El productor Oleksandr Schur prepara *Someone Else's War*, ambientada en la invasión rusa del Donbás de 2014. En ella, tres antiguos compañeros de academia militar acaban en bandos opuestos.
+Ucrania, en cambio, la cuenta desde su propia guerra. El productor Oleksandr Schur prepara *Someone Else's War*, ambientada en la invasión rusa del Donbás de 2014.
 
 A ese panorama llega ahora Robert Pattinson, el primer Bond de la era Amazon. El regreso del agente 007 coincide con un mundo tan inestable como el que lo vio nacer. Para Joe Barton, creador de *Black Doves*, en ese mundo la ficción de espías ofrece al menos la ilusión de entenderlo. «Si hay algo que los seres humanos no soportan de verdad es la incertidumbre», afirma en *The Guardian*.
