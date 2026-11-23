@@ -95,6 +95,8 @@ El revisor de estilo y el redactor jefe repasan esta lista en cada pieza. Cuando
 - **Saltos sin transición entre temas.** Pasar de la noticia del Mundial al dopaje de Sochi sin una frase que explique la relación. Si dos temas van seguidos, el segundo se presenta como un obstáculo o una causa del primero, en el orden en que pesan (primero la exclusión por la guerra, después el dopaje).
 - **Dos citas pegadas sin relación explícita.** Martinsen («energía lo más rápido posible») seguido de Jassy («un acelerador de IA cada 14 segundos»): falta la frase puente que diga qué las une («La urgencia la marcan las propias tecnológicas, que amplían sus centros a toda velocidad»).
 - **Frase-eslogan al principio del párrafo.** «El rechazo no entiende de partidos» tras un párrafo que acaba con una victoria demócrata. Se enlaza con el último hecho del párrafo anterior: «Hinojosa es demócrata, pero el malestar también ha calado entre los votantes republicanos».
+- **Frases que empiezan por «Y» después de punto.** «…dirigida por Denis Villeneuve. Y lo hará con el espionaje de nuevo de moda.» Se une a la frase anterior o se usa un conector (además, también, a la vez): «…que dirigirá Denis Villeneuve, justo cuando el espionaje ha vuelto a popularizarse». La autora lo pide aunque Mario lo use alguna vez.
+- **Expresiones gastadas o coloquiales.** «estar de moda» pasa a «haberse popularizado» o «vivir un auge»; para un anuncio que se puede contar con una imagen, mejor la figura que la fórmula plana («heredará el esmoquin y la licencia para matar de James Bond» en lugar de «será el próximo James Bond»).
 - **Conectores que no unen nada.**
   - «en cambio» sin nada con lo que contrastar;
   - «Por eso» sin una causa delante;
