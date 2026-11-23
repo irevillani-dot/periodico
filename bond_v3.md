@@ -50,4 +50,4 @@ Estonia ofrece otro ejemplo con *Reetur* (El traidor), una serie de espionaje cu
 
 En Ucrania, el productor Oleksandr Shchur desarrolla la serie *Someone Else's War*. La trama se sitúa en la invasión rusa del Donbás de 2014 y en la investigación del derribo del vuelo MH17. Tres antiguos compañeros de academia militar acaban en bandos opuestos de una guerra secreta de espías.
 
-A ese debate llega ahora Robert Pattinson, el primer Bond de la era Amazon. El agente 007 nació en plena Guerra Fría, pero la propia saga intuyó el cambio en *Skyfall*. «Nuestros enemigos ya no nos son conocidos. No existen en un mapa», advertía M, la jefa de Bond, ante una comisión parlamentaria.
+A ese debate llega ahora Robert Pattinson, el primer Bond de la era Amazon. Su regreso coincide con un mundo tan inestable como el que vio nacer al agente 007. Mientras la realidad geopolítica parece cada vez más imprevisible, la ficción ofrece al menos la posibilidad de descubrir la verdad, apuntaba la ABC.
