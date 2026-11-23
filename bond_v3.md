@@ -32,9 +32,9 @@ Aunque los protagonistas se hayan vuelto más complejos, algunas historias sigue
 
 Ambientada en la Moscú de 1977, la serie sigue a dos secretarias de la embajada estadounidense que investigan la muerte de sus maridos, agentes de la CIA. Birger reconoce que «los autores tienen una idea muy vaga de la época, pero eso es lo de menos». Lo grave, a su juicio, es que *Ponies* «recrea el escenario de las películas de Hollywood de la Guerra Fría, que descansa en una visión imperial del mundo».
 
-En ese universo, Estados Unidos y la URSS vuelven a ocupar el centro. Los demás países son territorios bajo su influencia, y sus habitantes, figurantes.
+En ese universo, Estados Unidos y la URSS vuelven a ocupar el centro. Los demás países quedan como territorios bajo su influencia.
 
-La crítica pesa más tras la invasión rusa de Ucrania. Un mundo dividido entre dos adversarios funciona como relato, pero niega autonomía a los países situados entre ambos bloques.
+La crítica pesa más tras la invasión rusa de Ucrania. Un mundo dividido entre dos adversarios puede funcionar como relato, pero corre el riesgo de negar autonomía a los países situados entre ambos bloques.
 
 ## Cuando los países pequeños cuentan sus propias historias
 
