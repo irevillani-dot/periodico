@@ -2,11 +2,11 @@
 
 **La elección del nuevo 007 coincide con el auge de las series de espías, que reflejan un mundo marcado por la desconfianza política y las nuevas rivalidades geopolíticas. Pero ¿hasta qué punto estas historias han conseguido desprenderse de los esquemas de la Guerra Fría?**
 
-El 16 de noviembre, Amazon MGM Studios anunció que Robert Pattinson heredará el esmoquin y la licencia para matar de James Bond. El actor británico tomará el relevo de Daniel Craig en una película que dirigirá Denis Villeneuve, ahora que el espionaje ha vuelto a popularizarse. «Hay tantos *thrillers* de espías en televisión ahora mismo que uno podría empezar a preguntarse si es la única persona en el mundo que no es un agente secreto», ironiza la BBC.
+El 16 de noviembre, Amazon MGM Studios anunció que Robert Pattinson heredará el esmoquin y la licencia para matar de James Bond. El actor británico tomará el relevo de Daniel Craig en una película que dirigirá Denis Villeneuve. El agente 007 llega a un terreno muy concurrido. «Hay tantos *thrillers* de espías en televisión ahora mismo que uno podría empezar a preguntarse si es la única persona en el mundo que no es un agente secreto», ironiza la BBC.
 
-*Slow Horses*, *Black Doves*, *The Agency* o *The Day of the Jackal* son algunos de los títulos con los que las plataformas han devuelto a los agentes secretos al centro de la ficción.
+Las historias de espías proliferan en las plataformas y en el cine, de *Slow Horses* o *The Day of the Jackal* a *Black Bag*. Su éxito va más allá del entretenimiento, porque estas ficciones se parecen cada vez más a la realidad.
 
-A principios del año pasado, el diario británico *The Guardian* ya presentaba el espionaje como un «género imprescindible» para tiempos inciertos. Los expertos consultados por el periódico sostenían que «el éxito de series como *The Night Agent* y *Prime Target* refleja la creciente desconfianza del público hacia el Estado».
+Ya a principios del año pasado, el diario británico *The Guardian* presentaba el espionaje como un «género imprescindible» para tiempos inciertos. Los expertos consultados por el periódico sostenían que «el éxito de series como *The Night Agent* y *Prime Target* refleja la creciente desconfianza del público hacia el Estado».
 
 Algunas de estas historias, sin embargo, siguen viendo el mundo con los ojos de la Guerra Fría, critica el medio ruso independiente *Meduza*.
 
@@ -16,7 +16,7 @@ El espionaje ya ha vivido otras épocas de auge, recuerda el investigador Joseph
 
 El género, además, ha cambiado al ritmo de la política internacional. Ian Fleming hizo de Bond el agente leal a su país. John le Carré introdujo después la ambigüedad moral. Tras el 11-S, *24* y *Homeland* pusieron el foco en el terrorismo.
 
-Ahora, pese a la guerra de Ucrania y la rivalidad entre Estados Unidos y China, ha cambiado también la identidad del enemigo.
+Ahora ha cambiado también la identidad del enemigo.
 
 «El enemigo era casi siempre Rusia o China (…). Pero ahora el enemigo suele estar dentro», explica Melanie Brand, profesora de estudios de inteligencia en la Universidad Macquarie, a la cadena pública australiana ABC.
 
