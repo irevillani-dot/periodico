@@ -4,7 +4,7 @@
 
 «La muerte os espera». Con ese asunto llegó el lunes el mismo correo electrónico a cientos de escuelas de Alemania y Dinamarca. El mensaje avisaba de que había explosivos en el edificio. La policía alemana habló de mensajes «en gran parte idénticos» y descartó un «peligro concreto». Antes de ese envío, la agencia Reuters había contado ya más de 8.000 falsas amenazas en un mes contra colegios, aeropuertos y medios de toda Europa.
 
-Nadie ha podido decir quién envía esas amenazas. Esa dificultad para señalar a un responsable es el rasgo común de la llamada guerra híbrida, explica el digital italiano *Il Post*. El presidente francés, Emmanuel Macron, ha admitido que su país no tiene «elementos suficientes para hacer una atribución», informa la cadena estadounidense CNN.
+Nadie ha podido decir quién envía esas amenazas. Esa dificultad para señalar a un responsable es el rasgo común de la llamada guerra híbrida, explica el digital italiano *Il Post*. El presidente francés, Emmanuel Macron, ha admitido que, en el caso de estos correos, su país no tiene «elementos suficientes para hacer una atribución», informa la cadena estadounidense CNN.
 
 ## Los correos firmados por Male State
 
@@ -14,7 +14,7 @@ Los investigadores no han podido vincular las amenazas con Rusia y saben poco de
 
 ## Las pistas que llevan a Moscú
 
-La misma duda rodea a otro ataque reciente. En octubre, un sabotaje informático estropeó los frigoríficos de 700 supermercados franceses. Francia ha acusado a Irán y la Fiscalía de París investiga a una unidad de los Guardianes de la Revolución, informó la radio pública Franceinfo. En los ataques similares de otros países, al menos un experto ve la mano de Moscú. «¿Estamos seguros de que eran rusos? No. Pero varios indicios apuntan en esa dirección», dijo a *The Guardian* Xavier Bellekens, director ejecutivo de la empresa de ciberseguridad Lupovis.
+Con otro ataque reciente, en cambio, París sí ha señalado a un responsable. En octubre, un sabotaje informático estropeó los frigoríficos de 700 supermercados franceses. El Gobierno ha acusado a Irán y la Fiscalía investiga a una unidad de los Guardianes de la Revolución, informó la radio pública Franceinfo. En los ataques similares de otros países, al menos un experto ve la mano de Moscú. «¿Estamos seguros de que eran rusos? No. Pero varios indicios apuntan en esa dirección», dijo a *The Guardian* Xavier Bellekens, director ejecutivo de la empresa de ciberseguridad Lupovis.
 
 La sospecha sobre Moscú nace de los ataques que sí se le han atribuido y de la distribución de los sabotajes. Polonia, Rumanía y Letonia son los países más afectados por los 54 ataques físicos o intentos vinculados a Moscú entre abril y octubre, recogió el digital *Baltic Sentinel*. Un recuento de dos centros de estudios europeos apunta a que el apoyo a Ucrania es «el factor más importante en la elección de los objetivos». La exembajadora Smith detalla esos métodos en *Foreign Affairs*. «Actores vinculados a Moscú han saboteado vías férreas, han colocado paquetes incendiarios en aviones de carga y han pagado a redes criminales dentro de Europa para quemar depósitos de armas», escribe. La negación plausible, añade, siempre ha sido una parte esencial de estas operaciones.
 
