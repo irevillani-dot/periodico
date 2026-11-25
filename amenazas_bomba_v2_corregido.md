@@ -12,9 +12,9 @@ Las falsas amenazas llegan después de cuatro años de sabotajes y ataques encub
 
 Los investigadores no han podido vincular las amenazas con Rusia y saben poco de los autores. Los mensajes salieron de cuentas de correo robadas. Los correos de noviembre iban firmados con el nombre de Male State, un grupo antifeminista ruso. Su fundador niega cualquier relación.
 
-## Las pistas que llevan a Moscú
-
 Con otro ataque reciente, en cambio, París sí ha señalado a un responsable. En octubre, un sabotaje informático estropeó los frigoríficos de 700 supermercados franceses. El Gobierno ha acusado a Irán y la Fiscalía investiga a una unidad de los Guardianes de la Revolución, informó la radio pública Franceinfo. En los ataques similares de otros países, al menos un experto ve la mano de Moscú. «¿Estamos seguros de que eran rusos? No. Pero varios indicios apuntan en esa dirección», dijo a *The Guardian* Xavier Bellekens, director ejecutivo de la empresa de ciberseguridad Lupovis.
+
+## Las pistas que llevan a Moscú
 
 La sospecha sobre Moscú nace de los ataques que sí se le han atribuido y de la distribución de los sabotajes. Polonia, Rumanía y Letonia son los países más afectados por los 54 ataques físicos o intentos vinculados a Moscú entre abril y octubre, recogió el digital *Baltic Sentinel*. Un recuento de dos centros de estudios europeos apunta a que el apoyo a Ucrania es lo que más pesa en la elección de los objetivos. «Actores vinculados a Moscú han saboteado vías férreas, han colocado paquetes incendiarios en aviones de carga y han pagado a redes criminales dentro de Europa para quemar depósitos de armas», escribe Smith. La negación plausible, añade, siempre ha sido una parte esencial de estas operaciones.
 
