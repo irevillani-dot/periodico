@@ -2,7 +2,7 @@
 
 **Los correos que han vaciado escuelas y desviado vuelos llevan una firma rusa, pero ningún Gobierno ha podido probar quién los envía**
 
-Cientos de escuelas de Alemania y Dinamarca recibieron el lunes el mismo correo electrónico, con el asunto «La muerte os espera» y el aviso de que había explosivos en el edificio. La policía alemana habló de mensajes «en gran parte idénticos» y descartó un «peligro concreto». Antes de ese envío, la agencia Reuters había contado ya más de 8.000 falsas amenazas en un mes contra colegios, aeropuertos y medios de toda Europa.
+«La muerte os espera». Con ese asunto llegó el lunes el mismo correo electrónico a cientos de escuelas de Alemania y Dinamarca. El mensaje avisaba de que había explosivos en el edificio. La policía alemana habló de mensajes «en gran parte idénticos» y descartó un «peligro concreto». Antes de ese envío, la agencia Reuters había contado ya más de 8.000 falsas amenazas en un mes contra colegios, aeropuertos y medios de toda Europa.
 
 Nadie ha podido decir quién las envía. Esa dificultad para señalar a un responsable es el rasgo común de la llamada guerra híbrida, explica el digital italiano *Il Post*. El presidente francés, Emmanuel Macron, ha admitido que su país no tiene «elementos suficientes para hacer una atribución».
 
