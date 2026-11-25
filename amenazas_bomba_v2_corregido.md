@@ -1,6 +1,6 @@
-# Ocho mil amenazas de bomba y ningún culpable: la guerra híbrida que Europa no logra atribuir
+# La guerra sin remitente: miles de falsas amenazas de bomba ponen a prueba a Europa
 
-**Los correos que han vaciado escuelas y desviado vuelos llevan una firma rusa, pero ningún Gobierno ha podido probar quién los envía**
+**Las falsas alertas han vaciado colegios y desviado vuelos en media Europa. Los servicios de inteligencia miran a Moscú, pero nadie ha podido probarlo**
 
 «La muerte os espera». Con ese asunto llegó el lunes el mismo correo electrónico a cientos de escuelas de Alemania y Dinamarca. El mensaje avisaba de que había explosivos en el edificio. La policía alemana habló de mensajes «en gran parte idénticos» y descartó un «peligro concreto». Antes de ese envío, la agencia Reuters había contado ya más de 8.000 falsas amenazas en un mes contra colegios, aeropuertos y medios de toda Europa.
 
