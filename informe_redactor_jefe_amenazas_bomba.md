@@ -46,7 +46,7 @@ Las tres frases largas de la corregida se toleran: dos son citas literales (Smit
 - §11: «Sin embargo, cualquier estrategia…» → «Sin embargo, añade, cualquier estrategia…», y «que a su juicio ha enviado». El juicio sobre Washington se leía como del periódico.
 - §11: «ninguno de estos ataques haya causado una matanza» → «ninguno de los ataques híbridos rusos haya causado una catástrofe humana». Smith no habla de las amenazas de bomba.
 
-## Recortes propuestos (−116 palabras)
+## Recortes propuestos (−123 palabras; el saldo con las inserciones es −71)
 
 - §1 (−11): «habló de mensajes "en gran parte idénticos" y descartó un "peligro concreto"» queda en «no vio indicios de peligro».
 - §3 (−7): «ante unos drones cuyo origen admitió desconocer». Es el primero que repondría.
