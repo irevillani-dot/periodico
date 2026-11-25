@@ -22,7 +22,7 @@ Lo que hace sospechar de Moscú es el método, y también el mapa. La televisió
 
 Moscú puede negar su participación porque rara vez emplea a sus propios agentes. Desde que Europa expulsó a cientos de diplomáticos rusos en 2022, recurre a personas corrientes reclutadas por Telegram a cambio de poco dinero, explica *Il Post*. En los ataques informáticos ocurre lo mismo. La agencia Bloomberg ha investigado a grupos de piratas prorrusos casi aficionados; uno de ellos, según los fiscales estadounidenses, lo creó y lo financia la inteligencia militar rusa. Pese a algunas detenciones, los investigadores no llegan hasta los organizadores, que están a salvo en Rusia. Una portavoz de esos piratas presume de que atraparlos es como «intentar cazar el viento con un cazamariposas».
 
-Los daños materiales importan menos que el efecto. Lo que buscan esos grupos es instaurar «un clima de miedo e incertidumbre» entre la población y de desconfianza hacia las autoridades, explicó a Bloomberg Atle Tangen, jefe de ciberseguridad de la policía noruega.
+Lo que buscan esos grupos, más que causar daños, es instaurar «un clima de miedo e incertidumbre» entre la población y de desconfianza hacia las autoridades, explicó a Bloomberg Atle Tangen, jefe de ciberseguridad de la policía noruega.
 
 ## La OTAN, sin respuesta ante un ataque sin autor
 
