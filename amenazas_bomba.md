@@ -12,7 +12,7 @@ Las falsas amenazas llegan después de cuatro años de sabotajes y ataques encub
 
 Los investigadores no han podido vincular las amenazas con Rusia y saben poco de sus autores. Los mensajes salieron de cuentas de correo robadas. Además, casi todas las escuelas escocesas amenazadas en octubre volvieron a serlo en noviembre, lo que apunta a una misma lista de destinatarios. Los últimos correos iban firmados en nombre de Male State, un grupo antifeminista ruso. Su fundador, Vladislav Pozdniakov, niega cualquier relación, y Reuters no ha podido establecer que detrás de todos los envíos haya un solo grupo.
 
-## Francia acusa a Irán, pero no a Rusia
+## Las pistas que llevan a Moscú
 
 Con otro ataque reciente, Francia sí ha señalado a un culpable. El Gobierno tardó cuatro semanas en acusar a Irán del sabotaje informático que en octubre estropeó los frigoríficos de 700 supermercados. La Fiscalía de París señaló a una unidad de los Guardianes de la Revolución tras hallar rastros en farsi y direcciones iraníes, informó la radio pública Franceinfo.
 
