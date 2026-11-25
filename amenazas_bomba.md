@@ -14,7 +14,7 @@ Los investigadores no han podido vincular las amenazas con Rusia y saben poco de
 
 ## Francia acusa a Irán, pero no a Rusia
 
-Con otro ataque reciente, Francia sí ha señalado a un culpable. El Gobierno tardó cuatro semanas en acusar a Irán del sabotaje informático que en octubre estropeó los frigoríficos de 700 supermercados. La Fiscalía de París señaló a una unidad de los Guardianes de la Revolución tras hallar rastros en farsi y direcciones iraníes, informó la radio pública Franceinfo. Para las amenazas de bomba, en cambio, el ministro del Interior, Laurent Nuñez, solo ha hablado de acciones «concertadas» y de una «injerencia extranjera» posible.
+Con otro ataque reciente, Francia sí ha señalado a un culpable. El Gobierno tardó cuatro semanas en acusar a Irán del sabotaje informático que en octubre estropeó los frigoríficos de 700 supermercados. La Fiscalía de París señaló a una unidad de los Guardianes de la Revolución tras hallar rastros en farsi y direcciones iraníes, informó la radio pública Franceinfo.
 
 Esa acusación tampoco convence a todos. Xavier Bellekens, director de la empresa de ciberseguridad Lupovis, explicó a *The Guardian* que el rastro de los frigoríficos conduce a piratas rusos. «¿Estamos seguros de que eran rusos? No. Pero varios indicios apuntan en esa dirección», resumió. En ese mundo conviven militantes y mercenarios cuyos vínculos con un Estado pueden ser lejanos, advierte en el mismo diario Samuli Bergström, de la empresa finlandesa WithSecure.
 
