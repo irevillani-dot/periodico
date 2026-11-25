@@ -1,0 +1,31 @@
+# Ocho mil amenazas de bomba y ningún culpable: la guerra híbrida que Europa no logra atribuir
+
+**Los correos que han vaciado escuelas y desviado vuelos llevan una firma rusa, pero ningún Gobierno ha podido probar quién los envía**
+
+«La muerte os espera». Con ese asunto llegó el lunes el mismo correo electrónico a cientos de escuelas de Alemania y Dinamarca. El mensaje avisaba de que había explosivos en el edificio. La policía alemana habló de mensajes «en gran parte idénticos» y descartó un «peligro concreto». Antes de ese envío, la agencia Reuters había contado ya más de 8.000 falsas amenazas en un mes contra colegios, aeropuertos y medios de toda Europa.
+
+Nadie ha podido decir quién envía esas amenazas. Esa dificultad para señalar a un responsable es el rasgo común de la llamada guerra híbrida, explica el digital italiano *Il Post*. El presidente francés, Emmanuel Macron, ha admitido que su país no tiene «elementos suficientes para hacer una atribución», informa la cadena estadounidense CNN.
+
+## Los correos firmados por Male State
+
+Las falsas amenazas llegan después de cuatro años de sabotajes y ataques encubiertos en Europa. «No estamos en guerra, pero tampoco estamos ya en paz», resumió en septiembre de 2025 el canciller alemán, Friedrich Merz. Julianne Smith, exembajadora de Estados Unidos ante la OTAN, escribe en *Foreign Affairs* que Rusia ha multiplicado esos ataques desde la invasión de Ucrania y ha diversificado sus tácticas. En las últimas semanas, los correos han alcanzado a escuelas de Escocia e Irlanda del Norte, a más de 50 vuelos y a las redacciones de Dublín. Días después, los avisos llegaron a más de 6.000 colegios italianos.
+
+Los investigadores no han podido vincular las amenazas con Rusia y saben poco de los autores. Los mensajes salieron de cuentas de correo robadas. Además, casi todas las escuelas escocesas amenazadas en octubre volvieron a serlo en noviembre, lo que apunta a una misma lista de destinatarios. Los correos de noviembre iban firmados con el nombre de Male State, un grupo antifeminista ruso. Su fundador niega cualquier relación. Reuters no ha podido establecer que detrás de todos los envíos haya un solo grupo.
+
+## Las pistas que llevan a Moscú
+
+La misma duda rodea a otro ataque reciente. En octubre, un sabotaje informático estropeó los frigoríficos de 700 supermercados franceses. Francia ha acusado a Irán y la Fiscalía de París investiga a una unidad de los Guardianes de la Revolución, informó la radio pública Franceinfo. En los ataques similares de otros países, al menos un experto ve la mano de Moscú. «¿Estamos seguros de que eran rusos? No. Pero varios indicios apuntan en esa dirección», dijo a *The Guardian* Xavier Bellekens, director ejecutivo de la empresa de ciberseguridad Lupovis.
+
+La sospecha sobre Moscú nace de los ataques que sí se le han atribuido y de la distribución de los sabotajes. Polonia, Rumanía y Letonia son los países más afectados por los 54 ataques físicos o intentos vinculados a Moscú entre abril y octubre, recogió el digital *Baltic Sentinel*. Un recuento de dos centros de estudios europeos apunta a que el apoyo a Ucrania es «el factor más importante en la elección de los objetivos». La exembajadora Smith detalla esos métodos en *Foreign Affairs*. «Actores vinculados a Moscú han saboteado vías férreas, han colocado paquetes incendiarios en aviones de carga y han pagado a redes criminales dentro de Europa para quemar depósitos de armas», escribe. La negación plausible, añade, siempre ha sido una parte esencial de estas operaciones.
+
+El Kremlin puede negar su participación porque rara vez emplea a sus propios agentes. Moscú recurre a personas corrientes reclutadas por Telegram a cambio de poco dinero, cuenta *Il Post*. También se sirve de grupos de piratas informáticos a veces aficionados, a los que ha investigado la agencia Bloomberg. Lo que buscan esos grupos es instaurar «un clima de miedo e incertidumbre», dice a la agencia Atle Tangen, jefe de ciberseguridad de la policía noruega.
+
+## La OTAN, sin respuesta ante un ataque sin autor
+
+«Un misil llega con remite; un virus informático, por lo general, no», escribió en 2010 en *Foreign Affairs* William Lynn, entonces número dos del Pentágono. La OTAN se diseñó para defenderse de ataques armados atribuibles y no para imponer costes tras actos cuya autoría se puede negar, señala Smith.
+
+Incluso con un autor identificado, la reacción ha sido escasa. Alemania responsabilizó a Rusia del dron con explosivos hallado en agosto en el aeropuerto de Leipzig. La respuesta de Berlín fue cerrar un consulado y un centro cultural rusos, recuerda el digital *The European Correspondent*. Los dirigentes europeos insisten en la palabra «híbrido» porque «los exime de la responsabilidad de tomar medidas», sostiene en ese medio Keir Giles, experto británico en doctrina militar rusa. «Cabría haber esperado que semejante serie de sucesos produjera una respuesta urgente y colectiva de la OTAN», lamenta Smith. La intensificación gradual de los ataques, a su juicio, ha permitido a Rusia «salirse con la suya en acciones cada vez más peligrosas sin pagar apenas un precio».
+
+Mientras tanto, cada país, y a veces cada colegio, responde por su cuenta. El Gobierno irlandés comunicó a los colegios que no había «necesidad de evacuar», recogió la radiotelevisión pública irlandesa, RTÉ. En Italia y en Dinamarca, unas escuelas desalojaron a los alumnos y otras siguieron con las clases, contaron los medios locales. «Lo peor que puede pasar es que la gente se vuelva indiferente y, peor aún, que las autoridades se vuelvan indiferentes», avisa en la cadena pública danesa DR Yevgueni Golovchenko, politólogo de la Universidad de Copenhague.
+
+Para la exembajadora estadounidense, «no hay duda de que la OTAN necesita dar una respuesta más contundente». Sin embargo, añade, cualquier estrategia nueva debe empezar por el miembro más poderoso de la Alianza, Estados Unidos, que a su juicio ha enviado señales contradictorias. Hasta ahora, concluye, los aliados han tenido la fortuna de que ninguno de los ataques híbridos rusos haya causado una gran pérdida de vidas. «No es difícil imaginar que esa suerte acabe por agotarse», advierte.
