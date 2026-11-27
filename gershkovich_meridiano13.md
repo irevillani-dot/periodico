@@ -4,7 +4,9 @@
 
 Il volto di Evan Gershkovich è noto per la foto ufficiale del suo giornale, il *Wall Street Journal*: capelli castani, camicia azzurra, un lieve sorriso. È l'immagine che il quotidiano ha usato nella campagna per la sua liberazione. Gershkovich è rimasto in mano russa dal marzo 2023 all'agosto 2024, quasi sempre nel carcere moscovita di Lefortovo. Sedici mesi non sembrano molti, ma bastano a lasciare un segno su una carriera e su un volto.
 
-Il 12 novembre, a Barcellona, il cambiamento più evidente erano i capelli. Gershkovich presentava *This Cursed Beautiful Land*, il libro sui suoi anni in Russia, prima da reporter e poi da prigioniero. Vi racconta di essere stato costretto a radersi quando lo trasferirono nel carcere di Ekaterinburg, nelle settimane prima del processo. Fu condannato a sedici anni in un procedimento che lui stesso definisce una farsa, e che serviva a rendere possibile lo scambio di prigionieri tra Russia e Stati Uniti.
+Il 12 novembre, a Barcellona, il cambiamento più evidente erano i capelli. Gershkovich presentava *This Cursed Beautiful Land*, il libro sui suoi anni in Russia, prima da reporter e poi da prigioniero. Vi racconta di essere stato costretto a radersi quando lo trasferirono nel carcere di Ekaterinburg, nelle settimane prima del processo. Da libero ha scelto di tenere la testa rasata, anche per via di una stempiatura che avanza. È un dettaglio minore, ma è il segno più visibile di quello che la prigione russa gli ha lasciato.
+
+Quel processo si chiuse con una condanna a sedici anni. Gershkovich lo definisce una farsa, che serviva a rendere possibile lo scambio di prigionieri tra Russia e Stati Uniti.
 
 A due anni da quello scambio, la Russia è al 172º posto su 180 nella classifica della libertà di stampa di Reporter senza frontiere (RSF), il peggiore da quando esiste l'indice. Un altro corrispondente straniero è in carcere e *Novaja Gazeta*, il più antico giornale indipendente del paese, ha appena chiuso. Raccontare la Russia da dentro è oggi molto più difficile, ha detto Gershkovich a Barcellona. Il paese, ha aggiunto, «sta diventando sempre più una scatola nera».
 
