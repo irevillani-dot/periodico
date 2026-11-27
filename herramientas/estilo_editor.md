@@ -100,7 +100,7 @@ Mario dijo que la versión enviada daba la noticia y añadía poco análisis: le
 - **Cambia la paráfrasis de *Il Post* por una cita**: «delincuentes comunes y ciudadanos sin experiencia previa en labores de espionaje».
 
 ### Forma
-- **Extensión**: publicó 967 palabras de cuerpo. El límite de 900 es para la entrega; él amplía si el análisis lo pide.
+- **Extensión**: publicó unas 1.090 palabras de cuerpo. El límite de 900 es para la entrega; él amplía si el análisis lo pide.
 - **Conectores que usa**: «Y es que», «Por otro lado», «por su parte», «Sin embargo», «Pero» y «Y» a principio de frase. Usa «según recoge» y «según explica» para hechos.
 - **Rayas para el inciso**: «cada país –y, a veces, cada colegio– responde por su cuenta».
 - **Cursiva también para Reuters, Bloomberg, RTÉ, LCI y DR** en esta pieza, y «Nunez» sin tilde.
