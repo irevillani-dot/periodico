@@ -1,4 +1,4 @@
-# Novaja Gazeta chiude e un altro corrispondente finisce a Lefortovo: la Russia è sempre più una «scatola nera»
+# Novaja Gazeta chiude e un altro corrispondente finisce a Lefortovo: la Russia sempre più impenetrabile per i giornalisti stranieri
 
 **Evan Gershkovich, sedici mesi in una prigione russa, presenta il suo libro mentre il paese tocca il punto più basso nella classifica della libertà di stampa**
 
