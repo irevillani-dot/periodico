@@ -72,3 +72,35 @@ Comparación entre lo que se envía y lo que sale en *Página Internacional*. To
 ### Ortotipografía
 - **Cursiva también para *ONU Noticias***, como portal de noticias.
 - **«el pasado domingo»** en lugar de «el domingo pasado».
+
+## Lección de las amenazas de bomba («Cómo paralizar Europa sin colocar una sola bomba», 27 de noviembre de 2026)
+
+Mario dijo que la versión enviada daba la noticia y añadía poco análisis: le sonaba a *déjà vu*. La pieza tiene que seguir vigente a final de semana, cuando la noticia ya ha caducado, porque explica algo. Versión enviada: `amenazas_bomba_v2_corregido.md`. Versión publicada: `amenazas_bomba_publicado.md`.
+
+### La tesis: una explicación, no la noticia
+- **El titular promete un mecanismo** («Cómo paralizar Europa sin colocar una sola bomba»), no cuenta el hecho ni la cifra. El subtítulo es llano y no nombra a Rusia: «Miles de falsas amenazas han alterado la vida cotidiana del continente. Por ahora, nadie ha identificado a los autores».
+- **Las consecuencias se dicen expresamente**, con dos puntos: «las consecuencias son muy reales: miles de alumnos han perdido horas de clase, numerosos pasajeros no han llegado a sus destinos y las fuerzas de seguridad han tenido que movilizarse». Es lo que sostiene el titular y faltaba en el borrador.
+- **Añade un párrafo de análisis propio, sin fuente**, que lleva la tesis un paso más allá de los hechos: «También está en juego la confianza de los ciudadanos en la capacidad de las instituciones para garantizar su seguridad. Y, a medida que se suceden las falsas alarmas, aparece otro peligro: la habituación». La cita (Golovchenko) llega después, como apoyo.
+- **Antes de proponer un tema**, preguntarse qué explicará la pieza el viernes que no esté ya en las crónicas del lunes. Si la respuesta es solo «lo último que ha pasado», falta el ángulo.
+
+### Entrada y cierre
+- **Abre con una persona y una escena**, no con el último envío: Chris Donnelly, director de un colegio de Belfast, y su frase a Reuters («Aunque parezca una falsa alarma, la reacción inicial tiene que ser muy seria»). El hecho más reciente (Alemania y Dinamarca) baja al segundo párrafo.
+- **Cierra volviendo a esa persona**, después de la cita de Smith, con una pregunta: «¿y si esta vez fuera de verdad?». Aquí sí añade una frase tras la cita más fuerte.
+- **Fuera el asunto del correo** («La muerte os espera») y la cifra de 8.000: ni el gancho llamativo ni el dato redondo le sirvieron.
+
+### Ladillos
+- **Cuatro, y de idea, no de actor**: «Ni en guerra ni en paz», «Las pistas que llevan a Moscú», «¿A quién responder?», «Cuando el miedo se convierte en rutina». Admite la pregunta y la fórmula conceptual cuando resumen el argumento del bloque. Matiza la pauta de «pocos ladillos (tres) con los actores nombrados».
+
+### Lo que recupera y lo que quita
+- **Recupera la voz oficial que la autora había quitado**: Laurent Nuñez («Vemos muy claramente la posibilidad de una injerencia extranjera»), junto a Macron, en el mismo párrafo. Las reacciones de gobiernos sí interesan cuando hablan de la autoría.
+- **Recupera la salvedad de Reuters** (no consta que todas procedan del mismo grupo), que se había recortado para llegar a 900.
+- **Añade el desmentido del Kremlin**. Si se cuenta una sospecha sobre un Estado, va su respuesta.
+- **Parafrasea a Smith en vez de citarla largo**: caen «Actores vinculados a Moscú han saboteado…», la negación plausible y «Cabría haber esperado…». Queda su idea central dicha en claro: responder a cada incidente por separado no es disuasión.
+- **Quita nombres secundarios**: Atle Tangen pasa a «el jefe de ciberseguridad de la policía noruega»; desaparecen la CNN como fuente de Macron y Male State.
+- **Cambia la paráfrasis de *Il Post* por una cita**: «delincuentes comunes y ciudadanos sin experiencia previa en labores de espionaje».
+
+### Forma
+- **Extensión**: publicó 967 palabras de cuerpo. El límite de 900 es para la entrega; él amplía si el análisis lo pide.
+- **Conectores que usa**: «Y es que», «Por otro lado», «por su parte», «Sin embargo», «Pero» y «Y» a principio de frase. Usa «según recoge» y «según explica» para hechos.
+- **Rayas para el inciso**: «cada país –y, a veces, cada colegio– responde por su cuenta».
+- **Cursiva también para Reuters, Bloomberg, RTÉ, LCI y DR** en esta pieza, y «Nunez» sin tilde.
